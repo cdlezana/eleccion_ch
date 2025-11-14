@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mapa Chaco - Votaciones</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <style>
+        #map { height: 90vh; width: 100%; }
+        .legend { 
+            background: white; 
+            padding: 10px; 
+            border-radius: 5px;
+            line-height: 18px;
+            font-size: 14px;
+        }
+        .legend i {
+            width: 14px;
+            height: 14px;
+            float: left;
+            margin-right: 8px;
+            opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+    <h2>Chaco - Municipios y Fuerza Dominante</h2>
+    <div id="map"></div>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/papaparse@5.4.1/papaparse.min.js"></script>
+
+    <script>
+        // Crear mapa centrado en Chaco
+        var map = L.map('map').setView([-27.5, -60.7], 7);
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors'
+        }).addTo(map);
+
+        // Colores por fuerza política (ampliada)
+        function colorFuerza(fuerza) {
+            const colores = {
+                'FUERZA PATRIA': '#0044ff',
+                'LA LIBERTAD AVANZA': '#ff0000',
+                'FRENTE INTEGRADOR': '#008000',
+                'UNIR': '#ffa500',
+                'NEPAR': '#8a2be2',
+                'PROYECTO SUR': '#228b22',
+                'PARTIDO DEL OBRERO': '#cc0000',
+                'VAMOS CHACO': '#1e90ff',
+                'PARTIDO DIGNIDAD POPULAR': '#a0522d',
+                'PARTIDO POLO SOCIAL MOVIMEN': '#ff69b4',
+                'VOTOS EN BLANCO': '#999999',
+                'VOTOS NULOS': '#666666',
+                'VOTOS IMPUGNADOS': '#444444',
+                'VOTOS RECURRIDOS': '#222222'
+            };
+
+            return colores[fuerza] || 'gray';
+        }
+
+        // Cargar CSV
+        Papa.parse("municipios_chaco.csv", {
+            download: true,
+            header: true,
+            dynamicTyping: true,
+            complete: function(results) {
+
+                console.log("CSV cargado:", results.data);
+
+                results.data.forEach(function(m) {
+
+                    if (!m.lat || !m.lon) return; // evita filas vacías
+
+                    L.circleMarker([m.lat, m.lon], {
+                        radius: 7,
+                        fillColor: colorFuerza(m.fuerza_senador),
+                        color: '#000',
+                        weight: 1,
+                        opacity: 1,
+                        fillOpacity: 0.85
+                    }).addTo(map)
+                    .bindPopup(
+                        `<b>${m.municipio}</b><br>
+                         <b>Senador:</b> ${m.fuerza_senador}<br>
+                         <b>Diputado:</b> ${m.fuerza_diputado}`
+                    );
+                });
+            }
+        });
+
+        // Agregar leyenda al mapa
+        var legend = L.control({position: 'bottomright'});
+
+        legend.onAdd = function (map) {
+            var div = L.DomUtil.create('div', 'legend');
+            var fuerzas = [
+                'FUERZA PATRIA',
+                'LA LIBERTAD AVANZA',
+                'FRENTE INTEGRADOR',
+                'UNIR',
+                'NEPAR',
+                'PROYECTO SUR',
+                'PARTIDO DEL OBRERO'
+            ];
+
+            fuerzas.forEach(function(f) {
+                div.innerHTML +=
+                    `<i style="background:${colorFuerza(f)}"></i> ${f}<br>`;
+            });
+
+            return div;
+        };
+
+        legend.addTo(map);
+
+    </script>
+</body>
+</html>

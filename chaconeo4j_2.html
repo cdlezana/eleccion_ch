@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Dashboard Electoral Chaco — V1</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <style>
+    html,body { height:100%; margin:0; font-family: Arial, Helvetica, sans-serif; }
+    #app { display:flex; height:100vh; }
+    #mapwrap { flex: 1 1 70%; position:relative; }
+    #map { height:100%; width:100%; }
+    #sidebar { width: 360px; min-width: 300px; max-width: 420px; background:#fff; border-left:1px solid #ddd; padding:12px; box-sizing:border-box; overflow:auto; }
+    h2 { margin:6px 0 12px 0; font-size:18px; }
+    .control-row { display:flex; gap:8px; align-items:center; margin-bottom:8px; }
+    .control-row select, .control-row input[type="text"], .control-row input[type="range"] { flex:1; padding:6px; font-size:14px; }
+    .small { font-size:12px; color:#666; }
+    .legend { background:white; padding:8px; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.15); position:absolute; right:12px; bottom:12px; z-index:1000; }
+    .legend .item { display:flex; align-items:center; gap:8px; margin-bottom:6px; }
+    .dot { width:14px; height:14px; border-radius:50%; display:inline-block; }
+    .panel-section { margin-top:12px; padding-top:8px; border-top:1px solid #eee; }
+    #infoTitle { font-weight:700; margin-bottom:6px; }
+    #topList { list-style:none; padding:0; margin:0; }
+    #topList li { margin:4px 0; }
+    button { padding:8px 10px; font-size:14px; cursor:pointer; }
+    .muted { color:#666; font-size:13px; }
+  </style>
+</head>
+<body>
+  <div id="app">
+    <div id="mapwrap">
+      <div id="map"></div>
+      <div class="legend" id="legend"></div>
+    </div>
+
+    <div id="sidebar">
+      <h2>Dashboard Electoral — Chaco</h2>
+
+      <div class="control-row">
+        <label style="width:80px;">Cargo:</label>
+        <select id="cargoSelect">
+          <option value="senador" selected>Senador</option>
+          <option value="diputado">Diputado</option>
+        </select>
+      </div>
+
+      <div class="control-row">
+        <label style="width:80px;">Buscar:</label>
+        <input id="searchInput" type="text" placeholder="Escribe municipio..." />
+      </div>
+
+      <div class="control-row">
+        <label style="width:80px;">Filtro:</label>
+        <select id="filtroFuerza">
+          <option value="__ALL__">Todas las fuerzas</option>
+        </select>
+      </div>
+
+      <div class="control-row">
+        <label style="width:120px;">Mostrar vecinos</label>
+        <input id="toggleVecinos" type="checkbox"/>
+      </div>
+
+      <div class="control-row">
+        <label style="width:120px;">Radio vecinos (km)</label>
+        <input id="radioVecinos" type="range" min="1" max="100" value="30"/>
+        <span id="radioVal" class="small" style="width:40px;text-align:right">30</span>
+      </div>
+
+      <div class="panel-section">
+        <div id="infoTitle">Haz click en un municipio</div>
+        <div id="infoContent">
+          <div id="infoCoords" class="muted">Lat / Lon</div>
+          <div id="infoFuerza" style="margin-top:8px;"></div>
+          <div id="infoVotos" style="margin-top:8px;"></div>
+        </div>
+
+        <div style="margin-top:12px;">
+          <canvas id="chartTop" width="300" height="180"></canvas>
+        </div>
+
+        <div style="margin-top:10px;">
+          <strong>Top Fuerzas (provincia)</strong>
+          <ul id="provTop" class="muted"></ul>
+        </div>
+      </div>
+
+      <div class="panel-section">
+        <strong>Instrucciones</strong>
+        <p class="small">Seleccioná el cargo (senador/diputado), buscá un municipio o clickealo en el mapa. Activá "Mostrar vecinos" para ver la red calculada en cliente (Haversine).</p>
+      </div>
+
+      <div style="margin-top:12px;">
+        <button id="resetView">Reset vista</button>
+      </div>
+
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/papaparse@5.4.1/papaparse.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  <script>
+  // ---------- CONFIG ----------
+  const CSV_FILE = "municipios_chaco.csv"; // debe estar en la misma carpeta que este HTML
+  // palette (extensible)
+  const palette = {
+    'FUERZA PATRIA': '#0044ff',
+    'LA LIBERTAD AVANZA': '#ff0000',
+    'FRENTE INTEGRADOR': '#008000',
+    'UNIR': '#ffa500',
+    'NEPAR': '#8a2be2',
+    'PROYECTO SUR': '#228b22',
+    'PARTIDO DEL OBRERO': '#cc0000',
+    'VAMOS CHACO': '#1e90ff',
+    'PARTIDO DIGNIDAD POPULAR': '#a0522d',
+    'PARTIDO POLO SOCIAL MOVIMEN': '#ff69b4',
+    'VOTOS EN BLANCO': '#999999',
+    'VOTOS NULOS': '#666666',
+    'VOTOS IMPUGNADOS': '#444444',
+    'VOTOS RECURRIDOS': '#222222'
+  };
+
+  // ---------- UTIL ----------
+  function haversineKm(aLat,aLon,bLat,bLon) {
+    const R = 6371.0; // km
+    const toRad = v => v * Math.PI/180;
+    const dLat = toRad(bLat - aLat);
+    const dLon = toRad(bLon - aLon);
+    const la = toRad(aLat), lb = toRad(bLat);
+    const sinDLat = Math.sin(dLat/2);
+    const sinDLon = Math.sin(dLon/2);
+    const x = sinDLat*sinDLat + Math.cos(la)*Math.cos(lb)*sinDLon*sinDLon;
+    return 2*R*Math.asin(Math.sqrt(x));
+  }
+
+  // ---------- MAP ----------
+  const map = L.map('map').setView([-27.5, -60.7], 7);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: '© OpenStreetMap contributors' }).addTo(map);
+
+  // layers
+  const markersLayer = L.layerGroup().addTo(map);
+  const edgesLayer = L.layerGroup().addTo(map);
+
+  // state
+  let municipios = []; // array of rows from CSV
+  let markers = {};    // municipioName -> marker
+  let cargo = 'senador';
+  let chartProv = null;
+  let chartLocal = null;
+
+  const cargoSelect = document.getElementById('cargoSelect');
+  const filtroFuerza = document.getElementById('filtroFuerza');
+  const searchInput = document.getElementById('searchInput');
+  const toggleVecinos = document.getElementById('toggleVecinos');
+  const radioVecinos = document.getElementById('radioVecinos');
+  const radioVal = document.getElementById('radioVal');
+  const infoTitle = document.getElementById('infoTitle');
+  const infoCoords = document.getElementById('infoCoords');
+  const infoFuerza = document.getElementById('infoFuerza');
+  const infoVotos = document.getElementById('infoVotos');
+  const provTop = document.getElementById('provTop');
+  const resetViewBtn = document.getElementById('resetView');
+  const legendDiv = document.getElementById('legend');
+
+  radioVal.innerText = radioVecinos.value;
+
+  // ---------- LOAD CSV ----------
+  Papa.parse(CSV_FILE, {
+    download: true,
+    header: true,
+    dynamicTyping: true,
+    skipEmptyLines: true,
+    complete: function(results) {
+      municipios = results.data.filter(r => r.municipio && r.lat && r.lon);
+      // ensure lat/lon numeric:
+      municipios.forEach(r => { r.lat = parseFloat(r.lat); r.lon = parseFloat(r.lon); });
+      buildUI();
+      renderMarkers();
+      buildLegend();
+      buildProvTop();
+      console.log('Municipios cargados:', municipios.length);
+    },
+    error: function(err){ console.error('Error leyendo CSV', err); alert('Error leyendo CSV: ' + err.message); }
+  });
+
+  // ---------- UI helpers ----------
+  function buildLegend() {
+    const keys = Object.keys(palette);
+    legendDiv.innerHTML = '<strong style="display:block;margin-bottom:6px">Leyenda (colores)</strong>';
+    keys.slice(0,8).forEach(k => {
+      const row = document.createElement('div'); row.className='item';
+      const dot = document.createElement('span'); dot.className='dot'; dot.style.background = palette[k];
+      row.appendChild(dot);
+      const txt = document.createElement('span'); txt.innerText = k;
+      row.appendChild(txt);
+      legendDiv.appendChild(row);
+    });
+  }
+
+  function buildUI(){
+    // populate filtroFuerza options from data
+    const fuerzas = Array.from(new Set(municipios.map(m => m.fuerza_senador).filter(Boolean))).sort();
+    filtroFuerza.innerHTML = '<option value="__ALL__">Todas las fuerzas</option>';
+    fuerzas.forEach(f => {
+      const o = document.createElement('option'); o.value = f; o.text = f;
+      filtroFuerza.appendChild(o);
+    });
+    // event handlers
+    cargoSelect.addEventListener('change', e => { cargo = e.target.value; refreshMarkers(); buildProvTop(); clearSelection(); });
+    filtroFuerza.addEventListener('change', refreshMarkers);
+    searchInput.addEventListener('keyup', e => { if(e.key === 'Enter') doSearch(); });
+    toggleVecinos.addEventListener('change', e => { drawEdges(); });
+    radioVecinos.addEventListener('input', e => { radioVal.innerText = e.target.value; if(toggleVecinos.checked) drawEdges(); });
+    resetViewBtn.addEventListener('click', () => map.setView([-27.5, -60.7], 7));
+  }
+
+  function colorFor(m) {
+    const f = (cargo === 'senador') ? m.fuerza_senador : m.fuerza_diputado;
+    return palette[f] || '#888';
+  }
+
+  // ---------- MARKERS ----------
+  function renderMarkers(){
+    markersLayer.clearLayers();
+    markers = {};
+    municipios.forEach(m => {
+      const marker = L.circleMarker([m.lat, m.lon], {
+        radius: 6,
+        fillColor: colorFor(m),
+        color: '#000',
+        weight: 0.8,
+        fillOpacity: 0.9
+      }).addTo(markersLayer);
+
+      marker.on('click', () => selectMunicipio(m));
+      marker.bindTooltip(m.municipio, {permanent:false, direction:'top', offset:[0,-8]});
+      markers[m.municipio] = marker;
+    });
+  }
+
+  function refreshMarkers(){
+    // update colors and filter by fuerza selection
+    const filtro = filtroFuerza.value;
+    municipios.forEach(m => {
+      const mk = markers[m.municipio];
+      if(!mk) return;
+      const show = (filtro === '__ALL__') ? true : ( ( (cargo==='senador') ? m.fuerza_senador : m.fuerza_diputado) === filtro );
+      if(show) {
+        mk.setStyle({ fillColor: colorFor(m), opacity:1, fillOpacity:0.9, radius:6 }).addTo(markersLayer);
+      } else {
+        markersLayer.removeLayer(mk);
+      }
+    });
+    if(toggleVecinos.checked) drawEdges();
+  }
+
+  function clearSelection() {
+    infoTitle.innerText = 'Haz click en un municipio';
+    infoCoords.innerText = '';
+    infoFuerza.innerText = '';
+    infoVotos.innerText = '';
+    if(chartLocal) { chartLocal.destroy(); chartLocal = null; }
+    edgesLayer.clearLayers();
+  }
+
+  // ---------- SELECT & DETAILS ----------
+  function selectMunicipio(m) {
+    map.setView([m.lat,m.lon], 11, {animate:true});
+    infoTitle.innerText = m.municipio;
+    infoCoords.innerText = `Lat: ${m.lat.toFixed(6)}  Lon: ${m.lon.toFixed(6)}`;
+    const f = (cargo==='senador') ? m.fuerza_senador : m.fuerza_diputado;
+    infoFuerza.innerHTML = `<strong>${cargo.toUpperCase()}</strong>: ${f}`;
+    // build top list for that municipio: take all parties and their votes for cargo if present
+    const perMun = [];
+    // try to build from CSV: assume there might be extra columns with votes per party (if not, we just show winner)
+    // We'll attempt to gather all forces present in dataset and show example: winner + province top
+    infoVotos.innerHTML = `<div class="small">(Mostrar top provincial y ganador local)</div>`;
+    // build local chart: show winner and province top 4
+    buildLocalChart(m);
+    // draw edges from selected
+    if(toggleVecinos.checked) drawEdges(m);
+  }
+
+  // ---------- PROVINCIAL TOP ----------
+  function buildProvTop() {
+    // aggregate total by force for selected cargo
+    const totals = {};
+    municipios.forEach(m=>{
+      const key = (cargo==='senador') ? m.fuerza_senador : m.fuerza_diputado;
+      if(!key) return;
+      totals[key] = (totals[key]||0) + 1; // count of municipalities where appears as dominant
+    });
+    const arr = Object.entries(totals).map(([k,v])=>({k,v})).sort((a,b)=>b.v-a.v);
+    provTop.innerHTML = '';
+    arr.slice(0,8).forEach(x => {
+      const li = document.createElement('li');
+      li.innerText = `${x.k}: ${x.v} municipios`;
+      li.style.color = palette[x.k] || '#000';
+      provTop.appendChild(li);
+    });
+
+    // small bar chart for province top
+    const labels = arr.slice(0,6).map(x=>x.k);
+    const data = arr.slice(0,6).map(x=>x.v);
+    if(chartProv) chartProv.destroy();
+    const ctx = document.getElementById('chartTop').getContext('2d');
+    chartProv = new Chart(ctx, {
+      type: 'bar',
+      data: { labels, datasets: [{ label: 'Municipios dominados', data, backgroundColor: labels.map(l=>palette[l]||'#888') }] },
+      options: { responsive:true, maintainAspectRatio:true, plugins:{ legend:{ display:false } } }
+    });
+  }
+
+  // ---------- LOCAL chart (top parties placeholder) ----------
+  function buildLocalChart(m) {
+    // We'll create a small chart that shows winner vs placeholders:
+    const labels = [];
+    const data = [];
+    const winner = (cargo==='senador') ? m.fuerza_senador : m.fuerza_diputado;
+    labels.push(winner || 'Sin dato'); data.push(1);
+    // add three generic values from province top to compare
+    const prov = Array.from(new Set(municipios.map(x => (cargo==='senador')?x.fuerza_senador:x.fuerza_diputado))).slice(0,4);
+    prov.forEach(p => { if(p!==winner){ labels.push(p); data.push(0.4); }});
+    if(chartLocal) chartLocal.destroy();
+    const c = document.getElementById('chartTop').getContext('2d');
+    chartLocal = new Chart(c, {
+      type: 'horizontalBar' in Chart ? 'bar' : 'bar',
+      data: { labels, datasets:[{ label:'Comparación', data, backgroundColor: labels.map(l=>palette[l]||'#888') }] },
+      options: { indexAxis:'y', responsive:true, maintainAspectRatio:true, plugins:{ legend:{ display:false } } }
+    });
+  }
+
+  // ---------- EDGES (vecinos calculados en cliente) ----------
+  function drawEdges(selected=null) {
+    edgesLayer.clearLayers();
+    if(!toggleVecinos.checked) return;
+    const radiusKm = parseFloat(radioVecinos.value);
+    // If a specific municipality selected, draw its edges only; otherwise draw all pairs (might be heavy)
+    if(selected) {
+      municipios.forEach(o => {
+        if(o.municipio === selected.municipio) return;
+        const d = haversineKm(selected.lat, selected.lon, o.lat, o.lon);
+        if(d <= radiusKm) {
+          const line = L.polyline([[selected.lat, selected.lon],[o.lat,o.lon]], { color:'#666', weight:1, opacity:0.6 }).addTo(edgesLayer);
+        }
+      });
+    } else {
+      // draw edges for all points but limited: for each node connect to neighbors within radius, but avoid duplicates using index
+      for(let i=0;i<municipios.length;i++){
+        for(let j=i+1;j<municipios.length;j++){
+          const a = municipios[i], b = municipios[j];
+          const d = haversineKm(a.lat,a.lon,b.lat,b.lon);
+          if(d <= radiusKm) {
+            L.polyline([[a.lat,a.lon],[b.lat,b.lon]], { color:'#c0c0c0', weight:1, opacity:0.4 }).addTo(edgesLayer);
+          }
+        }
+      }
+    }
+  }
+
+  // ---------- Search ----------
+  function doSearch(){
+    const q = searchInput.value.trim().toLowerCase();
+    if(!q) return;
+    const found = municipios.find(m => m.municipio.toLowerCase().includes(q));
+    if(found){ selectMunicipio(found); }
+    else { alert('No se encontró municipio con ese texto'); }
+  }
+
+  // ---------- Misc ----------
+  // When map clicked outside, clear selection
+  map.on('click', e => { /*clearSelection();*/ });
+
+  // Fit markers bounds once loaded
+  function fitBoundsToMarkers() {
+    const latlngs = municipios.map(m => [m.lat,m.lon]);
+    if(latlngs.length>0) map.fitBounds(latlngs, {padding:[30,30]});
+  }
+
+  // When window resizes, ensure chart redraw
+  window.addEventListener('resize', () => { if(chartProv) chartProv.update(); if(chartLocal) chartLocal.update(); });
+
+  // Wait a bit then fit
+  setTimeout(()=>{ fitBoundsToMarkers(); }, 600);
+
+  </script>
+</body>
+</html>
