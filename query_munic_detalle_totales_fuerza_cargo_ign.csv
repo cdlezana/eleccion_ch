@@ -1,1066 +1,1066 @@
-"t_muni_codigo","municipio","fuerza_politica","votos_senador","votos_diputado","votos_total"
-"0210","Avia Terai","FRENTE INTEGRADOR","24","26","50"
-"0210","Avia Terai","FUERZA PATRIA","2658","2535","5193"
-"0210","Avia Terai","LA LIBERTAD AVANZA","1289","1220","2509"
-"0210","Avia Terai","NEPAR","22","25","47"
-"0210","Avia Terai","PARTIDO DEL OBRERO","28","23","51"
-"0210","Avia Terai","PARTIDO DIGNIDAD POPULAR","18","13","31"
-"0210","Avia Terai","PARTIDO POLO SOCIAL MOVIMEN","6","7","13"
-"0210","Avia Terai","PROYECTO SUR","29","22","51"
-"0210","Avia Terai","TOTALES","4251","4251","8502"
-"0210","Avia Terai","UNIR","11","14","25"
-"0210","Avia Terai","VAMOS CHACO","44","46","90"
-"0210","Avia Terai","VOTOS EN BLANCO","68","271","339"
-"0210","Avia Terai","VOTOS IMPUGNADOS","0","0","0"
-"0210","Avia Terai","VOTOS NULOS","52","47","99"
-"0210","Avia Terai","VOTOS RECURRIDOS","2","2","4"
-"0385","Barranqueras","FRENTE INTEGRADOR","605","1117","1722"
-"0385","Barranqueras","FUERZA PATRIA","13976","11889","25865"
-"0385","Barranqueras","LA LIBERTAD AVANZA","17729","16232","33961"
-"0385","Barranqueras","NEPAR","227","237","464"
-"0385","Barranqueras","PARTIDO DEL OBRERO","726","589","1315"
-"0385","Barranqueras","PARTIDO DIGNIDAD POPULAR","267","216","483"
-"0385","Barranqueras","PARTIDO POLO SOCIAL MOVIMEN","86","112","198"
-"0385","Barranqueras","PROYECTO SUR","259","345","604"
-"0385","Barranqueras","TOTALES","36358","36358","72716"
-"0385","Barranqueras","UNIR","244","277","521"
-"0385","Barranqueras","VAMOS CHACO","820","982","1802"
-"0385","Barranqueras","VOTOS EN BLANCO","701","3744","4445"
-"0385","Barranqueras","VOTOS IMPUGNADOS","1","1","2"
-"0385","Barranqueras","VOTOS NULOS","664","564","1228"
-"0385","Barranqueras","VOTOS RECURRIDOS","53","53","106"
-"0392","Basail","FRENTE INTEGRADOR","39","43","82"
-"0392","Basail","FUERZA PATRIA","1265","1161","2426"
-"0392","Basail","LA LIBERTAD AVANZA","1466","1358","2824"
-"0392","Basail","NEPAR","15","10","25"
-"0392","Basail","PARTIDO DEL OBRERO","39","29","68"
-"0392","Basail","PARTIDO DIGNIDAD POPULAR","16","16","32"
-"0392","Basail","PARTIDO POLO SOCIAL MOVIMEN","7","5","12"
-"0392","Basail","PROYECTO SUR","21","24","45"
-"0392","Basail","TOTALES","3087","3087","6174"
-"0392","Basail","UNIR","24","24","48"
-"0392","Basail","VAMOS CHACO","57","64","121"
-"0392","Basail","VOTOS EN BLANCO","94","325","419"
-"0392","Basail","VOTOS IMPUGNADOS","0","0","0"
-"0392","Basail","VOTOS NULOS","42","26","68"
-"0392","Basail","VOTOS RECURRIDOS","2","2","4"
-"0217","Campo Largo","FRENTE INTEGRADOR","51","53","104"
-"0217","Campo Largo","FUERZA PATRIA","2546","2305","4851"
-"0217","Campo Largo","LA LIBERTAD AVANZA","2409","2242","4651"
-"0217","Campo Largo","NEPAR","30","28","58"
-"0217","Campo Largo","PARTIDO DEL OBRERO","48","37","85"
-"0217","Campo Largo","PARTIDO DIGNIDAD POPULAR","33","42","75"
-"0217","Campo Largo","PARTIDO POLO SOCIAL MOVIMEN","12","14","26"
-"0217","Campo Largo","PROYECTO SUR","35","21","56"
-"0217","Campo Largo","TOTALES","5474","5474","10948"
-"0217","Campo Largo","UNIR","24","29","53"
-"0217","Campo Largo","VAMOS CHACO","89","92","181"
-"0217","Campo Largo","VOTOS EN BLANCO","114","531","645"
-"0217","Campo Largo","VOTOS IMPUGNADOS","3","3","6"
-"0217","Campo Largo","VOTOS NULOS","73","70","143"
-"0217","Campo Largo","VOTOS RECURRIDOS","7","7","14"
-"0434","Capitán Solari","FRENTE INTEGRADOR","16","18","34"
-"0434","Capitán Solari","FUERZA PATRIA","965","946","1911"
-"0434","Capitán Solari","LA LIBERTAD AVANZA","434","378","812"
-"0434","Capitán Solari","NEPAR","9","3","12"
-"0434","Capitán Solari","PARTIDO DEL OBRERO","9","5","14"
-"0434","Capitán Solari","PARTIDO DIGNIDAD POPULAR","10","13","23"
-"0434","Capitán Solari","PARTIDO POLO SOCIAL MOVIMEN","6","5","11"
-"0434","Capitán Solari","PROYECTO SUR","5","7","12"
-"0434","Capitán Solari","TOTALES","1668","1668","3336"
-"0434","Capitán Solari","UNIR","9","9","18"
-"0434","Capitán Solari","VAMOS CHACO","128","195","323"
-"0434","Capitán Solari","VOTOS EN BLANCO","56","72","128"
-"0434","Capitán Solari","VOTOS IMPUGNADOS","0","0","0"
-"0434","Capitán Solari","VOTOS NULOS","20","16","36"
-"0434","Capitán Solari","VOTOS RECURRIDOS","1","1","2"
-"0469","Charadai","FRENTE INTEGRADOR","116","164","280"
-"0469","Charadai","FUERZA PATRIA","7147","6433","13580"
-"0469","Charadai","LA LIBERTAD AVANZA","10239","9090","19329"
-"0469","Charadai","NEPAR","91","108","199"
-"0469","Charadai","PARTIDO DEL OBRERO","169","146","315"
-"0469","Charadai","PARTIDO DIGNIDAD POPULAR","87","98","185"
-"0469","Charadai","PARTIDO POLO SOCIAL MOVIMEN","32","39","71"
-"0469","Charadai","PROYECTO SUR","86","72","158"
-"0469","Charadai","TOTALES","18965","18965","37930"
-"0469","Charadai","UNIR","75","91","166"
-"0469","Charadai","VAMOS CHACO","243","281","524"
-"0469","Charadai","VOTOS EN BLANCO","360","2193","2553"
-"0469","Charadai","VOTOS IMPUGNADOS","0","0","0"
-"0469","Charadai","VOTOS NULOS","311","241","552"
-"0469","Charadai","VOTOS RECURRIDOS","9","9","18"
-"0084","Charata","FRENTE INTEGRADOR","4","4","8"
-"0084","Charata","FUERZA PATRIA","174","151","325"
-"0084","Charata","LA LIBERTAD AVANZA","120","113","233"
-"0084","Charata","NEPAR","1","2","3"
-"0084","Charata","PARTIDO DEL OBRERO","3","1","4"
-"0084","Charata","PARTIDO DIGNIDAD POPULAR","2","2","4"
-"0084","Charata","PARTIDO POLO SOCIAL MOVIMEN","1","1","2"
-"0084","Charata","PROYECTO SUR","2","2","4"
-"0084","Charata","TOTALES","339","339","678"
-"0084","Charata","UNIR","1","1","2"
-"0084","Charata","VAMOS CHACO","10","7","17"
-"0084","Charata","VOTOS EN BLANCO","15","47","62"
-"0084","Charata","VOTOS IMPUGNADOS","0","0","0"
-"0084","Charata","VOTOS NULOS","6","8","14"
-"0084","Charata","VOTOS RECURRIDOS","0","0","0"
-"0119","Chorotis","FRENTE INTEGRADOR","4","3","7"
-"0119","Chorotis","FUERZA PATRIA","352","341","693"
-"0119","Chorotis","LA LIBERTAD AVANZA","433","410","843"
-"0119","Chorotis","NEPAR","5","5","10"
-"0119","Chorotis","PARTIDO DEL OBRERO","9","7","16"
-"0119","Chorotis","PARTIDO DIGNIDAD POPULAR","1","1","2"
-"0119","Chorotis","PARTIDO POLO SOCIAL MOVIMEN","2","0","2"
-"0119","Chorotis","PROYECTO SUR","3","4","7"
-"0119","Chorotis","TOTALES","867","867","1734"
-"0119","Chorotis","UNIR","5","5","10"
-"0119","Chorotis","VAMOS CHACO","22","17","39"
-"0119","Chorotis","VOTOS EN BLANCO","19","63","82"
-"0119","Chorotis","VOTOS IMPUGNADOS","0","0","0"
-"0119","Chorotis","VOTOS NULOS","11","10","21"
-"0119","Chorotis","VOTOS RECURRIDOS","1","1","2"
-"0252","Ciervo Petiso","FRENTE INTEGRADOR","4","2","6"
-"0252","Ciervo Petiso","FUERZA PATRIA","544","533","1077"
-"0252","Ciervo Petiso","LA LIBERTAD AVANZA","273","256","529"
-"0252","Ciervo Petiso","NEPAR","8","7","15"
-"0252","Ciervo Petiso","PARTIDO DEL OBRERO","3","2","5"
-"0252","Ciervo Petiso","PARTIDO DIGNIDAD POPULAR","3","4","7"
-"0252","Ciervo Petiso","PARTIDO POLO SOCIAL MOVIMEN","0","0","0"
-"0252","Ciervo Petiso","PROYECTO SUR","1","0","1"
-"0252","Ciervo Petiso","TOTALES","911","911","1822"
-"0252","Ciervo Petiso","UNIR","2","1","3"
-"0252","Ciervo Petiso","VAMOS CHACO","55","68","123"
-"0252","Ciervo Petiso","VOTOS EN BLANCO","7","27","34"
-"0252","Ciervo Petiso","VOTOS IMPUGNADOS","0","0","0"
-"0252","Ciervo Petiso","VOTOS NULOS","11","11","22"
-"0252","Ciervo Petiso","VOTOS RECURRIDOS","0","0","0"
-"0473","Colonia Aborigen","FRENTE INTEGRADOR","6","8","14"
-"0473","Colonia Aborigen","FUERZA PATRIA","2067","1893","3960"
-"0473","Colonia Aborigen","LA LIBERTAD AVANZA","683","619","1302"
-"0473","Colonia Aborigen","NEPAR","11","6","17"
-"0473","Colonia Aborigen","PARTIDO DEL OBRERO","9","3","12"
-"0473","Colonia Aborigen","PARTIDO DIGNIDAD POPULAR","9","8","17"
-"0473","Colonia Aborigen","PARTIDO POLO SOCIAL MOVIMEN","3","3","6"
-"0473","Colonia Aborigen","PROYECTO SUR","12","10","22"
-"0473","Colonia Aborigen","TOTALES","2916","2916","5832"
-"0473","Colonia Aborigen","UNIR","10","8","18"
-"0473","Colonia Aborigen","VAMOS CHACO","20","17","37"
-"0473","Colonia Aborigen","VOTOS EN BLANCO","66","327","393"
-"0473","Colonia Aborigen","VOTOS IMPUGNADOS","0","0","0"
-"0473","Colonia Aborigen","VOTOS NULOS","20","14","34"
-"0473","Colonia Aborigen","VOTOS RECURRIDOS","0","0","0"
-"0364","Colonia Benítez","FRENTE INTEGRADOR","47","74","121"
-"0364","Colonia Benítez","FUERZA PATRIA","1509","1322","2831"
-"0364","Colonia Benítez","LA LIBERTAD AVANZA","2080","1920","4000"
-"0364","Colonia Benítez","NEPAR","43","48","91"
-"0364","Colonia Benítez","PARTIDO DEL OBRERO","68","49","117"
-"0364","Colonia Benítez","PARTIDO DIGNIDAD POPULAR","14","20","34"
-"0364","Colonia Benítez","PARTIDO POLO SOCIAL MOVIMEN","10","15","25"
-"0364","Colonia Benítez","PROYECTO SUR","25","34","59"
-"0364","Colonia Benítez","TOTALES","4060","4060","8120"
-"0364","Colonia Benítez","UNIR","17","23","40"
-"0364","Colonia Benítez","VAMOS CHACO","96","116","212"
-"0364","Colonia Benítez","VOTOS EN BLANCO","81","371","452"
-"0364","Colonia Benítez","VOTOS IMPUGNADOS","0","0","0"
-"0364","Colonia Benítez","VOTOS NULOS","65","63","128"
-"0364","Colonia Benítez","VOTOS RECURRIDOS","5","5","10"
-"0441","Colonia Elisa","FRENTE INTEGRADOR","27","20","47"
-"0441","Colonia Elisa","FUERZA PATRIA","1479","1318","2797"
-"0441","Colonia Elisa","LA LIBERTAD AVANZA","1082","950","2032"
-"0441","Colonia Elisa","NEPAR","22","20","42"
-"0441","Colonia Elisa","PARTIDO DEL OBRERO","26","16","42"
-"0441","Colonia Elisa","PARTIDO DIGNIDAD POPULAR","21","20","41"
-"0441","Colonia Elisa","PARTIDO POLO SOCIAL MOVIMEN","5","2","7"
-"0441","Colonia Elisa","PROYECTO SUR","15","11","26"
-"0441","Colonia Elisa","TOTALES","3166","3166","6332"
-"0441","Colonia Elisa","UNIR","11","14","25"
-"0441","Colonia Elisa","VAMOS CHACO","334","568","902"
-"0441","Colonia Elisa","VOTOS EN BLANCO","95","173","268"
-"0441","Colonia Elisa","VOTOS IMPUGNADOS","0","0","0"
-"0441","Colonia Elisa","VOTOS NULOS","49","54","103"
-"0441","Colonia Elisa","VOTOS RECURRIDOS","0","0","0"
-"0231","Colonia Popular","FRENTE INTEGRADOR","16","24","40"
-"0231","Colonia Popular","FUERZA PATRIA","410","360","770"
-"0231","Colonia Popular","LA LIBERTAD AVANZA","896","846","1742"
-"0231","Colonia Popular","NEPAR","5","4","9"
-"0231","Colonia Popular","PARTIDO DEL OBRERO","17","12","29"
-"0231","Colonia Popular","PARTIDO DIGNIDAD POPULAR","5","6","11"
-"0231","Colonia Popular","PARTIDO POLO SOCIAL MOVIMEN","3","2","5"
-"0231","Colonia Popular","PROYECTO SUR","6","6","12"
-"0231","Colonia Popular","TOTALES","1429","1429","2858"
-"0231","Colonia Popular","UNIR","5","8","13"
-"0231","Colonia Popular","VAMOS CHACO","31","64","95"
-"0231","Colonia Popular","VOTOS EN BLANCO","21","88","109"
-"0231","Colonia Popular","VOTOS IMPUGNADOS","0","0","0"
-"0231","Colonia Popular","VOTOS NULOS","12","7","19"
-"0231","Colonia Popular","VOTOS RECURRIDOS","2","2","4"
-"0448","Colonias Unidas","FRENTE INTEGRADOR","17","12","29"
-"0448","Colonias Unidas","FUERZA PATRIA","1357","1576","2933"
-"0448","Colonias Unidas","LA LIBERTAD AVANZA","1123","1022","2145"
-"0448","Colonias Unidas","NEPAR","8","6","14"
-"0448","Colonias Unidas","PARTIDO DEL OBRERO","12","6","18"
-"0448","Colonias Unidas","PARTIDO DIGNIDAD POPULAR","160","16","176"
-"0448","Colonias Unidas","PARTIDO POLO SOCIAL MOVIMEN","5","3","8"
-"0448","Colonias Unidas","PROYECTO SUR","14","10","24"
-"0448","Colonias Unidas","TOTALES","2832","2832","5664"
-"0448","Colonias Unidas","UNIR","6","6","12"
-"0448","Colonias Unidas","VAMOS CHACO","41","50","91"
-"0448","Colonias Unidas","VOTOS EN BLANCO","46","98","144"
-"0448","Colonias Unidas","VOTOS IMPUGNADOS","0","0","0"
-"0448","Colonias Unidas","VOTOS NULOS","41","25","66"
-"0448","Colonias Unidas","VOTOS RECURRIDOS","2","2","4"
-"0007","Concepción del Bermejo","FRENTE INTEGRADOR","25","24","49"
-"0007","Concepción del Bermejo","FUERZA PATRIA","2106","1964","4070"
-"0007","Concepción del Bermejo","LA LIBERTAD AVANZA","1310","1234","2544"
-"0007","Concepción del Bermejo","NEPAR","17","22","39"
-"0007","Concepción del Bermejo","PARTIDO DEL OBRERO","21","20","41"
-"0007","Concepción del Bermejo","PARTIDO DIGNIDAD POPULAR","17","14","31"
-"0007","Concepción del Bermejo","PARTIDO POLO SOCIAL MOVIMEN","9","7","16"
-"0007","Concepción del Bermejo","PROYECTO SUR","12","11","23"
-"0007","Concepción del Bermejo","TOTALES","3705","3705","7410"
-"0007","Concepción del Bermejo","UNIR","8","11","19"
-"0007","Concepción del Bermejo","VAMOS CHACO","32","37","69"
-"0007","Concepción del Bermejo","VOTOS EN BLANCO","88","310","398"
-"0007","Concepción del Bermejo","VOTOS IMPUGNADOS","0","0","0"
-"0007","Concepción del Bermejo","VOTOS NULOS","59","50","109"
-"0007","Concepción del Bermejo","VOTOS RECURRIDOS","1","1","2"
-"0308","Coronel Du Graty","FRENTE INTEGRADOR","49","75","124"
-"0308","Coronel Du Graty","FUERZA PATRIA","2366","2119","4485"
-"0308","Coronel Du Graty","LA LIBERTAD AVANZA","3322","3079","6401"
-"0308","Coronel Du Graty","NEPAR","61","67","128"
-"0308","Coronel Du Graty","PARTIDO DEL OBRERO","55","45","100"
-"0308","Coronel Du Graty","PARTIDO DIGNIDAD POPULAR","44","36","80"
-"0308","Coronel Du Graty","PARTIDO POLO SOCIAL MOVIMEN","9","16","25"
-"0308","Coronel Du Graty","PROYECTO SUR","39","47","86"
-"0308","Coronel Du Graty","TOTALES","6363","6363","12726"
-"0308","Coronel Du Graty","UNIR","24","30","54"
-"0308","Coronel Du Graty","VAMOS CHACO","130","118","248"
-"0308","Coronel Du Graty","VOTOS EN BLANCO","187","637","824"
-"0308","Coronel Du Graty","VOTOS IMPUGNADOS","0","0","0"
-"0308","Coronel Du Graty","VOTOS NULOS","75","92","167"
-"0308","Coronel Du Graty","VOTOS RECURRIDOS","2","2","4"
-"0133","Corzuela","FRENTE INTEGRADOR","36","51","87"
-"0133","Corzuela","FUERZA PATRIA","3732","3462","7194"
-"0133","Corzuela","LA LIBERTAD AVANZA","2024","1888","3912"
-"0133","Corzuela","NEPAR","27","23","50"
-"0133","Corzuela","PARTIDO DEL OBRERO","50","38","88"
-"0133","Corzuela","PARTIDO DIGNIDAD POPULAR","29","36","65"
-"0133","Corzuela","PARTIDO POLO SOCIAL MOVIMEN","14","12","26"
-"0133","Corzuela","PROYECTO SUR","18","15","33"
-"0133","Corzuela","TOTALES","6228","6228","12456"
-"0133","Corzuela","UNIR","22","24","46"
-"0133","Corzuela","VAMOS CHACO","78","80","158"
-"0133","Corzuela","VOTOS EN BLANCO","107","546","653"
-"0133","Corzuela","VOTOS IMPUGNADOS","0","0","0"
-"0133","Corzuela","VOTOS NULOS","89","51","140"
-"0133","Corzuela","VOTOS RECURRIDOS","2","2","4"
-"0462","Cote Lai","FRENTE INTEGRADOR","16","14","30"
-"0462","Cote Lai","FUERZA PATRIA","291","277","568"
-"0462","Cote Lai","LA LIBERTAD AVANZA","560","531","1091"
-"0462","Cote Lai","NEPAR","4","6","10"
-"0462","Cote Lai","PARTIDO DEL OBRERO","6","3","9"
-"0462","Cote Lai","PARTIDO DIGNIDAD POPULAR","5","7","12"
-"0462","Cote Lai","PARTIDO POLO SOCIAL MOVIMEN","5","4","9"
-"0462","Cote Lai","PROYECTO SUR","7","8","15"
-"0462","Cote Lai","TOTALES","974","974","1948"
-"0462","Cote Lai","UNIR","9","6","15"
-"0462","Cote Lai","VAMOS CHACO","9","9","18"
-"0462","Cote Lai","VOTOS EN BLANCO","34","88","122"
-"0462","Cote Lai","VOTOS IMPUGNADOS","0","0","0"
-"0462","Cote Lai","VOTOS NULOS","23","16","39"
-"0462","Cote Lai","VOTOS RECURRIDOS","5","5","10"
-"0165","El Espinillo","FRENTE INTEGRADOR","5","7","12"
-"0165","El Espinillo","FUERZA PATRIA","1201","1060","2261"
-"0165","El Espinillo","LA LIBERTAD AVANZA","277","248","525"
-"0165","El Espinillo","NEPAR","275","270","545"
-"0165","El Espinillo","PARTIDO DEL OBRERO","10","5","15"
-"0165","El Espinillo","PARTIDO DIGNIDAD POPULAR","11","7","18"
-"0165","El Espinillo","PARTIDO POLO SOCIAL MOVIMEN","1","1","2"
-"0165","El Espinillo","PROYECTO SUR","8","7","15"
-"0165","El Espinillo","TOTALES","2064","2064","4128"
-"0165","El Espinillo","UNIR","3","0","3"
-"0165","El Espinillo","VAMOS CHACO","179","205","384"
-"0165","El Espinillo","VOTOS EN BLANCO","51","225","276"
-"0165","El Espinillo","VOTOS IMPUGNADOS","0","0","0"
-"0165","El Espinillo","VOTOS NULOS","43","29","72"
-"0165","El Espinillo","VOTOS RECURRIDOS","0","0","0"
-"0168","El Sauzalito","FRENTE INTEGRADOR","29","30","59"
-"0168","El Sauzalito","FUERZA PATRIA","2918","2697","5615"
-"0168","El Sauzalito","LA LIBERTAD AVANZA","1427","1345","2772"
-"0168","El Sauzalito","NEPAR","54","56","110"
-"0168","El Sauzalito","PARTIDO DEL OBRERO","15","11","26"
-"0168","El Sauzalito","PARTIDO DIGNIDAD POPULAR","21","17","38"
-"0168","El Sauzalito","PARTIDO POLO SOCIAL MOVIMEN","3","5","8"
-"0168","El Sauzalito","PROYECTO SUR","11","12","23"
-"0168","El Sauzalito","TOTALES","4673","4673","9346"
-"0168","El Sauzalito","UNIR","2","4","6"
-"0168","El Sauzalito","VAMOS CHACO","28","24","52"
-"0168","El Sauzalito","VOTOS EN BLANCO","73","398","471"
-"0168","El Sauzalito","VOTOS IMPUGNADOS","1","1","2"
-"0168","El Sauzalito","VOTOS NULOS","88","70","158"
-"0168","El Sauzalito","VOTOS RECURRIDOS","3","3","6"
-"0315","Enrique Urién","FRENTE INTEGRADOR","7","5","12"
-"0315","Enrique Urién","FUERZA PATRIA","513","492","1005"
-"0315","Enrique Urién","LA LIBERTAD AVANZA","162","151","313"
-"0315","Enrique Urién","NEPAR","1","1","2"
-"0315","Enrique Urién","PARTIDO DEL OBRERO","6","7","13"
-"0315","Enrique Urién","PARTIDO DIGNIDAD POPULAR","3","2","5"
-"0315","Enrique Urién","PARTIDO POLO SOCIAL MOVIMEN","1","1","2"
-"0315","Enrique Urién","PROYECTO SUR","2","5","7"
-"0315","Enrique Urién","TOTALES","735","735","1470"
-"0315","Enrique Urién","UNIR","3","2","5"
-"0315","Enrique Urién","VAMOS CHACO","14","14","28"
-"0315","Enrique Urién","VOTOS EN BLANCO","20","52","72"
-"0315","Enrique Urién","VOTOS IMPUGNADOS","0","0","0"
-"0315","Enrique Urién","VOTOS NULOS","3","3","6"
-"0315","Enrique Urién","VOTOS RECURRIDOS","0","0","0"
-"0399","Fontana","FRENTE INTEGRADOR","419","731","1150"
-"0399","Fontana","FUERZA PATRIA","9977","8333","18310"
-"0399","Fontana","LA LIBERTAD AVANZA","10251","9053","19304"
-"0399","Fontana","NEPAR","196","204","400"
-"0399","Fontana","PARTIDO DEL OBRERO","519","368","887"
-"0399","Fontana","PARTIDO DIGNIDAD POPULAR","182","160","342"
-"0399","Fontana","PARTIDO POLO SOCIAL MOVIMEN","72","92","164"
-"0399","Fontana","PROYECTO SUR","212","281","493"
-"0399","Fontana","TOTALES","23770","23770","47540"
-"0399","Fontana","UNIR","182","211","393"
-"0399","Fontana","VAMOS CHACO","633","772","1405"
-"0399","Fontana","VOTOS EN BLANCO","653","3159","3812"
-"0399","Fontana","VOTOS IMPUGNADOS","0","0","0"
-"0399","Fontana","VOTOS NULOS","456","388","844"
-"0399","Fontana","VOTOS RECURRIDOS","18","18","36"
-"0175","Fuerte Esperanza","FRENTE INTEGRADOR","23","27","50"
-"0175","Fuerte Esperanza","FUERZA PATRIA","1540","1417","2957"
-"0175","Fuerte Esperanza","LA LIBERTAD AVANZA","632","590","1222"
-"0175","Fuerte Esperanza","NEPAR","43","39","82"
-"0175","Fuerte Esperanza","PARTIDO DEL OBRERO","14","8","22"
-"0175","Fuerte Esperanza","PARTIDO DIGNIDAD POPULAR","11","10","21"
-"0175","Fuerte Esperanza","PARTIDO POLO SOCIAL MOVIMEN","5","4","9"
-"0175","Fuerte Esperanza","PROYECTO SUR","16","11","27"
-"0175","Fuerte Esperanza","TOTALES","2447","2447","4894"
-"0175","Fuerte Esperanza","UNIR","11","13","24"
-"0175","Fuerte Esperanza","VAMOS CHACO","53","66","119"
-"0175","Fuerte Esperanza","VOTOS EN BLANCO","56","218","274"
-"0175","Fuerte Esperanza","VOTOS IMPUGNADOS","0","0","0"
-"0175","Fuerte Esperanza","VOTOS NULOS","43","44","87"
-"0175","Fuerte Esperanza","VOTOS RECURRIDOS","0","0","0"
-"0091","Gancedo","FRENTE INTEGRADOR","18","20","38"
-"0091","Gancedo","FUERZA PATRIA","1624","1552","3176"
-"0091","Gancedo","LA LIBERTAD AVANZA","1298","1245","2543"
-"0091","Gancedo","NEPAR","20","11","31"
-"0091","Gancedo","PARTIDO DEL OBRERO","30","22","52"
-"0091","Gancedo","PARTIDO DIGNIDAD POPULAR","17","15","32"
-"0091","Gancedo","PARTIDO POLO SOCIAL MOVIMEN","6","11","17"
-"0091","Gancedo","PROYECTO SUR","8","11","19"
-"0091","Gancedo","TOTALES","3153","3153","6306"
-"0091","Gancedo","UNIR","8","5","13"
-"0091","Gancedo","VAMOS CHACO","26","31","57"
-"0091","Gancedo","VOTOS EN BLANCO","62","190","252"
-"0091","Gancedo","VOTOS IMPUGNADOS","0","0","0"
-"0091","Gancedo","VOTOS NULOS","36","40","76"
-"0091","Gancedo","VOTOS RECURRIDOS","0","0","0"
-"0098","General Capdevila","FRENTE INTEGRADOR","1","2","3"
-"0098","General Capdevila","FUERZA PATRIA","363","350","713"
-"0098","General Capdevila","LA LIBERTAD AVANZA","93","83","176"
-"0098","General Capdevila","NEPAR","1","0","1"
-"0098","General Capdevila","PARTIDO DEL OBRERO","2","2","4"
-"0098","General Capdevila","PARTIDO DIGNIDAD POPULAR","1","1","2"
-"0098","General Capdevila","PARTIDO POLO SOCIAL MOVIMEN","2","1","3"
-"0098","General Capdevila","PROYECTO SUR","0","0","0"
-"0098","General Capdevila","TOTALES","482","482","964"
-"0098","General Capdevila","UNIR","1","1","2"
-"0098","General Capdevila","VAMOS CHACO","3","2","5"
-"0098","General Capdevila","VOTOS EN BLANCO","12","37","49"
-"0098","General Capdevila","VOTOS IMPUGNADOS","0","0","0"
-"0098","General Capdevila","VOTOS NULOS","3","3","6"
-"0098","General Capdevila","VOTOS RECURRIDOS","0","0","0"
-"0105","General Pinedo","FRENTE INTEGRADOR","48","61","109"
-"0105","General Pinedo","FUERZA PATRIA","4529","4162","8691"
-"0105","General Pinedo","LA LIBERTAD AVANZA","3827","3483","7310"
-"0105","General Pinedo","NEPAR","78","77","155"
-"0105","General Pinedo","PARTIDO DEL OBRERO","92","66","158"
-"0105","General Pinedo","PARTIDO DIGNIDAD POPULAR","40","37","77"
-"0105","General Pinedo","PARTIDO POLO SOCIAL MOVIMEN","19","20","39"
-"0105","General Pinedo","PROYECTO SUR","30","32","62"
-"0105","General Pinedo","TOTALES","9136","9136","18272"
-"0105","General Pinedo","UNIR","40","46","86"
-"0105","General Pinedo","VAMOS CHACO","95","107","202"
-"0105","General Pinedo","VOTOS EN BLANCO","194","923","1117"
-"0105","General Pinedo","VOTOS IMPUGNADOS","0","0","0"
-"0105","General Pinedo","VOTOS NULOS","116","94","210"
-"0105","General Pinedo","VOTOS RECURRIDOS","28","28","56"
-"0259","General San Martín","FRENTE INTEGRADOR","178","225","403"
-"0259","General San Martín","FUERZA PATRIA","9648","8578","18226"
-"0259","General San Martín","LA LIBERTAD AVANZA","9643","8758","18401"
-"0259","General San Martín","NEPAR","156","173","329"
-"0259","General San Martín","PARTIDO DEL OBRERO","275","207","482"
-"0259","General San Martín","PARTIDO DIGNIDAD POPULAR","130","125","255"
-"0259","General San Martín","PARTIDO POLO SOCIAL MOVIMEN","56","57","113"
-"0259","General San Martín","PROYECTO SUR","143","146","289"
-"0259","General San Martín","TOTALES","21666","21666","43332"
-"0259","General San Martín","UNIR","127","120","247"
-"0259","General San Martín","VAMOS CHACO","409","425","834"
-"0259","General San Martín","VOTOS EN BLANCO","459","2489","2948"
-"0259","General San Martín","VOTOS IMPUGNADOS","0","0","0"
-"0259","General San Martín","VOTOS NULOS","428","349","777"
-"0259","General San Martín","VOTOS RECURRIDOS","14","14","28"
-"0035","General Vedia","FRENTE INTEGRADOR","25","29","54"
-"0035","General Vedia","FUERZA PATRIA","1095","1031","2126"
-"0035","General Vedia","LA LIBERTAD AVANZA","953","910","1863"
-"0035","General Vedia","NEPAR","17","15","32"
-"0035","General Vedia","PARTIDO DEL OBRERO","13","12","25"
-"0035","General Vedia","PARTIDO DIGNIDAD POPULAR","8","7","15"
-"0035","General Vedia","PARTIDO POLO SOCIAL MOVIMEN","7","5","12"
-"0035","General Vedia","PROYECTO SUR","9","14","23"
-"0035","General Vedia","TOTALES","2226","2226","4452"
-"0035","General Vedia","UNIR","7","5","12"
-"0035","General Vedia","VAMOS CHACO","25","27","52"
-"0035","General Vedia","VOTOS EN BLANCO","37","150","187"
-"0035","General Vedia","VOTOS IMPUGNADOS","0","0","0"
-"0035","General Vedia","VOTOS NULOS","30","21","51"
-"0035","General Vedia","VOTOS RECURRIDOS","0","0","0"
-"0112","Hermoso Campo","FRENTE INTEGRADOR","39","49","88"
-"0112","Hermoso Campo","FUERZA PATRIA","1783","1694","3477"
-"0112","Hermoso Campo","LA LIBERTAD AVANZA","2142","1982","4124"
-"0112","Hermoso Campo","NEPAR","12","12","24"
-"0112","Hermoso Campo","PARTIDO DEL OBRERO","34","27","61"
-"0112","Hermoso Campo","PARTIDO DIGNIDAD POPULAR","20","20","40"
-"0112","Hermoso Campo","PARTIDO POLO SOCIAL MOVIMEN","2","2","4"
-"0112","Hermoso Campo","PROYECTO SUR","13","11","24"
-"0112","Hermoso Campo","TOTALES","4221","4221","8442"
-"0112","Hermoso Campo","UNIR","14","14","28"
-"0112","Hermoso Campo","VAMOS CHACO","45","47","92"
-"0112","Hermoso Campo","VOTOS EN BLANCO","64","308","372"
-"0112","Hermoso Campo","VOTOS IMPUGNADOS","0","0","0"
-"0112","Hermoso Campo","VOTOS NULOS","50","52","102"
-"0112","Hermoso Campo","VOTOS RECURRIDOS","3","3","6"
-"0042","Isla del Cerrito","FRENTE INTEGRADOR","9","17","26"
-"0042","Isla del Cerrito","FUERZA PATRIA","738","674","1412"
-"0042","Isla del Cerrito","LA LIBERTAD AVANZA","560","526","1086"
-"0042","Isla del Cerrito","NEPAR","8","5","13"
-"0042","Isla del Cerrito","PARTIDO DEL OBRERO","10","7","17"
-"0042","Isla del Cerrito","PARTIDO DIGNIDAD POPULAR","8","5","13"
-"0042","Isla del Cerrito","PARTIDO POLO SOCIAL MOVIMEN","2","3","5"
-"0042","Isla del Cerrito","PROYECTO SUR","7","8","15"
-"0042","Isla del Cerrito","TOTALES","1413","1413","2826"
-"0042","Isla del Cerrito","UNIR","2","4","6"
-"0042","Isla del Cerrito","VAMOS CHACO","28","37","65"
-"0042","Isla del Cerrito","VOTOS EN BLANCO","25","114","139"
-"0042","Isla del Cerrito","VOTOS IMPUGNADOS","0","0","0"
-"0042","Isla del Cerrito","VOTOS NULOS","15","12","27"
-"0042","Isla del Cerrito","VOTOS RECURRIDOS","1","1","2"
-"0182","Juan José Castelli","FRENTE INTEGRADOR","370","622","992"
-"0182","Juan José Castelli","FUERZA PATRIA","11574","10329","21903"
-"0182","Juan José Castelli","LA LIBERTAD AVANZA","7577","6894","14471"
-"0182","Juan José Castelli","NEPAR","293","263","556"
-"0182","Juan José Castelli","PARTIDO DEL OBRERO","174","127","301"
-"0182","Juan José Castelli","PARTIDO DIGNIDAD POPULAR","118","109","227"
-"0182","Juan José Castelli","PARTIDO POLO SOCIAL MOVIMEN","38","39","77"
-"0182","Juan José Castelli","PROYECTO SUR","103","104","207"
-"0182","Juan José Castelli","TOTALES","21467","21467","42934"
-"0182","Juan José Castelli","UNIR","58","80","138"
-"0182","Juan José Castelli","VAMOS CHACO","377","380","757"
-"0182","Juan José Castelli","VOTOS EN BLANCO","422","2236","2658"
-"0182","Juan José Castelli","VOTOS IMPUGNADOS","0","0","0"
-"0182","Juan José Castelli","VOTOS NULOS","347","268","615"
-"0182","Juan José Castelli","VOTOS RECURRIDOS","16","16","32"
-"0336","La Clotilde","FRENTE INTEGRADOR","17","16","33"
-"0336","La Clotilde","FUERZA PATRIA","1434","1345","2779"
-"0336","La Clotilde","LA LIBERTAD AVANZA","831","793","1624"
-"0336","La Clotilde","NEPAR","14","13","27"
-"0336","La Clotilde","PARTIDO DEL OBRERO","20","20","40"
-"0336","La Clotilde","PARTIDO DIGNIDAD POPULAR","14","11","25"
-"0336","La Clotilde","PARTIDO POLO SOCIAL MOVIMEN","8","7","15"
-"0336","La Clotilde","PROYECTO SUR","10","10","20"
-"0336","La Clotilde","TOTALES","2493","2493","4986"
-"0336","La Clotilde","UNIR","8","9","17"
-"0336","La Clotilde","VAMOS CHACO","52","55","107"
-"0336","La Clotilde","VOTOS EN BLANCO","58","195","253"
-"0336","La Clotilde","VOTOS IMPUGNADOS","0","0","0"
-"0336","La Clotilde","VOTOS NULOS","27","19","46"
-"0336","La Clotilde","VOTOS RECURRIDOS","0","0","0"
-"0266","La Eduvigis","FRENTE INTEGRADOR","11","13","24"
-"0266","La Eduvigis","FUERZA PATRIA","864","826","1690"
-"0266","La Eduvigis","LA LIBERTAD AVANZA","379","366","745"
-"0266","La Eduvigis","NEPAR","11","11","22"
-"0266","La Eduvigis","PARTIDO DEL OBRERO","7","7","14"
-"0266","La Eduvigis","PARTIDO DIGNIDAD POPULAR","8","5","13"
-"0266","La Eduvigis","PARTIDO POLO SOCIAL MOVIMEN","3","2","5"
-"0266","La Eduvigis","PROYECTO SUR","3","11","14"
-"0266","La Eduvigis","TOTALES","1339","1339","2678"
-"0266","La Eduvigis","UNIR","3","4","7"
-"0266","La Eduvigis","VAMOS CHACO","15","18","33"
-"0266","La Eduvigis","VOTOS EN BLANCO","35","76","111"
-"0266","La Eduvigis","VOTOS IMPUGNADOS","0","0","0"
-"0266","La Eduvigis","VOTOS NULOS","0","0","0"
-"0266","La Eduvigis","VOTOS RECURRIDOS","0","0","0"
-"0140","La Escondida","FRENTE INTEGRADOR","41","64","105"
-"0140","La Escondida","FUERZA PATRIA","1188","1055","2243"
-"0140","La Escondida","LA LIBERTAD AVANZA","959","833","1792"
-"0140","La Escondida","NEPAR","110","110","220"
-"0140","La Escondida","PARTIDO DEL OBRERO","40","27","67"
-"0140","La Escondida","PARTIDO DIGNIDAD POPULAR","20","20","40"
-"0140","La Escondida","PARTIDO POLO SOCIAL MOVIMEN","7","7","14"
-"0140","La Escondida","PROYECTO SUR","19","17","36"
-"0140","La Escondida","TOTALES","2648","2648","5296"
-"0140","La Escondida","UNIR","14","11","25"
-"0140","La Escondida","VAMOS CHACO","128","218","346"
-"0140","La Escondida","VOTOS EN BLANCO","64","247","311"
-"0140","La Escondida","VOTOS IMPUGNADOS","0","0","0"
-"0140","La Escondida","VOTOS NULOS","56","37","93"
-"0140","La Escondida","VOTOS RECURRIDOS","2","2","4"
-"0049","La Leonesa","FRENTE INTEGRADOR","68","116","184"
-"0049","La Leonesa","FUERZA PATRIA","4280","3843","8123"
-"0049","La Leonesa","LA LIBERTAD AVANZA","2601","2328","4929"
-"0049","La Leonesa","NEPAR","28","29","57"
-"0049","La Leonesa","PARTIDO DEL OBRERO","68","52","120"
-"0049","La Leonesa","PARTIDO DIGNIDAD POPULAR","34","24","58"
-"0049","La Leonesa","PARTIDO POLO SOCIAL MOVIMEN","18","19","37"
-"0049","La Leonesa","PROYECTO SUR","47","50","97"
-"0049","La Leonesa","TOTALES","7607","7607","15214"
-"0049","La Leonesa","UNIR","24","31","55"
-"0049","La Leonesa","VAMOS CHACO","149","147","296"
-"0049","La Leonesa","VOTOS EN BLANCO","194","884","1078"
-"0049","La Leonesa","VOTOS IMPUGNADOS","0","0","0"
-"0049","La Leonesa","VOTOS NULOS","96","84","180"
-"0049","La Leonesa","VOTOS RECURRIDOS","0","0","0"
-"0343","La Tigra","FRENTE INTEGRADOR","20","21","41"
-"0343","La Tigra","FUERZA PATRIA","1798","1644","3442"
-"0343","La Tigra","LA LIBERTAD AVANZA","662","611","1273"
-"0343","La Tigra","NEPAR","16","18","34"
-"0343","La Tigra","PARTIDO DEL OBRERO","22","19","41"
-"0343","La Tigra","PARTIDO DIGNIDAD POPULAR","16","19","35"
-"0343","La Tigra","PARTIDO POLO SOCIAL MOVIMEN","6","8","14"
-"0343","La Tigra","PROYECTO SUR","19","15","34"
-"0343","La Tigra","TOTALES","2720","2720","5440"
-"0343","La Tigra","UNIR","8","6","14"
-"0343","La Tigra","VAMOS CHACO","35","42","77"
-"0343","La Tigra","VOTOS EN BLANCO","72","287","359"
-"0343","La Tigra","VOTOS IMPUGNADOS","0","0","0"
-"0343","La Tigra","VOTOS NULOS","46","30","76"
-"0343","La Tigra","VOTOS RECURRIDOS","0","0","0"
-"0154","La Verde","FRENTE INTEGRADOR","42","51","93"
-"0154","La Verde","FUERZA PATRIA","937","833","1770"
-"0154","La Verde","LA LIBERTAD AVANZA","1030","934","1964"
-"0154","La Verde","NEPAR","22","18","40"
-"0154","La Verde","PARTIDO DEL OBRERO","19","18","37"
-"0154","La Verde","PARTIDO DIGNIDAD POPULAR","15","13","28"
-"0154","La Verde","PARTIDO POLO SOCIAL MOVIMEN","8","9","17"
-"0154","La Verde","PROYECTO SUR","16","16","32"
-"0154","La Verde","TOTALES","2304","2304","4608"
-"0154","La Verde","UNIR","17","20","37"
-"0154","La Verde","VAMOS CHACO","117","202","319"
-"0154","La Verde","VOTOS EN BLANCO","44","157","201"
-"0154","La Verde","VOTOS IMPUGNADOS","0","0","0"
-"0154","La Verde","VOTOS NULOS","33","29","62"
-"0154","La Verde","VOTOS RECURRIDOS","4","4","8"
-"0238","Laguna Blanca","FRENTE INTEGRADOR","5","4","9"
-"0238","Laguna Blanca","FUERZA PATRIA","55","34","89"
-"0238","Laguna Blanca","LA LIBERTAD AVANZA","171","151","322"
-"0238","Laguna Blanca","NEPAR","8","4","12"
-"0238","Laguna Blanca","PARTIDO DEL OBRERO","2","3","5"
-"0238","Laguna Blanca","PARTIDO DIGNIDAD POPULAR","1","1","2"
-"0238","Laguna Blanca","PARTIDO POLO SOCIAL MOVIMEN","0","0","0"
-"0238","Laguna Blanca","PROYECTO SUR","1","1","2"
-"0238","Laguna Blanca","TOTALES","834","834","1668"
-"0238","Laguna Blanca","UNIR","2","3","5"
-"0238","Laguna Blanca","VAMOS CHACO","546","599","1145"
-"0238","Laguna Blanca","VOTOS EN BLANCO","33","29","62"
-"0238","Laguna Blanca","VOTOS IMPUGNADOS","0","0","0"
-"0238","Laguna Blanca","VOTOS NULOS","10","5","15"
-"0238","Laguna Blanca","VOTOS RECURRIDOS","0","0","0"
-"0273","Laguna Limpia","FRENTE INTEGRADOR","15","17","32"
-"0273","Laguna Limpia","FUERZA PATRIA","935","906","1841"
-"0273","Laguna Limpia","LA LIBERTAD AVANZA","729","640","1369"
-"0273","Laguna Limpia","NEPAR","11","12","23"
-"0273","Laguna Limpia","PARTIDO DEL OBRERO","19","15","34"
-"0273","Laguna Limpia","PARTIDO DIGNIDAD POPULAR","15","13","28"
-"0273","Laguna Limpia","PARTIDO POLO SOCIAL MOVIMEN","5","6","11"
-"0273","Laguna Limpia","PROYECTO SUR","7","5","12"
-"0273","Laguna Limpia","TOTALES","1867","1867","3734"
-"0273","Laguna Limpia","UNIR","6","5","11"
-"0273","Laguna Limpia","VAMOS CHACO","25","29","54"
-"0273","Laguna Limpia","VOTOS EN BLANCO","58","191","249"
-"0273","Laguna Limpia","VOTOS IMPUGNADOS","0","0","0"
-"0273","Laguna Limpia","VOTOS NULOS","42","28","70"
-"0273","Laguna Limpia","VOTOS RECURRIDOS","0","0","0"
-"0147","Lapachito","FRENTE INTEGRADOR","9","15","24"
-"0147","Lapachito","FUERZA PATRIA","538","508","1046"
-"0147","Lapachito","LA LIBERTAD AVANZA","285","259","544"
-"0147","Lapachito","NEPAR","4","7","11"
-"0147","Lapachito","PARTIDO DEL OBRERO","5","4","9"
-"0147","Lapachito","PARTIDO DIGNIDAD POPULAR","2","0","2"
-"0147","Lapachito","PARTIDO POLO SOCIAL MOVIMEN","1","2","3"
-"0147","Lapachito","PROYECTO SUR","4","1","5"
-"0147","Lapachito","TOTALES","902","902","1804"
-"0147","Lapachito","UNIR","5","6","11"
-"0147","Lapachito","VAMOS CHACO","26","47","73"
-"0147","Lapachito","VOTOS EN BLANCO","13","46","59"
-"0147","Lapachito","VOTOS IMPUGNADOS","0","0","0"
-"0147","Lapachito","VOTOS NULOS","10","7","17"
-"0147","Lapachito","VOTOS RECURRIDOS","0","0","0"
-"0329","Las Breñas","FRENTE INTEGRADOR","94","123","217"
-"0329","Las Breñas","FUERZA PATRIA","7741","7166","14907"
-"0329","Las Breñas","LA LIBERTAD AVANZA","6826","6373","13199"
-"0329","Las Breñas","NEPAR","63","69","132"
-"0329","Las Breñas","PARTIDO DEL OBRERO","153","126","279"
-"0329","Las Breñas","PARTIDO DIGNIDAD POPULAR","62","62","124"
-"0329","Las Breñas","PARTIDO POLO SOCIAL MOVIMEN","20","28","48"
-"0329","Las Breñas","PROYECTO SUR","81","84","165"
-"0329","Las Breñas","TOTALES","15779","15779","31558"
-"0329","Las Breñas","UNIR","46","65","111"
-"0329","Las Breñas","VAMOS CHACO","195","194","389"
-"0329","Las Breñas","VOTOS EN BLANCO","283","1288","1571"
-"0329","Las Breñas","VOTOS IMPUGNADOS","0","0","0"
-"0329","Las Breñas","VOTOS NULOS","198","184","382"
-"0329","Las Breñas","VOTOS RECURRIDOS","17","17","34"
-"0455","Las Garcitas","FRENTE INTEGRADOR","13","19","32"
-"0455","Las Garcitas","FUERZA PATRIA","1756","1954","3710"
-"0455","Las Garcitas","LA LIBERTAD AVANZA","1096","804","1900"
-"0455","Las Garcitas","NEPAR","12","76","88"
-"0455","Las Garcitas","PARTIDO DEL OBRERO","20","15","35"
-"0455","Las Garcitas","PARTIDO DIGNIDAD POPULAR","24","12","36"
-"0455","Las Garcitas","PARTIDO POLO SOCIAL MOVIMEN","10","7","17"
-"0455","Las Garcitas","PROYECTO SUR","15","8","23"
-"0455","Las Garcitas","TOTALES","3171","3171","6342"
-"0455","Las Garcitas","UNIR","12","8","20"
-"0455","Las Garcitas","VAMOS CHACO","22","13","35"
-"0455","Las Garcitas","VOTOS EN BLANCO","148","222","370"
-"0455","Las Garcitas","VOTOS IMPUGNADOS","0","0","0"
-"0455","Las Garcitas","VOTOS NULOS","36","26","62"
-"0455","Las Garcitas","VOTOS RECURRIDOS","7","7","14"
-"0056","Las Palmas","FRENTE INTEGRADOR","76","95","171"
-"0056","Las Palmas","FUERZA PATRIA","2240","2050","4290"
-"0056","Las Palmas","LA LIBERTAD AVANZA","1527","1411","2938"
-"0056","Las Palmas","NEPAR","38","38","76"
-"0056","Las Palmas","PARTIDO DEL OBRERO","62","46","108"
-"0056","Las Palmas","PARTIDO DIGNIDAD POPULAR","35","32","67"
-"0056","Las Palmas","PARTIDO POLO SOCIAL MOVIMEN","17","15","32"
-"0056","Las Palmas","PROYECTO SUR","39","41","80"
-"0056","Las Palmas","TOTALES","4356","4356","8712"
-"0056","Las Palmas","UNIR","26","31","57"
-"0056","Las Palmas","VAMOS CHACO","120","120","240"
-"0056","Las Palmas","VOTOS EN BLANCO","84","405","489"
-"0056","Las Palmas","VOTOS IMPUGNADOS","0","0","0"
-"0056","Las Palmas","VOTOS NULOS","91","71","162"
-"0056","Las Palmas","VOTOS RECURRIDOS","1","1","2"
-"0014","Los Frentones","FRENTE INTEGRADOR","32","26","58"
-"0014","Los Frentones","FUERZA PATRIA","2275","2084","4359"
-"0014","Los Frentones","LA LIBERTAD AVANZA","1427","1342","2769"
-"0014","Los Frentones","NEPAR","36","40","76"
-"0014","Los Frentones","PARTIDO DEL OBRERO","31","20","51"
-"0014","Los Frentones","PARTIDO DIGNIDAD POPULAR","18","13","31"
-"0014","Los Frentones","PARTIDO POLO SOCIAL MOVIMEN","9","11","20"
-"0014","Los Frentones","PROYECTO SUR","12","14","26"
-"0014","Los Frentones","TOTALES","4066","4066","8132"
-"0014","Los Frentones","UNIR","13","16","29"
-"0014","Los Frentones","VAMOS CHACO","45","60","105"
-"0014","Los Frentones","VOTOS EN BLANCO","104","372","476"
-"0014","Los Frentones","VOTOS IMPUGNADOS","0","0","0"
-"0014","Los Frentones","VOTOS NULOS","64","68","132"
-"0014","Los Frentones","VOTOS RECURRIDOS","0","0","0"
-"0476","Machagai","FRENTE INTEGRADOR","125","129","254"
-"0476","Machagai","FUERZA PATRIA","8012","7606","15618"
-"0476","Machagai","LA LIBERTAD AVANZA","5579","4916","10495"
-"0476","Machagai","NEPAR","86","71","157"
-"0476","Machagai","PARTIDO DEL OBRERO","143","89","232"
-"0476","Machagai","PARTIDO DIGNIDAD POPULAR","69","67","136"
-"0476","Machagai","PARTIDO POLO SOCIAL MOVIMEN","25","35","60"
-"0476","Machagai","PROYECTO SUR","75","74","149"
-"0476","Machagai","TOTALES","15101","15101","30202"
-"0476","Machagai","UNIR","70","76","146"
-"0476","Machagai","VAMOS CHACO","254","225","479"
-"0476","Machagai","VOTOS EN BLANCO","435","1614","2049"
-"0476","Machagai","VOTOS IMPUGNADOS","0","0","0"
-"0476","Machagai","VOTOS NULOS","222","193","415"
-"0476","Machagai","VOTOS RECURRIDOS","6","6","12"
-"0161","Makallé","FRENTE INTEGRADOR","39","59","98"
-"0161","Makallé","FUERZA PATRIA","1257","985","2242"
-"0161","Makallé","LA LIBERTAD AVANZA","1391","1283","2674"
-"0161","Makallé","NEPAR","482","352","834"
-"0161","Makallé","PARTIDO DEL OBRERO","41","36","77"
-"0161","Makallé","PARTIDO DIGNIDAD POPULAR","24","18","42"
-"0161","Makallé","PARTIDO POLO SOCIAL MOVIMEN","11","13","24"
-"0161","Makallé","PROYECTO SUR","19","15","34"
-"0161","Makallé","TOTALES","3718","3718","7436"
-"0161","Makallé","UNIR","15","14","29"
-"0161","Makallé","VAMOS CHACO","252","533","785"
-"0161","Makallé","VOTOS EN BLANCO","98","318","416"
-"0161","Makallé","VOTOS IMPUGNADOS","0","0","0"
-"0161","Makallé","VOTOS NULOS","89","92","181"
-"0161","Makallé","VOTOS RECURRIDOS","0","0","0"
-"0371","Margarita Belén","FRENTE INTEGRADOR","66","80","146"
-"0371","Margarita Belén","FUERZA PATRIA","2780","2672","5452"
-"0371","Margarita Belén","LA LIBERTAD AVANZA","2550","2331","4881"
-"0371","Margarita Belén","NEPAR","131","259","390"
-"0371","Margarita Belén","PARTIDO DEL OBRERO","48","39","87"
-"0371","Margarita Belén","PARTIDO DIGNIDAD POPULAR","19","17","36"
-"0371","Margarita Belén","PARTIDO POLO SOCIAL MOVIMEN","7","10","17"
-"0371","Margarita Belén","PROYECTO SUR","14","16","30"
-"0371","Margarita Belén","TOTALES","5889","5889","11778"
-"0371","Margarita Belén","UNIR","23","18","41"
-"0371","Margarita Belén","VAMOS CHACO","84","95","179"
-"0371","Margarita Belén","VOTOS EN BLANCO","127","315","442"
-"0371","Margarita Belén","VOTOS IMPUGNADOS","0","0","0"
-"0371","Margarita Belén","VOTOS NULOS","37","34","71"
-"0371","Margarita Belén","VOTOS RECURRIDOS","3","3","6"
-"0189","Miraflores","FRENTE INTEGRADOR","49","62","111"
-"0189","Miraflores","FUERZA PATRIA","3593","3289","6882"
-"0189","Miraflores","LA LIBERTAD AVANZA","1938","1798","3736"
-"0189","Miraflores","NEPAR","69","75","144"
-"0189","Miraflores","PARTIDO DEL OBRERO","45","31","76"
-"0189","Miraflores","PARTIDO DIGNIDAD POPULAR","31","29","60"
-"0189","Miraflores","PARTIDO POLO SOCIAL MOVIMEN","7","11","18"
-"0189","Miraflores","PROYECTO SUR","28","25","53"
-"0189","Miraflores","TOTALES","6096","6096","12192"
-"0189","Miraflores","UNIR","16","24","40"
-"0189","Miraflores","VAMOS CHACO","99","108","207"
-"0189","Miraflores","VOTOS EN BLANCO","105","554","659"
-"0189","Miraflores","VOTOS IMPUGNADOS","0","0","0"
-"0189","Miraflores","VOTOS NULOS","116","90","206"
-"0189","Miraflores","VOTOS RECURRIDOS","0","0","0"
-"0196","Misión Nueva Pompeya","FRENTE INTEGRADOR","40","37","77"
-"0196","Misión Nueva Pompeya","FUERZA PATRIA","2177","1991","4168"
-"0196","Misión Nueva Pompeya","LA LIBERTAD AVANZA","1516","1398","2914"
-"0196","Misión Nueva Pompeya","NEPAR","16","16","32"
-"0196","Misión Nueva Pompeya","PARTIDO DEL OBRERO","27","29","56"
-"0196","Misión Nueva Pompeya","PARTIDO DIGNIDAD POPULAR","23","15","38"
-"0196","Misión Nueva Pompeya","PARTIDO POLO SOCIAL MOVIMEN","3","3","6"
-"0196","Misión Nueva Pompeya","PROYECTO SUR","38","30","68"
-"0196","Misión Nueva Pompeya","TOTALES","4154","4154","8308"
-"0196","Misión Nueva Pompeya","UNIR","13","8","21"
-"0196","Misión Nueva Pompeya","VAMOS CHACO","55","56","111"
-"0196","Misión Nueva Pompeya","VOTOS EN BLANCO","109","476","585"
-"0196","Misión Nueva Pompeya","VOTOS IMPUGNADOS","0","0","0"
-"0196","Misión Nueva Pompeya","VOTOS NULOS","127","85","212"
-"0196","Misión Nueva Pompeya","VOTOS RECURRIDOS","10","10","20"
-"0224","Napenay","FRENTE INTEGRADOR","9","12","21"
-"0224","Napenay","FUERZA PATRIA","1105","1037","2142"
-"0224","Napenay","LA LIBERTAD AVANZA","993","932","1925"
-"0224","Napenay","NEPAR","26","20","46"
-"0224","Napenay","PARTIDO DEL OBRERO","15","16","31"
-"0224","Napenay","PARTIDO DIGNIDAD POPULAR","8","11","19"
-"0224","Napenay","PARTIDO POLO SOCIAL MOVIMEN","2","2","4"
-"0224","Napenay","PROYECTO SUR","17","13","30"
-"0224","Napenay","TOTALES","2289","2289","4578"
-"0224","Napenay","UNIR","10","11","21"
-"0224","Napenay","VAMOS CHACO","27","25","52"
-"0224","Napenay","VOTOS EN BLANCO","37","175","212"
-"0224","Napenay","VOTOS IMPUGNADOS","0","0","0"
-"0224","Napenay","VOTOS NULOS","33","28","61"
-"0224","Napenay","VOTOS RECURRIDOS","7","7","14"
-"0280","Pampa Almirón","FRENTE INTEGRADOR","6","9","15"
-"0280","Pampa Almirón","FUERZA PATRIA","583","581","1164"
-"0280","Pampa Almirón","LA LIBERTAD AVANZA","790","767","1557"
-"0280","Pampa Almirón","NEPAR","3","5","8"
-"0280","Pampa Almirón","PARTIDO DEL OBRERO","13","11","24"
-"0280","Pampa Almirón","PARTIDO DIGNIDAD POPULAR","5","4","9"
-"0280","Pampa Almirón","PARTIDO POLO SOCIAL MOVIMEN","1","1","2"
-"0280","Pampa Almirón","PROYECTO SUR","4","3","7"
-"0280","Pampa Almirón","TOTALES","1473","1473","2946"
-"0280","Pampa Almirón","UNIR","4","1","5"
-"0280","Pampa Almirón","VAMOS CHACO","14","16","30"
-"0280","Pampa Almirón","VOTOS EN BLANCO","26","57","83"
-"0280","Pampa Almirón","VOTOS IMPUGNADOS","0","0","0"
-"0280","Pampa Almirón","VOTOS NULOS","24","18","42"
-"0280","Pampa Almirón","VOTOS RECURRIDOS","0","0","0"
-"0287","Pampa del Indio","FRENTE INTEGRADOR","50","57","107"
-"0287","Pampa del Indio","FUERZA PATRIA","5923","5344","11267"
-"0287","Pampa del Indio","LA LIBERTAD AVANZA","2125","2006","4131"
-"0287","Pampa del Indio","NEPAR","329","245","574"
-"0287","Pampa del Indio","PARTIDO DEL OBRERO","65","55","120"
-"0287","Pampa del Indio","PARTIDO DIGNIDAD POPULAR","42","38","80"
-"0287","Pampa del Indio","PARTIDO POLO SOCIAL MOVIMEN","9","10","19"
-"0287","Pampa del Indio","PROYECTO SUR","36","56","92"
-"0287","Pampa del Indio","TOTALES","9049","9049","18098"
-"0287","Pampa del Indio","UNIR","21","26","47"
-"0287","Pampa del Indio","VAMOS CHACO","123","167","290"
-"0287","Pampa del Indio","VOTOS EN BLANCO","172","928","1100"
-"0287","Pampa del Indio","VOTOS IMPUGNADOS","0","0","0"
-"0287","Pampa del Indio","VOTOS NULOS","154","117","271"
-"0287","Pampa del Indio","VOTOS RECURRIDOS","0","0","0"
-"0021","Pampa del Infierno","FRENTE INTEGRADOR","54","58","112"
-"0021","Pampa del Infierno","FUERZA PATRIA","2682","2500","5182"
-"0021","Pampa del Infierno","LA LIBERTAD AVANZA","3183","3041","6224"
-"0021","Pampa del Infierno","NEPAR","55","68","123"
-"0021","Pampa del Infierno","PARTIDO DEL OBRERO","31","25","56"
-"0021","Pampa del Infierno","PARTIDO DIGNIDAD POPULAR","29","24","53"
-"0021","Pampa del Infierno","PARTIDO POLO SOCIAL MOVIMEN","14","16","30"
-"0021","Pampa del Infierno","PROYECTO SUR","28","26","54"
-"0021","Pampa del Infierno","TOTALES","6419","6419","12838"
-"0021","Pampa del Infierno","UNIR","25","32","57"
-"0021","Pampa del Infierno","VAMOS CHACO","73","86","159"
-"0021","Pampa del Infierno","VOTOS EN BLANCO","150","451","601"
-"0021","Pampa del Infierno","VOTOS IMPUGNADOS","0","0","0"
-"0021","Pampa del Infierno","VOTOS NULOS","83","80","163"
-"0021","Pampa del Infierno","VOTOS RECURRIDOS","12","12","24"
-"0357","Presidencia de la Plaza","FRENTE INTEGRADOR","95","103","198"
-"0357","Presidencia de la Plaza","FUERZA PATRIA","3577","3258","6835"
-"0357","Presidencia de la Plaza","LA LIBERTAD AVANZA","2745","2504","5249"
-"0357","Presidencia de la Plaza","NEPAR","31","37","68"
-"0357","Presidencia de la Plaza","PARTIDO DEL OBRERO","83","66","149"
-"0357","Presidencia de la Plaza","PARTIDO DIGNIDAD POPULAR","40","29","69"
-"0357","Presidencia de la Plaza","PARTIDO POLO SOCIAL MOVIMEN","19","17","36"
-"0357","Presidencia de la Plaza","PROYECTO SUR","46","49","95"
-"0357","Presidencia de la Plaza","TOTALES","7115","7115","14230"
-"0357","Presidencia de la Plaza","UNIR","37","39","76"
-"0357","Presidencia de la Plaza","VAMOS CHACO","169","195","364"
-"0357","Presidencia de la Plaza","VOTOS EN BLANCO","150","721","871"
-"0357","Presidencia de la Plaza","VOTOS IMPUGNADOS","0","0","0"
-"0357","Presidencia de la Plaza","VOTOS NULOS","123","97","220"
-"0357","Presidencia de la Plaza","VOTOS RECURRIDOS","0","0","0"
-"0294","Presidencia Roca","FRENTE INTEGRADOR","30","26","56"
-"0294","Presidencia Roca","FUERZA PATRIA","1517","1466","2983"
-"0294","Presidencia Roca","LA LIBERTAD AVANZA","1361","1295","2656"
-"0294","Presidencia Roca","NEPAR","11","13","24"
-"0294","Presidencia Roca","PARTIDO DEL OBRERO","21","15","36"
-"0294","Presidencia Roca","PARTIDO DIGNIDAD POPULAR","17","14","31"
-"0294","Presidencia Roca","PARTIDO POLO SOCIAL MOVIMEN","2","1","3"
-"0294","Presidencia Roca","PROYECTO SUR","10","10","20"
-"0294","Presidencia Roca","TOTALES","3086","3086","6172"
-"0294","Presidencia Roca","UNIR","6","7","13"
-"0294","Presidencia Roca","VAMOS CHACO","28","36","64"
-"0294","Presidencia Roca","VOTOS EN BLANCO","40","163","203"
-"0294","Presidencia Roca","VOTOS IMPUGNADOS","0","0","0"
-"0294","Presidencia Roca","VOTOS NULOS","31","28","59"
-"0294","Presidencia Roca","VOTOS RECURRIDOS","12","12","24"
-"0077","Presidencia Roque Sáenz Peña","FRENTE INTEGRADOR","661","931","1592"
-"0077","Presidencia Roque Sáenz Peña","FUERZA PATRIA","22132","18849","40981"
-"0077","Presidencia Roque Sáenz Peña","LA LIBERTAD AVANZA","26838","24659","51497"
-"0077","Presidencia Roque Sáenz Peña","NEPAR","477","472","949"
-"0077","Presidencia Roque Sáenz Peña","PARTIDO DEL OBRERO","1152","896","2048"
-"0077","Presidencia Roque Sáenz Peña","PARTIDO DIGNIDAD POPULAR","443","487","930"
-"0077","Presidencia Roque Sáenz Peña","PARTIDO POLO SOCIAL MOVIMEN","154","183","337"
-"0077","Presidencia Roque Sáenz Peña","PROYECTO SUR","465","476","941"
-"0077","Presidencia Roque Sáenz Peña","TOTALES","56503","56503","113006"
-"0077","Presidencia Roque Sáenz Peña","UNIR","337","405","742"
-"0077","Presidencia Roque Sáenz Peña","VAMOS CHACO","1323","1323","2646"
-"0077","Presidencia Roque Sáenz Peña","VOTOS EN BLANCO","1404","6931","8335"
-"0077","Presidencia Roque Sáenz Peña","VOTOS IMPUGNADOS","5","5","10"
-"0077","Presidencia Roque Sáenz Peña","VOTOS NULOS","1072","846","1918"
-"0077","Presidencia Roque Sáenz Peña","VOTOS RECURRIDOS","40","40","80"
-"0063","Puerto Bermejo","FRENTE INTEGRADOR","7","11","18"
-"0063","Puerto Bermejo","FUERZA PATRIA","669","631","1300"
-"0063","Puerto Bermejo","LA LIBERTAD AVANZA","515","488","1003"
-"0063","Puerto Bermejo","NEPAR","24","35","59"
-"0063","Puerto Bermejo","PARTIDO DEL OBRERO","10","4","14"
-"0063","Puerto Bermejo","PARTIDO DIGNIDAD POPULAR","4","3","7"
-"0063","Puerto Bermejo","PARTIDO POLO SOCIAL MOVIMEN","3","3","6"
-"0063","Puerto Bermejo","PROYECTO SUR","3","14","17"
-"0063","Puerto Bermejo","TOTALES","1286","1286","2572"
-"0063","Puerto Bermejo","UNIR","8","3","11"
-"0063","Puerto Bermejo","VAMOS CHACO","8","14","22"
-"0063","Puerto Bermejo","VOTOS EN BLANCO","30","75","105"
-"0063","Puerto Bermejo","VOTOS IMPUGNADOS","0","0","0"
-"0063","Puerto Bermejo","VOTOS NULOS","5","5","10"
-"0063","Puerto Bermejo","VOTOS RECURRIDOS","0","0","0"
-"0070","Puerto Eva Perón","FRENTE INTEGRADOR","1","1","2"
-"0070","Puerto Eva Perón","FUERZA PATRIA","438","417","855"
-"0070","Puerto Eva Perón","LA LIBERTAD AVANZA","210","192","402"
-"0070","Puerto Eva Perón","NEPAR","0","0","0"
-"0070","Puerto Eva Perón","PARTIDO DEL OBRERO","4","2","6"
-"0070","Puerto Eva Perón","PARTIDO DIGNIDAD POPULAR","5","4","9"
-"0070","Puerto Eva Perón","PARTIDO POLO SOCIAL MOVIMEN","0","0","0"
-"0070","Puerto Eva Perón","PROYECTO SUR","5","4","9"
-"0070","Puerto Eva Perón","TOTALES","685","685","1370"
-"0070","Puerto Eva Perón","UNIR","1","1","2"
-"0070","Puerto Eva Perón","VAMOS CHACO","4","3","7"
-"0070","Puerto Eva Perón","VOTOS EN BLANCO","6","51","57"
-"0070","Puerto Eva Perón","VOTOS IMPUGNADOS","0","0","0"
-"0070","Puerto Eva Perón","VOTOS NULOS","11","10","21"
-"0070","Puerto Eva Perón","VOTOS RECURRIDOS","0","0","0"
-"0245","Puerto Tirol","FRENTE INTEGRADOR","99","153","252"
-"0245","Puerto Tirol","FUERZA PATRIA","2781","2335","5116"
-"0245","Puerto Tirol","LA LIBERTAD AVANZA","3322","2982","6304"
-"0245","Puerto Tirol","NEPAR","86","79","165"
-"0245","Puerto Tirol","PARTIDO DEL OBRERO","124","103","227"
-"0245","Puerto Tirol","PARTIDO DIGNIDAD POPULAR","35","39","74"
-"0245","Puerto Tirol","PARTIDO POLO SOCIAL MOVIMEN","23","24","47"
-"0245","Puerto Tirol","PROYECTO SUR","62","67","129"
-"0245","Puerto Tirol","TOTALES","7283","7283","14566"
-"0245","Puerto Tirol","UNIR","52","44","96"
-"0245","Puerto Tirol","VAMOS CHACO","355","632","987"
-"0245","Puerto Tirol","VOTOS EN BLANCO","233","724","957"
-"0245","Puerto Tirol","VOTOS IMPUGNADOS","1","1","2"
-"0245","Puerto Tirol","VOTOS NULOS","100","90","190"
-"0245","Puerto Tirol","VOTOS RECURRIDOS","10","10","20"
-"0406","Puerto Vilelas","FRENTE INTEGRADOR","112","171","283"
-"0406","Puerto Vilelas","FUERZA PATRIA","4789","4407","9196"
-"0406","Puerto Vilelas","LA LIBERTAD AVANZA","3285","3042","6327"
-"0406","Puerto Vilelas","NEPAR","46","57","103"
-"0406","Puerto Vilelas","PARTIDO DEL OBRERO","124","83","207"
-"0406","Puerto Vilelas","PARTIDO DIGNIDAD POPULAR","46","46","92"
-"0406","Puerto Vilelas","PARTIDO POLO SOCIAL MOVIMEN","21","21","42"
-"0406","Puerto Vilelas","PROYECTO SUR","53","71","124"
-"0406","Puerto Vilelas","TOTALES","9045","9045","18090"
-"0406","Puerto Vilelas","UNIR","71","75","146"
-"0406","Puerto Vilelas","VAMOS CHACO","149","167","316"
-"0406","Puerto Vilelas","VOTOS EN BLANCO","169","744","913"
-"0406","Puerto Vilelas","VOTOS IMPUGNADOS","6","6","12"
-"0406","Puerto Vilelas","VOTOS NULOS","162","143","305"
-"0406","Puerto Vilelas","VOTOS RECURRIDOS","12","12","24"
-"0378","Quitilipi","FRENTE INTEGRADOR","179","258","437"
-"0378","Quitilipi","FUERZA PATRIA","7981","7098","15079"
-"0378","Quitilipi","LA LIBERTAD AVANZA","7393","6702","14095"
-"0378","Quitilipi","NEPAR","174","155","329"
-"0378","Quitilipi","PARTIDO DEL OBRERO","246","192","438"
-"0378","Quitilipi","PARTIDO DIGNIDAD POPULAR","239","177","416"
-"0378","Quitilipi","PARTIDO POLO SOCIAL MOVIMEN","33","45","78"
-"0378","Quitilipi","PROYECTO SUR","147","135","282"
-"0378","Quitilipi","TOTALES","17624","17624","35248"
-"0378","Quitilipi","UNIR","99","127","226"
-"0378","Quitilipi","VAMOS CHACO","381","377","758"
-"0378","Quitilipi","VOTOS EN BLANCO","477","2121","2598"
-"0378","Quitilipi","VOTOS IMPUGNADOS","0","0","0"
-"0378","Quitilipi","VOTOS NULOS","267","229","496"
-"0378","Quitilipi","VOTOS RECURRIDOS","8","8","16"
-"0413","Resistencia","FRENTE INTEGRADOR","3730","6508","10238"
-"0413","Resistencia","FUERZA PATRIA","61236","51118","112354"
-"0413","Resistencia","LA LIBERTAD AVANZA","94840","85983","180823"
-"0413","Resistencia","NEPAR","1475","1550","3025"
-"0413","Resistencia","PARTIDO DEL OBRERO","4144","3246","7390"
-"0413","Resistencia","PARTIDO DIGNIDAD POPULAR","994","880","1874"
-"0413","Resistencia","PARTIDO POLO SOCIAL MOVIMEN","564","687","1251"
-"0413","Resistencia","PROYECTO SUR","1669","3073","4742"
-"0413","Resistencia","TOTALES","182315","182315","364630"
-"0413","Resistencia","UNIR","1529","1630","3159"
-"0413","Resistencia","VAMOS CHACO","5291","5609","10900"
-"0413","Resistencia","VOTOS EN BLANCO","3639","19198","22837"
-"0413","Resistencia","VOTOS IMPUGNADOS","10","10","20"
-"0413","Resistencia","VOTOS NULOS","2989","2618","5607"
-"0413","Resistencia","VOTOS RECURRIDOS","205","205","410"
-"0420","Samuhú","FRENTE INTEGRADOR","3","5","8"
-"0420","Samuhú","FUERZA PATRIA","719","697","1416"
-"0420","Samuhú","LA LIBERTAD AVANZA","327","307","634"
-"0420","Samuhú","NEPAR","4","2","6"
-"0420","Samuhú","PARTIDO DEL OBRERO","3","3","6"
-"0420","Samuhú","PARTIDO DIGNIDAD POPULAR","7","7","14"
-"0420","Samuhú","PARTIDO POLO SOCIAL MOVIMEN","1","1","2"
-"0420","Samuhú","PROYECTO SUR","1","1","2"
-"0420","Samuhú","TOTALES","1114","1114","2228"
-"0420","Samuhú","UNIR","2","3","5"
-"0420","Samuhú","VAMOS CHACO","6","10","16"
-"0420","Samuhú","VOTOS EN BLANCO","18","62","80"
-"0420","Samuhú","VOTOS IMPUGNADOS","0","0","0"
-"0420","Samuhú","VOTOS NULOS","23","16","39"
-"0420","Samuhú","VOTOS RECURRIDOS","0","0","0"
-"0350","San Bernardo","FRENTE INTEGRADOR","68","84","152"
-"0350","San Bernardo","FUERZA PATRIA","3536","3285","6821"
-"0350","San Bernardo","LA LIBERTAD AVANZA","2301","2148","4449"
-"0350","San Bernardo","NEPAR","43","45","88"
-"0350","San Bernardo","PARTIDO DEL OBRERO","48","37","85"
-"0350","San Bernardo","PARTIDO DIGNIDAD POPULAR","31","38","69"
-"0350","San Bernardo","PARTIDO POLO SOCIAL MOVIMEN","6","11","17"
-"0350","San Bernardo","PROYECTO SUR","23","39","62"
-"0350","San Bernardo","TOTALES","6411","6411","12822"
-"0350","San Bernardo","UNIR","22","27","49"
-"0350","San Bernardo","VAMOS CHACO","112","114","226"
-"0350","San Bernardo","VOTOS EN BLANCO","121","502","623"
-"0350","San Bernardo","VOTOS IMPUGNADOS","0","0","0"
-"0350","San Bernardo","VOTOS NULOS","100","81","181"
-"0350","San Bernardo","VOTOS RECURRIDOS","0","0","0"
-"0126","Santa Sylvina","FRENTE INTEGRADOR","45","49","94"
-"0126","Santa Sylvina","FUERZA PATRIA","2382","2185","4567"
-"0126","Santa Sylvina","LA LIBERTAD AVANZA","2562","2370","4932"
-"0126","Santa Sylvina","NEPAR","31","28","59"
-"0126","Santa Sylvina","PARTIDO DEL OBRERO","52","37","89"
-"0126","Santa Sylvina","PARTIDO DIGNIDAD POPULAR","25","21","46"
-"0126","Santa Sylvina","PARTIDO POLO SOCIAL MOVIMEN","7","5","12"
-"0126","Santa Sylvina","PROYECTO SUR","22","27","49"
-"0126","Santa Sylvina","TOTALES","5424","5424","10848"
-"0126","Santa Sylvina","UNIR","24","30","54"
-"0126","Santa Sylvina","VAMOS CHACO","80","81","161"
-"0126","Santa Sylvina","VOTOS EN BLANCO","99","508","607"
-"0126","Santa Sylvina","VOTOS IMPUGNADOS","1","1","2"
-"0126","Santa Sylvina","VOTOS NULOS","93","81","174"
-"0126","Santa Sylvina","VOTOS RECURRIDOS","1","1","2"
-"0028","Taco Pozo","FRENTE INTEGRADOR","22","25","47"
-"0028","Taco Pozo","FUERZA PATRIA","3949","3700","7649"
-"0028","Taco Pozo","LA LIBERTAD AVANZA","1692","1589","3281"
-"0028","Taco Pozo","NEPAR","36","34","70"
-"0028","Taco Pozo","PARTIDO DEL OBRERO","23","21","44"
-"0028","Taco Pozo","PARTIDO DIGNIDAD POPULAR","18","18","36"
-"0028","Taco Pozo","PARTIDO POLO SOCIAL MOVIMEN","11","12","23"
-"0028","Taco Pozo","PROYECTO SUR","18","16","34"
-"0028","Taco Pozo","TOTALES","6032","6032","12064"
-"0028","Taco Pozo","UNIR","21","18","39"
-"0028","Taco Pozo","VAMOS CHACO","51","55","106"
-"0028","Taco Pozo","VOTOS EN BLANCO","69","438","507"
-"0028","Taco Pozo","VOTOS IMPUGNADOS","0","0","0"
-"0028","Taco Pozo","VOTOS NULOS","122","106","228"
-"0028","Taco Pozo","VOTOS RECURRIDOS","0","0","0"
-"0301","Tres Isletas","FRENTE INTEGRADOR","129","161","290"
-"0301","Tres Isletas","FUERZA PATRIA","6578","6011","12589"
-"0301","Tres Isletas","LA LIBERTAD AVANZA","4608","4288","8896"
-"0301","Tres Isletas","NEPAR","140","132","272"
-"0301","Tres Isletas","PARTIDO DEL OBRERO","135","95","230"
-"0301","Tres Isletas","PARTIDO DIGNIDAD POPULAR","86","84","170"
-"0301","Tres Isletas","PARTIDO POLO SOCIAL MOVIMEN","27","26","53"
-"0301","Tres Isletas","PROYECTO SUR","184","140","324"
-"0301","Tres Isletas","TOTALES","12652","12652","25304"
-"0301","Tres Isletas","UNIR","60","67","127"
-"0301","Tres Isletas","VAMOS CHACO","225","248","473"
-"0301","Tres Isletas","VOTOS EN BLANCO","279","1238","1517"
-"0301","Tres Isletas","VOTOS IMPUGNADOS","0","0","0"
-"0301","Tres Isletas","VOTOS NULOS","180","141","321"
-"0301","Tres Isletas","VOTOS RECURRIDOS","21","21","42"
-"0322","Villa Ángela","FRENTE INTEGRADOR","449","546","995"
-"0322","Villa Ángela","FUERZA PATRIA","10807","9084","19891"
-"0322","Villa Ángela","LA LIBERTAD AVANZA","11334","10141","21475"
-"0322","Villa Ángela","NEPAR","251","261","512"
-"0322","Villa Ángela","PARTIDO DEL OBRERO","554","387","941"
-"0322","Villa Ángela","PARTIDO DIGNIDAD POPULAR","223","212","435"
-"0322","Villa Ángela","PARTIDO POLO SOCIAL MOVIMEN","102","166","268"
-"0322","Villa Ángela","PROYECTO SUR","248","341","589"
-"0322","Villa Ángela","TOTALES","26199","26199","52398"
-"0322","Villa Ángela","UNIR","216","250","466"
-"0322","Villa Ángela","VAMOS CHACO","712","661","1373"
-"0322","Villa Ángela","VOTOS EN BLANCO","785","3693","4478"
-"0322","Villa Ángela","VOTOS IMPUGNADOS","1","1","2"
-"0322","Villa Ángela","VOTOS NULOS","508","447","955"
-"0322","Villa Ángela","VOTOS RECURRIDOS","9","9","18"
-"0427","Villa Berthet","FRENTE INTEGRADOR","54","55","109"
-"0427","Villa Berthet","FUERZA PATRIA","4958","4657","9615"
-"0427","Villa Berthet","LA LIBERTAD AVANZA","2348","2296","4644"
-"0427","Villa Berthet","NEPAR","166","53","219"
-"0427","Villa Berthet","PARTIDO DEL OBRERO","76","66","142"
-"0427","Villa Berthet","PARTIDO DIGNIDAD POPULAR","57","63","120"
-"0427","Villa Berthet","PARTIDO POLO SOCIAL MOVIMEN","22","24","46"
-"0427","Villa Berthet","PROYECTO SUR","50","52","102"
-"0427","Villa Berthet","TOTALES","8266","8266","16532"
-"0427","Villa Berthet","UNIR","35","43","78"
-"0427","Villa Berthet","VAMOS CHACO","143","131","274"
-"0427","Villa Berthet","VOTOS EN BLANCO","182","672","854"
-"0427","Villa Berthet","VOTOS IMPUGNADOS","0","0","0"
-"0427","Villa Berthet","VOTOS NULOS","167","146","313"
-"0427","Villa Berthet","VOTOS RECURRIDOS","8","8","16"
-"0203","Villa Río Bermejito","FRENTE INTEGRADOR","22","32","54"
-"0203","Villa Río Bermejito","FUERZA PATRIA","3648","3344","6992"
-"0203","Villa Río Bermejito","LA LIBERTAD AVANZA","1263","1139","2402"
-"0203","Villa Río Bermejito","NEPAR","135","125","260"
-"0203","Villa Río Bermejito","PARTIDO DEL OBRERO","34","25","59"
-"0203","Villa Río Bermejito","PARTIDO DIGNIDAD POPULAR","29","24","53"
-"0203","Villa Río Bermejito","PARTIDO POLO SOCIAL MOVIMEN","6","8","14"
-"0203","Villa Río Bermejito","PROYECTO SUR","20","15","35"
-"0203","Villa Río Bermejito","TOTALES","5480","5480","10960"
-"0203","Villa Río Bermejito","UNIR","5","5","10"
-"0203","Villa Río Bermejito","VAMOS CHACO","107","112","219"
-"0203","Villa Río Bermejito","VOTOS EN BLANCO","82","548","630"
-"0203","Villa Río Bermejito","VOTOS IMPUGNADOS","0","0","0"
-"0203","Villa Río Bermejito","VOTOS NULOS","129","103","232"
-"0203","Villa Río Bermejito","VOTOS RECURRIDOS","0","0","0"
-NULL,NULL,"FRENTE INTEGRADOR","13","14","27"
-NULL,NULL,"FUERZA PATRIA","474","328","802"
-NULL,NULL,"LA LIBERTAD AVANZA","331","304","635"
-NULL,NULL,"NEPAR","9","10","19"
-NULL,NULL,"PARTIDO DEL OBRERO","20","17","37"
-NULL,NULL,"PARTIDO DIGNIDAD POPULAR","8","7","15"
-NULL,NULL,"PARTIDO POLO SOCIAL MOVIMEN","3","6","9"
-NULL,NULL,"PROYECTO SUR","15","18","33"
-NULL,NULL,"TOTALES","569","569","1138"
-NULL,NULL,"UNIR","5","7","12"
-NULL,NULL,"VAMOS CHACO","22","29","51"
-NULL,NULL,"VOTOS EN BLANCO","61","267","328"
-NULL,NULL,"VOTOS IMPUGNADOS","-29","-29","-58"
-NULL,NULL,"VOTOS NULOS","209","163","372"
-NULL,NULL,"VOTOS RECURRIDOS","-572","-572","-1144"
+"t_muni_codigo,""municipio"",""fuerza_politica"",""votos_senador"",""votos_diputado"",""votos_total""";;;;;;;;;;;
+"0210,""Avia Terai"",""FRENTE INTEGRADOR"",""24"",""26"",""50""";;;;;;;;;;;
+"0210,""Avia Terai"",""FUERZA PATRIA"",""2658"",""2535"",""5193""";;;;;;;;;;;
+"0210,""Avia Terai"",""LA LIBERTAD AVANZA"",""1289"",""1220"",""2509""";;;;;;;;;;;
+"0210,""Avia Terai"",""NEPAR"",""22"",""25"",""47""";;;;;;;;;;;
+"0210,""Avia Terai"",""PARTIDO DEL OBRERO"",""28"",""23"",""51""";;;;;;;;;;;
+"0210,""Avia Terai"",""PARTIDO DIGNIDAD POPULAR"",""18"",""13"",""31""";;;;;;;;;;;
+"0210,""Avia Terai"",""PARTIDO POLO SOCIAL MOVIMEN"",""6"",""7"",""13""";;;;;;;;;;;
+"0210,""Avia Terai"",""PROYECTO SUR"",""29"",""22"",""51""";;;;;;;;;;;
+"0210,""Avia Terai"",""TOTALES"",""4251"",""4251"",""8502""";;;;;;;;;;;
+"0210,""Avia Terai"",""UNIR"",""11"",""14"",""25""";;;;;;;;;;;
+"0210,""Avia Terai"",""VAMOS CHACO"",""44"",""46"",""90""";;;;;;;;;;;
+"0210,""Avia Terai"",""VOTOS EN BLANCO"",""68"",""271"",""339""";;;;;;;;;;;
+"0210,""Avia Terai"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0210,""Avia Terai"",""VOTOS NULOS"",""52"",""47"",""99""";;;;;;;;;;;
+"0210,""Avia Terai"",""VOTOS RECURRIDOS"",""2"",""2"",""4""";;;;;;;;;;;
+"0385,""Barranqueras"",""FRENTE INTEGRADOR"",""605"",""1117"",""1722""";;;;;;;;;;;
+"0385,""Barranqueras"",""FUERZA PATRIA"",""13976"",""11889"",""25865""";;;;;;;;;;;
+"0385,""Barranqueras"",""LA LIBERTAD AVANZA"",""17729"",""16232"",""33961""";;;;;;;;;;;
+"0385,""Barranqueras"",""NEPAR"",""227"",""237"",""464""";;;;;;;;;;;
+"0385,""Barranqueras"",""PARTIDO DEL OBRERO"",""726"",""589"",""1315""";;;;;;;;;;;
+"0385,""Barranqueras"",""PARTIDO DIGNIDAD POPULAR"",""267"",""216"",""483""";;;;;;;;;;;
+"0385,""Barranqueras"",""PARTIDO POLO SOCIAL MOVIMEN"",""86"",""112"",""198""";;;;;;;;;;;
+"0385,""Barranqueras"",""PROYECTO SUR"",""259"",""345"",""604""";;;;;;;;;;;
+"0385,""Barranqueras"",""TOTALES"",""36358"",""36358"",""72716""";;;;;;;;;;;
+"0385,""Barranqueras"",""UNIR"",""244"",""277"",""521""";;;;;;;;;;;
+"0385,""Barranqueras"",""VAMOS CHACO"",""820"",""982"",""1802""";;;;;;;;;;;
+"0385,""Barranqueras"",""VOTOS EN BLANCO"",""701"",""3744"",""4445""";;;;;;;;;;;
+"0385,""Barranqueras"",""VOTOS IMPUGNADOS"",""1"",""1"",""2""";;;;;;;;;;;
+"0385,""Barranqueras"",""VOTOS NULOS"",""664"",""564"",""1228""";;;;;;;;;;;
+"0385,""Barranqueras"",""VOTOS RECURRIDOS"",""53"",""53"",""106""";;;;;;;;;;;
+"0392,""Basail"",""FRENTE INTEGRADOR"",""39"",""43"",""82""";;;;;;;;;;;
+"0392,""Basail"",""FUERZA PATRIA"",""1265"",""1161"",""2426""";;;;;;;;;;;
+"0392,""Basail"",""LA LIBERTAD AVANZA"",""1466"",""1358"",""2824""";;;;;;;;;;;
+"0392,""Basail"",""NEPAR"",""15"",""10"",""25""";;;;;;;;;;;
+"0392,""Basail"",""PARTIDO DEL OBRERO"",""39"",""29"",""68""";;;;;;;;;;;
+"0392,""Basail"",""PARTIDO DIGNIDAD POPULAR"",""16"",""16"",""32""";;;;;;;;;;;
+"0392,""Basail"",""PARTIDO POLO SOCIAL MOVIMEN"",""7"",""5"",""12""";;;;;;;;;;;
+"0392,""Basail"",""PROYECTO SUR"",""21"",""24"",""45""";;;;;;;;;;;
+"0392,""Basail"",""TOTALES"",""3087"",""3087"",""6174""";;;;;;;;;;;
+"0392,""Basail"",""UNIR"",""24"",""24"",""48""";;;;;;;;;;;
+"0392,""Basail"",""VAMOS CHACO"",""57"",""64"",""121""";;;;;;;;;;;
+"0392,""Basail"",""VOTOS EN BLANCO"",""94"",""325"",""419""";;;;;;;;;;;
+"0392,""Basail"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0392,""Basail"",""VOTOS NULOS"",""42"",""26"",""68""";;;;;;;;;;;
+"0392,""Basail"",""VOTOS RECURRIDOS"",""2"",""2"",""4""";;;;;;;;;;;
+"0217,""Campo Largo"",""FRENTE INTEGRADOR"",""51"",""53"",""104""";;;;;;;;;;;
+"0217,""Campo Largo"",""FUERZA PATRIA"",""2546"",""2305"",""4851""";;;;;;;;;;;
+"0217,""Campo Largo"",""LA LIBERTAD AVANZA"",""2409"",""2242"",""4651""";;;;;;;;;;;
+"0217,""Campo Largo"",""NEPAR"",""30"",""28"",""58""";;;;;;;;;;;
+"0217,""Campo Largo"",""PARTIDO DEL OBRERO"",""48"",""37"",""85""";;;;;;;;;;;
+"0217,""Campo Largo"",""PARTIDO DIGNIDAD POPULAR"",""33"",""42"",""75""";;;;;;;;;;;
+"0217,""Campo Largo"",""PARTIDO POLO SOCIAL MOVIMEN"",""12"",""14"",""26""";;;;;;;;;;;
+"0217,""Campo Largo"",""PROYECTO SUR"",""35"",""21"",""56""";;;;;;;;;;;
+"0217,""Campo Largo"",""TOTALES"",""5474"",""5474"",""10948""";;;;;;;;;;;
+"0217,""Campo Largo"",""UNIR"",""24"",""29"",""53""";;;;;;;;;;;
+"0217,""Campo Largo"",""VAMOS CHACO"",""89"",""92"",""181""";;;;;;;;;;;
+"0217,""Campo Largo"",""VOTOS EN BLANCO"",""114"",""531"",""645""";;;;;;;;;;;
+"0217,""Campo Largo"",""VOTOS IMPUGNADOS"",""3"",""3"",""6""";;;;;;;;;;;
+"0217,""Campo Largo"",""VOTOS NULOS"",""73"",""70"",""143""";;;;;;;;;;;
+"0217,""Campo Largo"",""VOTOS RECURRIDOS"",""7"",""7"",""14""";;;;;;;;;;;
+"0434,""Capitán Solari"",""FRENTE INTEGRADOR"",""16"",""18"",""34""";;;;;;;;;;;
+"0434,""Capitán Solari"",""FUERZA PATRIA"",""965"",""946"",""1911""";;;;;;;;;;;
+"0434,""Capitán Solari"",""LA LIBERTAD AVANZA"",""434"",""378"",""812""";;;;;;;;;;;
+"0434,""Capitán Solari"",""NEPAR"",""9"",""3"",""12""";;;;;;;;;;;
+"0434,""Capitán Solari"",""PARTIDO DEL OBRERO"",""9"",""5"",""14""";;;;;;;;;;;
+"0434,""Capitán Solari"",""PARTIDO DIGNIDAD POPULAR"",""10"",""13"",""23""";;;;;;;;;;;
+"0434,""Capitán Solari"",""PARTIDO POLO SOCIAL MOVIMEN"",""6"",""5"",""11""";;;;;;;;;;;
+"0434,""Capitán Solari"",""PROYECTO SUR"",""5"",""7"",""12""";;;;;;;;;;;
+"0434,""Capitán Solari"",""TOTALES"",""1668"",""1668"",""3336""";;;;;;;;;;;
+"0434,""Capitán Solari"",""UNIR"",""9"",""9"",""18""";;;;;;;;;;;
+"0434,""Capitán Solari"",""VAMOS CHACO"",""128"",""195"",""323""";;;;;;;;;;;
+"0434,""Capitán Solari"",""VOTOS EN BLANCO"",""56"",""72"",""128""";;;;;;;;;;;
+"0434,""Capitán Solari"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0434,""Capitán Solari"",""VOTOS NULOS"",""20"",""16"",""36""";;;;;;;;;;;
+"0434,""Capitán Solari"",""VOTOS RECURRIDOS"",""1"",""1"",""2""";;;;;;;;;;;
+"0469,""Charadai"",""FRENTE INTEGRADOR"",""14"",""18"",""32""";;;;;;;;;;;
+"0469,""Charadai"",""FUERZA PATRIA"",""581"",""544"",""1125""";;;;;;;;;;;
+"0469,""Charadai"",""LA LIBERTAD AVANZA"",""402"",""380"",""782""";;;;;;;;;;;
+"0469,""Charadai"",""NEPAR"",""5"",""5"",""10""";;;;;;;;;;;
+"0469,""Charadai"",""PARTIDO DEL OBRERO"",""7"",""7"",""14""";;;;;;;;;;;
+"0469,""Charadai"",""PARTIDO DIGNIDAD POPULAR"",""11"",""11"",""22""";;;;;;;;;;;
+"0469,""Charadai"",""PARTIDO POLO SOCIAL MOVIMEN"",""1"",""4"",""5""";;;;;;;;;;;
+"0469,""Charadai"",""PROYECTO SUR"",""4"",""2"",""6""";;;;;;;;;;;
+"0469,""Charadai"",""TOTALES"",""1081"",""1081"",""2162""";;;;;;;;;;;
+"0469,""Charadai"",""UNIR"",""4"",""6"",""10""";;;;;;;;;;;
+"0469,""Charadai"",""VAMOS CHACO"",""10"",""11"",""21""";;;;;;;;;;;
+"0469,""Charadai"",""VOTOS EN BLANCO"",""20"",""73"",""93""";;;;;;;;;;;
+"0469,""Charadai"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0469,""Charadai"",""VOTOS NULOS"",""22"",""20"",""42""";;;;;;;;;;;
+"0469,""Charadai"",""VOTOS RECURRIDOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0084,""Charata"",""FRENTE INTEGRADOR"",""106"",""150"",""256""";;;;;;;;;;;
+"0084,""Charata"",""FUERZA PATRIA"",""6740"",""6040"",""12780""";;;;;;;;;;;
+"0084,""Charata"",""LA LIBERTAD AVANZA"",""9957"",""8823"",""18780""";;;;;;;;;;;
+"0084,""Charata"",""NEPAR"",""87"",""105"",""192""";;;;;;;;;;;
+"0084,""Charata"",""PARTIDO DEL OBRERO"",""165"",""140"",""305""";;;;;;;;;;;
+"0084,""Charata"",""PARTIDO DIGNIDAD POPULAR"",""78"",""89"",""167""";;;;;;;;;;;
+"0084,""Charata"",""PARTIDO POLO SOCIAL MOVIMEN"",""32"",""36"",""68""";;;;;;;;;;;
+"0084,""Charata"",""PROYECTO SUR"",""84"",""72"",""156""";;;;;;;;;;;
+"0084,""Charata"",""TOTALES"",""18223"",""18223"",""36446""";;;;;;;;;;;
+"0084,""Charata"",""UNIR"",""72"",""86"",""158""";;;;;;;;;;;
+"0084,""Charata"",""VAMOS CHACO"",""243"",""277"",""520""";;;;;;;;;;;
+"0084,""Charata"",""VOTOS EN BLANCO"",""355"",""2167"",""2522""";;;;;;;;;;;
+"0084,""Charata"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0084,""Charata"",""VOTOS NULOS"",""295"",""229"",""524""";;;;;;;;;;;
+"0084,""Charata"",""VOTOS RECURRIDOS"",""9"",""9"",""18""";;;;;;;;;;;
+"0119,""Chorotis"",""FRENTE INTEGRADOR"",""4"",""3"",""7""";;;;;;;;;;;
+"0119,""Chorotis"",""FUERZA PATRIA"",""352"",""341"",""693""";;;;;;;;;;;
+"0119,""Chorotis"",""LA LIBERTAD AVANZA"",""433"",""410"",""843""";;;;;;;;;;;
+"0119,""Chorotis"",""NEPAR"",""5"",""5"",""10""";;;;;;;;;;;
+"0119,""Chorotis"",""PARTIDO DEL OBRERO"",""9"",""7"",""16""";;;;;;;;;;;
+"0119,""Chorotis"",""PARTIDO DIGNIDAD POPULAR"",""1"",""1"",""2""";;;;;;;;;;;
+"0119,""Chorotis"",""PARTIDO POLO SOCIAL MOVIMEN"",""2"",""0"",""2""";;;;;;;;;;;
+"0119,""Chorotis"",""PROYECTO SUR"",""3"",""4"",""7""";;;;;;;;;;;
+"0119,""Chorotis"",""TOTALES"",""867"",""867"",""1734""";;;;;;;;;;;
+"0119,""Chorotis"",""UNIR"",""5"",""5"",""10""";;;;;;;;;;;
+"0119,""Chorotis"",""VAMOS CHACO"",""22"",""17"",""39""";;;;;;;;;;;
+"0119,""Chorotis"",""VOTOS EN BLANCO"",""19"",""63"",""82""";;;;;;;;;;;
+"0119,""Chorotis"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0119,""Chorotis"",""VOTOS NULOS"",""11"",""10"",""21""";;;;;;;;;;;
+"0119,""Chorotis"",""VOTOS RECURRIDOS"",""1"",""1"",""2""";;;;;;;;;;;
+"0252,""Ciervo Petiso"",""FRENTE INTEGRADOR"",""4"",""2"",""6""";;;;;;;;;;;
+"0252,""Ciervo Petiso"",""FUERZA PATRIA"",""544"",""533"",""1077""";;;;;;;;;;;
+"0252,""Ciervo Petiso"",""LA LIBERTAD AVANZA"",""273"",""256"",""529""";;;;;;;;;;;
+"0252,""Ciervo Petiso"",""NEPAR"",""8"",""7"",""15""";;;;;;;;;;;
+"0252,""Ciervo Petiso"",""PARTIDO DEL OBRERO"",""3"",""2"",""5""";;;;;;;;;;;
+"0252,""Ciervo Petiso"",""PARTIDO DIGNIDAD POPULAR"",""3"",""4"",""7""";;;;;;;;;;;
+"0252,""Ciervo Petiso"",""PARTIDO POLO SOCIAL MOVIMEN"",""0"",""0"",""0""";;;;;;;;;;;
+"0252,""Ciervo Petiso"",""PROYECTO SUR"",""1"",""0"",""1""";;;;;;;;;;;
+"0252,""Ciervo Petiso"",""TOTALES"",""911"",""911"",""1822""";;;;;;;;;;;
+"0252,""Ciervo Petiso"",""UNIR"",""2"",""1"",""3""";;;;;;;;;;;
+"0252,""Ciervo Petiso"",""VAMOS CHACO"",""55"",""68"",""123""";;;;;;;;;;;
+"0252,""Ciervo Petiso"",""VOTOS EN BLANCO"",""7"",""27"",""34""";;;;;;;;;;;
+"0252,""Ciervo Petiso"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0252,""Ciervo Petiso"",""VOTOS NULOS"",""11"",""11"",""22""";;;;;;;;;;;
+"0252,""Ciervo Petiso"",""VOTOS RECURRIDOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0473,""Colonia Aborigen"",""FRENTE INTEGRADOR"",""6"",""8"",""14""";;;;;;;;;;;
+"0473,""Colonia Aborigen"",""FUERZA PATRIA"",""2067"",""1893"",""3960""";;;;;;;;;;;
+"0473,""Colonia Aborigen"",""LA LIBERTAD AVANZA"",""683"",""619"",""1302""";;;;;;;;;;;
+"0473,""Colonia Aborigen"",""NEPAR"",""11"",""6"",""17""";;;;;;;;;;;
+"0473,""Colonia Aborigen"",""PARTIDO DEL OBRERO"",""9"",""3"",""12""";;;;;;;;;;;
+"0473,""Colonia Aborigen"",""PARTIDO DIGNIDAD POPULAR"",""9"",""8"",""17""";;;;;;;;;;;
+"0473,""Colonia Aborigen"",""PARTIDO POLO SOCIAL MOVIMEN"",""3"",""3"",""6""";;;;;;;;;;;
+"0473,""Colonia Aborigen"",""PROYECTO SUR"",""12"",""10"",""22""";;;;;;;;;;;
+"0473,""Colonia Aborigen"",""TOTALES"",""2916"",""2916"",""5832""";;;;;;;;;;;
+"0473,""Colonia Aborigen"",""UNIR"",""10"",""8"",""18""";;;;;;;;;;;
+"0473,""Colonia Aborigen"",""VAMOS CHACO"",""20"",""17"",""37""";;;;;;;;;;;
+"0473,""Colonia Aborigen"",""VOTOS EN BLANCO"",""66"",""327"",""393""";;;;;;;;;;;
+"0473,""Colonia Aborigen"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0473,""Colonia Aborigen"",""VOTOS NULOS"",""20"",""14"",""34""";;;;;;;;;;;
+"0473,""Colonia Aborigen"",""VOTOS RECURRIDOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0364,""Colonia Benítez"",""FRENTE INTEGRADOR"",""47"",""74"",""121""";;;;;;;;;;;
+"0364,""Colonia Benítez"",""FUERZA PATRIA"",""1509"",""1322"",""2831""";;;;;;;;;;;
+"0364,""Colonia Benítez"",""LA LIBERTAD AVANZA"",""2080"",""1920"",""4000""";;;;;;;;;;;
+"0364,""Colonia Benítez"",""NEPAR"",""43"",""48"",""91""";;;;;;;;;;;
+"0364,""Colonia Benítez"",""PARTIDO DEL OBRERO"",""68"",""49"",""117""";;;;;;;;;;;
+"0364,""Colonia Benítez"",""PARTIDO DIGNIDAD POPULAR"",""14"",""20"",""34""";;;;;;;;;;;
+"0364,""Colonia Benítez"",""PARTIDO POLO SOCIAL MOVIMEN"",""10"",""15"",""25""";;;;;;;;;;;
+"0364,""Colonia Benítez"",""PROYECTO SUR"",""25"",""34"",""59""";;;;;;;;;;;
+"0364,""Colonia Benítez"",""TOTALES"",""4060"",""4060"",""8120""";;;;;;;;;;;
+"0364,""Colonia Benítez"",""UNIR"",""17"",""23"",""40""";;;;;;;;;;;
+"0364,""Colonia Benítez"",""VAMOS CHACO"",""96"",""116"",""212""";;;;;;;;;;;
+"0364,""Colonia Benítez"",""VOTOS EN BLANCO"",""81"",""371"",""452""";;;;;;;;;;;
+"0364,""Colonia Benítez"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0364,""Colonia Benítez"",""VOTOS NULOS"",""65"",""63"",""128""";;;;;;;;;;;
+"0364,""Colonia Benítez"",""VOTOS RECURRIDOS"",""5"",""5"",""10""";;;;;;;;;;;
+"0441,""Colonia Elisa"",""FRENTE INTEGRADOR"",""27"",""20"",""47""";;;;;;;;;;;
+"0441,""Colonia Elisa"",""FUERZA PATRIA"",""1479"",""1318"",""2797""";;;;;;;;;;;
+"0441,""Colonia Elisa"",""LA LIBERTAD AVANZA"",""1082"",""950"",""2032""";;;;;;;;;;;
+"0441,""Colonia Elisa"",""NEPAR"",""22"",""20"",""42""";;;;;;;;;;;
+"0441,""Colonia Elisa"",""PARTIDO DEL OBRERO"",""26"",""16"",""42""";;;;;;;;;;;
+"0441,""Colonia Elisa"",""PARTIDO DIGNIDAD POPULAR"",""21"",""20"",""41""";;;;;;;;;;;
+"0441,""Colonia Elisa"",""PARTIDO POLO SOCIAL MOVIMEN"",""5"",""2"",""7""";;;;;;;;;;;
+"0441,""Colonia Elisa"",""PROYECTO SUR"",""15"",""11"",""26""";;;;;;;;;;;
+"0441,""Colonia Elisa"",""TOTALES"",""3166"",""3166"",""6332""";;;;;;;;;;;
+"0441,""Colonia Elisa"",""UNIR"",""11"",""14"",""25""";;;;;;;;;;;
+"0441,""Colonia Elisa"",""VAMOS CHACO"",""334"",""568"",""902""";;;;;;;;;;;
+"0441,""Colonia Elisa"",""VOTOS EN BLANCO"",""95"",""173"",""268""";;;;;;;;;;;
+"0441,""Colonia Elisa"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0441,""Colonia Elisa"",""VOTOS NULOS"",""49"",""54"",""103""";;;;;;;;;;;
+"0441,""Colonia Elisa"",""VOTOS RECURRIDOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0231,""Colonia Popular"",""FRENTE INTEGRADOR"",""16"",""24"",""40""";;;;;;;;;;;
+"0231,""Colonia Popular"",""FUERZA PATRIA"",""410"",""360"",""770""";;;;;;;;;;;
+"0231,""Colonia Popular"",""LA LIBERTAD AVANZA"",""896"",""846"",""1742""";;;;;;;;;;;
+"0231,""Colonia Popular"",""NEPAR"",""5"",""4"",""9""";;;;;;;;;;;
+"0231,""Colonia Popular"",""PARTIDO DEL OBRERO"",""17"",""12"",""29""";;;;;;;;;;;
+"0231,""Colonia Popular"",""PARTIDO DIGNIDAD POPULAR"",""5"",""6"",""11""";;;;;;;;;;;
+"0231,""Colonia Popular"",""PARTIDO POLO SOCIAL MOVIMEN"",""3"",""2"",""5""";;;;;;;;;;;
+"0231,""Colonia Popular"",""PROYECTO SUR"",""6"",""6"",""12""";;;;;;;;;;;
+"0231,""Colonia Popular"",""TOTALES"",""1429"",""1429"",""2858""";;;;;;;;;;;
+"0231,""Colonia Popular"",""UNIR"",""5"",""8"",""13""";;;;;;;;;;;
+"0231,""Colonia Popular"",""VAMOS CHACO"",""31"",""64"",""95""";;;;;;;;;;;
+"0231,""Colonia Popular"",""VOTOS EN BLANCO"",""21"",""88"",""109""";;;;;;;;;;;
+"0231,""Colonia Popular"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0231,""Colonia Popular"",""VOTOS NULOS"",""12"",""7"",""19""";;;;;;;;;;;
+"0231,""Colonia Popular"",""VOTOS RECURRIDOS"",""2"",""2"",""4""";;;;;;;;;;;
+"0448,""Colonias Unidas"",""FRENTE INTEGRADOR"",""17"",""12"",""29""";;;;;;;;;;;
+"0448,""Colonias Unidas"",""FUERZA PATRIA"",""1357"",""1576"",""2933""";;;;;;;;;;;
+"0448,""Colonias Unidas"",""LA LIBERTAD AVANZA"",""1123"",""1022"",""2145""";;;;;;;;;;;
+"0448,""Colonias Unidas"",""NEPAR"",""8"",""6"",""14""";;;;;;;;;;;
+"0448,""Colonias Unidas"",""PARTIDO DEL OBRERO"",""12"",""6"",""18""";;;;;;;;;;;
+"0448,""Colonias Unidas"",""PARTIDO DIGNIDAD POPULAR"",""160"",""16"",""176""";;;;;;;;;;;
+"0448,""Colonias Unidas"",""PARTIDO POLO SOCIAL MOVIMEN"",""5"",""3"",""8""";;;;;;;;;;;
+"0448,""Colonias Unidas"",""PROYECTO SUR"",""14"",""10"",""24""";;;;;;;;;;;
+"0448,""Colonias Unidas"",""TOTALES"",""2832"",""2832"",""5664""";;;;;;;;;;;
+"0448,""Colonias Unidas"",""UNIR"",""6"",""6"",""12""";;;;;;;;;;;
+"0448,""Colonias Unidas"",""VAMOS CHACO"",""41"",""50"",""91""";;;;;;;;;;;
+"0448,""Colonias Unidas"",""VOTOS EN BLANCO"",""46"",""98"",""144""";;;;;;;;;;;
+"0448,""Colonias Unidas"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0448,""Colonias Unidas"",""VOTOS NULOS"",""41"",""25"",""66""";;;;;;;;;;;
+"0448,""Colonias Unidas"",""VOTOS RECURRIDOS"",""2"",""2"",""4""";;;;;;;;;;;
+"0007,""Concepción del Bermejo"",""FRENTE INTEGRADOR"",""25"",""24"",""49""";;;;;;;;;;;
+"0007,""Concepción del Bermejo"",""FUERZA PATRIA"",""2106"",""1964"",""4070""";;;;;;;;;;;
+"0007,""Concepción del Bermejo"",""LA LIBERTAD AVANZA"",""1310"",""1234"",""2544""";;;;;;;;;;;
+"0007,""Concepción del Bermejo"",""NEPAR"",""17"",""22"",""39""";;;;;;;;;;;
+"0007,""Concepción del Bermejo"",""PARTIDO DEL OBRERO"",""21"",""20"",""41""";;;;;;;;;;;
+"0007,""Concepción del Bermejo"",""PARTIDO DIGNIDAD POPULAR"",""17"",""14"",""31""";;;;;;;;;;;
+"0007,""Concepción del Bermejo"",""PARTIDO POLO SOCIAL MOVIMEN"",""9"",""7"",""16""";;;;;;;;;;;
+"0007,""Concepción del Bermejo"",""PROYECTO SUR"",""12"",""11"",""23""";;;;;;;;;;;
+"0007,""Concepción del Bermejo"",""TOTALES"",""3705"",""3705"",""7410""";;;;;;;;;;;
+"0007,""Concepción del Bermejo"",""UNIR"",""8"",""11"",""19""";;;;;;;;;;;
+"0007,""Concepción del Bermejo"",""VAMOS CHACO"",""32"",""37"",""69""";;;;;;;;;;;
+"0007,""Concepción del Bermejo"",""VOTOS EN BLANCO"",""88"",""310"",""398""";;;;;;;;;;;
+"0007,""Concepción del Bermejo"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0007,""Concepción del Bermejo"",""VOTOS NULOS"",""59"",""50"",""109""";;;;;;;;;;;
+"0007,""Concepción del Bermejo"",""VOTOS RECURRIDOS"",""1"",""1"",""2""";;;;;;;;;;;
+"0308,""Coronel Du Graty"",""FRENTE INTEGRADOR"",""49"",""75"",""124""";;;;;;;;;;;
+"0308,""Coronel Du Graty"",""FUERZA PATRIA"",""2366"",""2119"",""4485""";;;;;;;;;;;
+"0308,""Coronel Du Graty"",""LA LIBERTAD AVANZA"",""3322"",""3079"",""6401""";;;;;;;;;;;
+"0308,""Coronel Du Graty"",""NEPAR"",""61"",""67"",""128""";;;;;;;;;;;
+"0308,""Coronel Du Graty"",""PARTIDO DEL OBRERO"",""55"",""45"",""100""";;;;;;;;;;;
+"0308,""Coronel Du Graty"",""PARTIDO DIGNIDAD POPULAR"",""44"",""36"",""80""";;;;;;;;;;;
+"0308,""Coronel Du Graty"",""PARTIDO POLO SOCIAL MOVIMEN"",""9"",""16"",""25""";;;;;;;;;;;
+"0308,""Coronel Du Graty"",""PROYECTO SUR"",""39"",""47"",""86""";;;;;;;;;;;
+"0308,""Coronel Du Graty"",""TOTALES"",""6363"",""6363"",""12726""";;;;;;;;;;;
+"0308,""Coronel Du Graty"",""UNIR"",""24"",""30"",""54""";;;;;;;;;;;
+"0308,""Coronel Du Graty"",""VAMOS CHACO"",""130"",""118"",""248""";;;;;;;;;;;
+"0308,""Coronel Du Graty"",""VOTOS EN BLANCO"",""187"",""637"",""824""";;;;;;;;;;;
+"0308,""Coronel Du Graty"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0308,""Coronel Du Graty"",""VOTOS NULOS"",""75"",""92"",""167""";;;;;;;;;;;
+"0308,""Coronel Du Graty"",""VOTOS RECURRIDOS"",""2"",""2"",""4""";;;;;;;;;;;
+"0133,""Corzuela"",""FRENTE INTEGRADOR"",""36"",""51"",""87""";;;;;;;;;;;
+"0133,""Corzuela"",""FUERZA PATRIA"",""3732"",""3462"",""7194""";;;;;;;;;;;
+"0133,""Corzuela"",""LA LIBERTAD AVANZA"",""2024"",""1888"",""3912""";;;;;;;;;;;
+"0133,""Corzuela"",""NEPAR"",""27"",""23"",""50""";;;;;;;;;;;
+"0133,""Corzuela"",""PARTIDO DEL OBRERO"",""50"",""38"",""88""";;;;;;;;;;;
+"0133,""Corzuela"",""PARTIDO DIGNIDAD POPULAR"",""29"",""36"",""65""";;;;;;;;;;;
+"0133,""Corzuela"",""PARTIDO POLO SOCIAL MOVIMEN"",""14"",""12"",""26""";;;;;;;;;;;
+"0133,""Corzuela"",""PROYECTO SUR"",""18"",""15"",""33""";;;;;;;;;;;
+"0133,""Corzuela"",""TOTALES"",""6228"",""6228"",""12456""";;;;;;;;;;;
+"0133,""Corzuela"",""UNIR"",""22"",""24"",""46""";;;;;;;;;;;
+"0133,""Corzuela"",""VAMOS CHACO"",""78"",""80"",""158""";;;;;;;;;;;
+"0133,""Corzuela"",""VOTOS EN BLANCO"",""107"",""546"",""653""";;;;;;;;;;;
+"0133,""Corzuela"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0133,""Corzuela"",""VOTOS NULOS"",""89"",""51"",""140""";;;;;;;;;;;
+"0133,""Corzuela"",""VOTOS RECURRIDOS"",""2"",""2"",""4""";;;;;;;;;;;
+"0462,""Cote Lai"",""FRENTE INTEGRADOR"",""16"",""14"",""30""";;;;;;;;;;;
+"0462,""Cote Lai"",""FUERZA PATRIA"",""291"",""277"",""568""";;;;;;;;;;;
+"0462,""Cote Lai"",""LA LIBERTAD AVANZA"",""560"",""531"",""1091""";;;;;;;;;;;
+"0462,""Cote Lai"",""NEPAR"",""4"",""6"",""10""";;;;;;;;;;;
+"0462,""Cote Lai"",""PARTIDO DEL OBRERO"",""6"",""3"",""9""";;;;;;;;;;;
+"0462,""Cote Lai"",""PARTIDO DIGNIDAD POPULAR"",""5"",""7"",""12""";;;;;;;;;;;
+"0462,""Cote Lai"",""PARTIDO POLO SOCIAL MOVIMEN"",""5"",""4"",""9""";;;;;;;;;;;
+"0462,""Cote Lai"",""PROYECTO SUR"",""7"",""8"",""15""";;;;;;;;;;;
+"0462,""Cote Lai"",""TOTALES"",""974"",""974"",""1948""";;;;;;;;;;;
+"0462,""Cote Lai"",""UNIR"",""9"",""6"",""15""";;;;;;;;;;;
+"0462,""Cote Lai"",""VAMOS CHACO"",""9"",""9"",""18""";;;;;;;;;;;
+"0462,""Cote Lai"",""VOTOS EN BLANCO"",""34"",""88"",""122""";;;;;;;;;;;
+"0462,""Cote Lai"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0462,""Cote Lai"",""VOTOS NULOS"",""23"",""16"",""39""";;;;;;;;;;;
+"0462,""Cote Lai"",""VOTOS RECURRIDOS"",""5"",""5"",""10""";;;;;;;;;;;
+"0165,""El Espinillo"",""FRENTE INTEGRADOR"",""5"",""7"",""12""";;;;;;;;;;;
+"0165,""El Espinillo"",""FUERZA PATRIA"",""1201"",""1060"",""2261""";;;;;;;;;;;
+"0165,""El Espinillo"",""LA LIBERTAD AVANZA"",""277"",""248"",""525""";;;;;;;;;;;
+"0165,""El Espinillo"",""NEPAR"",""275"",""270"",""545""";;;;;;;;;;;
+"0165,""El Espinillo"",""PARTIDO DEL OBRERO"",""10"",""5"",""15""";;;;;;;;;;;
+"0165,""El Espinillo"",""PARTIDO DIGNIDAD POPULAR"",""11"",""7"",""18""";;;;;;;;;;;
+"0165,""El Espinillo"",""PARTIDO POLO SOCIAL MOVIMEN"",""1"",""1"",""2""";;;;;;;;;;;
+"0165,""El Espinillo"",""PROYECTO SUR"",""8"",""7"",""15""";;;;;;;;;;;
+"0165,""El Espinillo"",""TOTALES"",""2064"",""2064"",""4128""";;;;;;;;;;;
+"0165,""El Espinillo"",""UNIR"",""3"",""0"",""3""";;;;;;;;;;;
+"0165,""El Espinillo"",""VAMOS CHACO"",""179"",""205"",""384""";;;;;;;;;;;
+"0165,""El Espinillo"",""VOTOS EN BLANCO"",""51"",""225"",""276""";;;;;;;;;;;
+"0165,""El Espinillo"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0165,""El Espinillo"",""VOTOS NULOS"",""43"",""29"",""72""";;;;;;;;;;;
+"0165,""El Espinillo"",""VOTOS RECURRIDOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0168,""El Sauzalito"",""FRENTE INTEGRADOR"",""29"",""30"",""59""";;;;;;;;;;;
+"0168,""El Sauzalito"",""FUERZA PATRIA"",""2918"",""2697"",""5615""";;;;;;;;;;;
+"0168,""El Sauzalito"",""LA LIBERTAD AVANZA"",""1427"",""1345"",""2772""";;;;;;;;;;;
+"0168,""El Sauzalito"",""NEPAR"",""54"",""56"",""110""";;;;;;;;;;;
+"0168,""El Sauzalito"",""PARTIDO DEL OBRERO"",""15"",""11"",""26""";;;;;;;;;;;
+"0168,""El Sauzalito"",""PARTIDO DIGNIDAD POPULAR"",""21"",""17"",""38""";;;;;;;;;;;
+"0168,""El Sauzalito"",""PARTIDO POLO SOCIAL MOVIMEN"",""3"",""5"",""8""";;;;;;;;;;;
+"0168,""El Sauzalito"",""PROYECTO SUR"",""11"",""12"",""23""";;;;;;;;;;;
+"0168,""El Sauzalito"",""TOTALES"",""4673"",""4673"",""9346""";;;;;;;;;;;
+"0168,""El Sauzalito"",""UNIR"",""2"",""4"",""6""";;;;;;;;;;;
+"0168,""El Sauzalito"",""VAMOS CHACO"",""28"",""24"",""52""";;;;;;;;;;;
+"0168,""El Sauzalito"",""VOTOS EN BLANCO"",""73"",""398"",""471""";;;;;;;;;;;
+"0168,""El Sauzalito"",""VOTOS IMPUGNADOS"",""1"",""1"",""2""";;;;;;;;;;;
+"0168,""El Sauzalito"",""VOTOS NULOS"",""88"",""70"",""158""";;;;;;;;;;;
+"0168,""El Sauzalito"",""VOTOS RECURRIDOS"",""3"",""3"",""6""";;;;;;;;;;;
+"0315,""Enrique Urién"",""FRENTE INTEGRADOR"",""7"",""5"",""12""";;;;;;;;;;;
+"0315,""Enrique Urién"",""FUERZA PATRIA"",""513"",""492"",""1005""";;;;;;;;;;;
+"0315,""Enrique Urién"",""LA LIBERTAD AVANZA"",""162"",""151"",""313""";;;;;;;;;;;
+"0315,""Enrique Urién"",""NEPAR"",""1"",""1"",""2""";;;;;;;;;;;
+"0315,""Enrique Urién"",""PARTIDO DEL OBRERO"",""6"",""7"",""13""";;;;;;;;;;;
+"0315,""Enrique Urién"",""PARTIDO DIGNIDAD POPULAR"",""3"",""2"",""5""";;;;;;;;;;;
+"0315,""Enrique Urién"",""PARTIDO POLO SOCIAL MOVIMEN"",""1"",""1"",""2""";;;;;;;;;;;
+"0315,""Enrique Urién"",""PROYECTO SUR"",""2"",""5"",""7""";;;;;;;;;;;
+"0315,""Enrique Urién"",""TOTALES"",""735"",""735"",""1470""";;;;;;;;;;;
+"0315,""Enrique Urién"",""UNIR"",""3"",""2"",""5""";;;;;;;;;;;
+"0315,""Enrique Urién"",""VAMOS CHACO"",""14"",""14"",""28""";;;;;;;;;;;
+"0315,""Enrique Urién"",""VOTOS EN BLANCO"",""20"",""52"",""72""";;;;;;;;;;;
+"0315,""Enrique Urién"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0315,""Enrique Urién"",""VOTOS NULOS"",""3"",""3"",""6""";;;;;;;;;;;
+"0315,""Enrique Urién"",""VOTOS RECURRIDOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0399,""Fontana"",""FRENTE INTEGRADOR"",""419"",""731"",""1150""";;;;;;;;;;;
+"0399,""Fontana"",""FUERZA PATRIA"",""9977"",""8333"",""18310""";;;;;;;;;;;
+"0399,""Fontana"",""LA LIBERTAD AVANZA"",""10251"",""9053"",""19304""";;;;;;;;;;;
+"0399,""Fontana"",""NEPAR"",""196"",""204"",""400""";;;;;;;;;;;
+"0399,""Fontana"",""PARTIDO DEL OBRERO"",""519"",""368"",""887""";;;;;;;;;;;
+"0399,""Fontana"",""PARTIDO DIGNIDAD POPULAR"",""182"",""160"",""342""";;;;;;;;;;;
+"0399,""Fontana"",""PARTIDO POLO SOCIAL MOVIMEN"",""72"",""92"",""164""";;;;;;;;;;;
+"0399,""Fontana"",""PROYECTO SUR"",""212"",""281"",""493""";;;;;;;;;;;
+"0399,""Fontana"",""TOTALES"",""23770"",""23770"",""47540""";;;;;;;;;;;
+"0399,""Fontana"",""UNIR"",""182"",""211"",""393""";;;;;;;;;;;
+"0399,""Fontana"",""VAMOS CHACO"",""633"",""772"",""1405""";;;;;;;;;;;
+"0399,""Fontana"",""VOTOS EN BLANCO"",""653"",""3159"",""3812""";;;;;;;;;;;
+"0399,""Fontana"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0399,""Fontana"",""VOTOS NULOS"",""456"",""388"",""844""";;;;;;;;;;;
+"0399,""Fontana"",""VOTOS RECURRIDOS"",""18"",""18"",""36""";;;;;;;;;;;
+"0175,""Fuerte Esperanza"",""FRENTE INTEGRADOR"",""23"",""27"",""50""";;;;;;;;;;;
+"0175,""Fuerte Esperanza"",""FUERZA PATRIA"",""1540"",""1417"",""2957""";;;;;;;;;;;
+"0175,""Fuerte Esperanza"",""LA LIBERTAD AVANZA"",""632"",""590"",""1222""";;;;;;;;;;;
+"0175,""Fuerte Esperanza"",""NEPAR"",""43"",""39"",""82""";;;;;;;;;;;
+"0175,""Fuerte Esperanza"",""PARTIDO DEL OBRERO"",""14"",""8"",""22""";;;;;;;;;;;
+"0175,""Fuerte Esperanza"",""PARTIDO DIGNIDAD POPULAR"",""11"",""10"",""21""";;;;;;;;;;;
+"0175,""Fuerte Esperanza"",""PARTIDO POLO SOCIAL MOVIMEN"",""5"",""4"",""9""";;;;;;;;;;;
+"0175,""Fuerte Esperanza"",""PROYECTO SUR"",""16"",""11"",""27""";;;;;;;;;;;
+"0175,""Fuerte Esperanza"",""TOTALES"",""2447"",""2447"",""4894""";;;;;;;;;;;
+"0175,""Fuerte Esperanza"",""UNIR"",""11"",""13"",""24""";;;;;;;;;;;
+"0175,""Fuerte Esperanza"",""VAMOS CHACO"",""53"",""66"",""119""";;;;;;;;;;;
+"0175,""Fuerte Esperanza"",""VOTOS EN BLANCO"",""56"",""218"",""274""";;;;;;;;;;;
+"0175,""Fuerte Esperanza"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0175,""Fuerte Esperanza"",""VOTOS NULOS"",""43"",""44"",""87""";;;;;;;;;;;
+"0175,""Fuerte Esperanza"",""VOTOS RECURRIDOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0091,""Gancedo"",""FRENTE INTEGRADOR"",""18"",""20"",""38""";;;;;;;;;;;
+"0091,""Gancedo"",""FUERZA PATRIA"",""1624"",""1552"",""3176""";;;;;;;;;;;
+"0091,""Gancedo"",""LA LIBERTAD AVANZA"",""1298"",""1245"",""2543""";;;;;;;;;;;
+"0091,""Gancedo"",""NEPAR"",""20"",""11"",""31""";;;;;;;;;;;
+"0091,""Gancedo"",""PARTIDO DEL OBRERO"",""30"",""22"",""52""";;;;;;;;;;;
+"0091,""Gancedo"",""PARTIDO DIGNIDAD POPULAR"",""17"",""15"",""32""";;;;;;;;;;;
+"0091,""Gancedo"",""PARTIDO POLO SOCIAL MOVIMEN"",""6"",""11"",""17""";;;;;;;;;;;
+"0091,""Gancedo"",""PROYECTO SUR"",""8"",""11"",""19""";;;;;;;;;;;
+"0091,""Gancedo"",""TOTALES"",""3153"",""3153"",""6306""";;;;;;;;;;;
+"0091,""Gancedo"",""UNIR"",""8"",""5"",""13""";;;;;;;;;;;
+"0091,""Gancedo"",""VAMOS CHACO"",""26"",""31"",""57""";;;;;;;;;;;
+"0091,""Gancedo"",""VOTOS EN BLANCO"",""62"",""190"",""252""";;;;;;;;;;;
+"0091,""Gancedo"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0091,""Gancedo"",""VOTOS NULOS"",""36"",""40"",""76""";;;;;;;;;;;
+"0091,""Gancedo"",""VOTOS RECURRIDOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0098,""General Capdevila"",""FRENTE INTEGRADOR"",""1"",""2"",""3""";;;;;;;;;;;
+"0098,""General Capdevila"",""FUERZA PATRIA"",""363"",""350"",""713""";;;;;;;;;;;
+"0098,""General Capdevila"",""LA LIBERTAD AVANZA"",""93"",""83"",""176""";;;;;;;;;;;
+"0098,""General Capdevila"",""NEPAR"",""1"",""0"",""1""";;;;;;;;;;;
+"0098,""General Capdevila"",""PARTIDO DEL OBRERO"",""2"",""2"",""4""";;;;;;;;;;;
+"0098,""General Capdevila"",""PARTIDO DIGNIDAD POPULAR"",""1"",""1"",""2""";;;;;;;;;;;
+"0098,""General Capdevila"",""PARTIDO POLO SOCIAL MOVIMEN"",""2"",""1"",""3""";;;;;;;;;;;
+"0098,""General Capdevila"",""PROYECTO SUR"",""0"",""0"",""0""";;;;;;;;;;;
+"0098,""General Capdevila"",""TOTALES"",""482"",""482"",""964""";;;;;;;;;;;
+"0098,""General Capdevila"",""UNIR"",""1"",""1"",""2""";;;;;;;;;;;
+"0098,""General Capdevila"",""VAMOS CHACO"",""3"",""2"",""5""";;;;;;;;;;;
+"0098,""General Capdevila"",""VOTOS EN BLANCO"",""12"",""37"",""49""";;;;;;;;;;;
+"0098,""General Capdevila"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0098,""General Capdevila"",""VOTOS NULOS"",""3"",""3"",""6""";;;;;;;;;;;
+"0098,""General Capdevila"",""VOTOS RECURRIDOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0105,""General Pinedo"",""FRENTE INTEGRADOR"",""52"",""61"",""113""";;;;;;;;;;;
+"0105,""General Pinedo"",""FUERZA PATRIA"",""4774"",""4380"",""9154""";;;;;;;;;;;
+"0105,""General Pinedo"",""LA LIBERTAD AVANZA"",""3945"",""3591"",""7536""";;;;;;;;;;;
+"0105,""General Pinedo"",""NEPAR"",""84"",""83"",""167""";;;;;;;;;;;
+"0105,""General Pinedo"",""PARTIDO DEL OBRERO"",""95"",""69"",""164""";;;;;;;;;;;
+"0105,""General Pinedo"",""PARTIDO DIGNIDAD POPULAR"",""43"",""41"",""84""";;;;;;;;;;;
+"0105,""General Pinedo"",""PARTIDO POLO SOCIAL MOVIMEN"",""20"",""21"",""41""";;;;;;;;;;;
+"0105,""General Pinedo"",""PROYECTO SUR"",""33"",""35"",""68""";;;;;;;;;;;
+"0105,""General Pinedo"",""TOTALES"",""9548"",""9548"",""19096""";;;;;;;;;;;
+"0105,""General Pinedo"",""UNIR"",""40"",""46"",""86""";;;;;;;;;;;
+"0105,""General Pinedo"",""VAMOS CHACO"",""99"",""110"",""209""";;;;;;;;;;;
+"0105,""General Pinedo"",""VOTOS EN BLANCO"",""207"",""980"",""1187""";;;;;;;;;;;
+"0105,""General Pinedo"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0105,""General Pinedo"",""VOTOS NULOS"",""128"",""103"",""231""";;;;;;;;;;;
+"0105,""General Pinedo"",""VOTOS RECURRIDOS"",""28"",""28"",""56""";;;;;;;;;;;
+"0259,""General San Martín"",""FRENTE INTEGRADOR"",""174"",""225"",""399""";;;;;;;;;;;
+"0259,""General San Martín"",""FUERZA PATRIA"",""9403"",""8360"",""17763""";;;;;;;;;;;
+"0259,""General San Martín"",""LA LIBERTAD AVANZA"",""9525"",""8650"",""18175""";;;;;;;;;;;
+"0259,""General San Martín"",""NEPAR"",""150"",""167"",""317""";;;;;;;;;;;
+"0259,""General San Martín"",""PARTIDO DEL OBRERO"",""272"",""204"",""476""";;;;;;;;;;;
+"0259,""General San Martín"",""PARTIDO DIGNIDAD POPULAR"",""127"",""121"",""248""";;;;;;;;;;;
+"0259,""General San Martín"",""PARTIDO POLO SOCIAL MOVIMEN"",""55"",""56"",""111""";;;;;;;;;;;
+"0259,""General San Martín"",""PROYECTO SUR"",""140"",""143"",""283""";;;;;;;;;;;
+"0259,""General San Martín"",""TOTALES"",""21254"",""21254"",""42508""";;;;;;;;;;;
+"0259,""General San Martín"",""UNIR"",""127"",""120"",""247""";;;;;;;;;;;
+"0259,""General San Martín"",""VAMOS CHACO"",""405"",""422"",""827""";;;;;;;;;;;
+"0259,""General San Martín"",""VOTOS EN BLANCO"",""446"",""2432"",""2878""";;;;;;;;;;;
+"0259,""General San Martín"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0259,""General San Martín"",""VOTOS NULOS"",""416"",""340"",""756""";;;;;;;;;;;
+"0259,""General San Martín"",""VOTOS RECURRIDOS"",""14"",""14"",""28""";;;;;;;;;;;
+"0035,""General Vedia"",""FRENTE INTEGRADOR"",""25"",""29"",""54""";;;;;;;;;;;
+"0035,""General Vedia"",""FUERZA PATRIA"",""1095"",""1031"",""2126""";;;;;;;;;;;
+"0035,""General Vedia"",""LA LIBERTAD AVANZA"",""953"",""910"",""1863""";;;;;;;;;;;
+"0035,""General Vedia"",""NEPAR"",""17"",""15"",""32""";;;;;;;;;;;
+"0035,""General Vedia"",""PARTIDO DEL OBRERO"",""13"",""12"",""25""";;;;;;;;;;;
+"0035,""General Vedia"",""PARTIDO DIGNIDAD POPULAR"",""8"",""7"",""15""";;;;;;;;;;;
+"0035,""General Vedia"",""PARTIDO POLO SOCIAL MOVIMEN"",""7"",""5"",""12""";;;;;;;;;;;
+"0035,""General Vedia"",""PROYECTO SUR"",""9"",""14"",""23""";;;;;;;;;;;
+"0035,""General Vedia"",""TOTALES"",""2226"",""2226"",""4452""";;;;;;;;;;;
+"0035,""General Vedia"",""UNIR"",""7"",""5"",""12""";;;;;;;;;;;
+"0035,""General Vedia"",""VAMOS CHACO"",""25"",""27"",""52""";;;;;;;;;;;
+"0035,""General Vedia"",""VOTOS EN BLANCO"",""37"",""150"",""187""";;;;;;;;;;;
+"0035,""General Vedia"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0035,""General Vedia"",""VOTOS NULOS"",""30"",""21"",""51""";;;;;;;;;;;
+"0035,""General Vedia"",""VOTOS RECURRIDOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0112,""Hermoso Campo"",""FRENTE INTEGRADOR"",""39"",""49"",""88""";;;;;;;;;;;
+"0112,""Hermoso Campo"",""FUERZA PATRIA"",""1783"",""1694"",""3477""";;;;;;;;;;;
+"0112,""Hermoso Campo"",""LA LIBERTAD AVANZA"",""2142"",""1982"",""4124""";;;;;;;;;;;
+"0112,""Hermoso Campo"",""NEPAR"",""12"",""12"",""24""";;;;;;;;;;;
+"0112,""Hermoso Campo"",""PARTIDO DEL OBRERO"",""34"",""27"",""61""";;;;;;;;;;;
+"0112,""Hermoso Campo"",""PARTIDO DIGNIDAD POPULAR"",""20"",""20"",""40""";;;;;;;;;;;
+"0112,""Hermoso Campo"",""PARTIDO POLO SOCIAL MOVIMEN"",""2"",""2"",""4""";;;;;;;;;;;
+"0112,""Hermoso Campo"",""PROYECTO SUR"",""13"",""11"",""24""";;;;;;;;;;;
+"0112,""Hermoso Campo"",""TOTALES"",""4221"",""4221"",""8442""";;;;;;;;;;;
+"0112,""Hermoso Campo"",""UNIR"",""14"",""14"",""28""";;;;;;;;;;;
+"0112,""Hermoso Campo"",""VAMOS CHACO"",""45"",""47"",""92""";;;;;;;;;;;
+"0112,""Hermoso Campo"",""VOTOS EN BLANCO"",""64"",""308"",""372""";;;;;;;;;;;
+"0112,""Hermoso Campo"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0112,""Hermoso Campo"",""VOTOS NULOS"",""50"",""52"",""102""";;;;;;;;;;;
+"0112,""Hermoso Campo"",""VOTOS RECURRIDOS"",""3"",""3"",""6""";;;;;;;;;;;
+"0042,""Isla del Cerrito"",""FRENTE INTEGRADOR"",""9"",""17"",""26""";;;;;;;;;;;
+"0042,""Isla del Cerrito"",""FUERZA PATRIA"",""738"",""674"",""1412""";;;;;;;;;;;
+"0042,""Isla del Cerrito"",""LA LIBERTAD AVANZA"",""560"",""526"",""1086""";;;;;;;;;;;
+"0042,""Isla del Cerrito"",""NEPAR"",""8"",""5"",""13""";;;;;;;;;;;
+"0042,""Isla del Cerrito"",""PARTIDO DEL OBRERO"",""10"",""7"",""17""";;;;;;;;;;;
+"0042,""Isla del Cerrito"",""PARTIDO DIGNIDAD POPULAR"",""8"",""5"",""13""";;;;;;;;;;;
+"0042,""Isla del Cerrito"",""PARTIDO POLO SOCIAL MOVIMEN"",""2"",""3"",""5""";;;;;;;;;;;
+"0042,""Isla del Cerrito"",""PROYECTO SUR"",""7"",""8"",""15""";;;;;;;;;;;
+"0042,""Isla del Cerrito"",""TOTALES"",""1413"",""1413"",""2826""";;;;;;;;;;;
+"0042,""Isla del Cerrito"",""UNIR"",""2"",""4"",""6""";;;;;;;;;;;
+"0042,""Isla del Cerrito"",""VAMOS CHACO"",""28"",""37"",""65""";;;;;;;;;;;
+"0042,""Isla del Cerrito"",""VOTOS EN BLANCO"",""25"",""114"",""139""";;;;;;;;;;;
+"0042,""Isla del Cerrito"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0042,""Isla del Cerrito"",""VOTOS NULOS"",""15"",""12"",""27""";;;;;;;;;;;
+"0042,""Isla del Cerrito"",""VOTOS RECURRIDOS"",""1"",""1"",""2""";;;;;;;;;;;
+"0182,""Juan José Castelli"",""FRENTE INTEGRADOR"",""370"",""622"",""992""";;;;;;;;;;;
+"0182,""Juan José Castelli"",""FUERZA PATRIA"",""11574"",""10329"",""21903""";;;;;;;;;;;
+"0182,""Juan José Castelli"",""LA LIBERTAD AVANZA"",""7577"",""6894"",""14471""";;;;;;;;;;;
+"0182,""Juan José Castelli"",""NEPAR"",""293"",""263"",""556""";;;;;;;;;;;
+"0182,""Juan José Castelli"",""PARTIDO DEL OBRERO"",""174"",""127"",""301""";;;;;;;;;;;
+"0182,""Juan José Castelli"",""PARTIDO DIGNIDAD POPULAR"",""118"",""109"",""227""";;;;;;;;;;;
+"0182,""Juan José Castelli"",""PARTIDO POLO SOCIAL MOVIMEN"",""38"",""39"",""77""";;;;;;;;;;;
+"0182,""Juan José Castelli"",""PROYECTO SUR"",""103"",""104"",""207""";;;;;;;;;;;
+"0182,""Juan José Castelli"",""TOTALES"",""21467"",""21467"",""42934""";;;;;;;;;;;
+"0182,""Juan José Castelli"",""UNIR"",""58"",""80"",""138""";;;;;;;;;;;
+"0182,""Juan José Castelli"",""VAMOS CHACO"",""377"",""380"",""757""";;;;;;;;;;;
+"0182,""Juan José Castelli"",""VOTOS EN BLANCO"",""422"",""2236"",""2658""";;;;;;;;;;;
+"0182,""Juan José Castelli"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0182,""Juan José Castelli"",""VOTOS NULOS"",""347"",""268"",""615""";;;;;;;;;;;
+"0182,""Juan José Castelli"",""VOTOS RECURRIDOS"",""16"",""16"",""32""";;;;;;;;;;;
+"0336,""La Clotilde"",""FRENTE INTEGRADOR"",""17"",""16"",""33""";;;;;;;;;;;
+"0336,""La Clotilde"",""FUERZA PATRIA"",""1434"",""1345"",""2779""";;;;;;;;;;;
+"0336,""La Clotilde"",""LA LIBERTAD AVANZA"",""831"",""793"",""1624""";;;;;;;;;;;
+"0336,""La Clotilde"",""NEPAR"",""14"",""13"",""27""";;;;;;;;;;;
+"0336,""La Clotilde"",""PARTIDO DEL OBRERO"",""20"",""20"",""40""";;;;;;;;;;;
+"0336,""La Clotilde"",""PARTIDO DIGNIDAD POPULAR"",""14"",""11"",""25""";;;;;;;;;;;
+"0336,""La Clotilde"",""PARTIDO POLO SOCIAL MOVIMEN"",""8"",""7"",""15""";;;;;;;;;;;
+"0336,""La Clotilde"",""PROYECTO SUR"",""10"",""10"",""20""";;;;;;;;;;;
+"0336,""La Clotilde"",""TOTALES"",""2493"",""2493"",""4986""";;;;;;;;;;;
+"0336,""La Clotilde"",""UNIR"",""8"",""9"",""17""";;;;;;;;;;;
+"0336,""La Clotilde"",""VAMOS CHACO"",""52"",""55"",""107""";;;;;;;;;;;
+"0336,""La Clotilde"",""VOTOS EN BLANCO"",""58"",""195"",""253""";;;;;;;;;;;
+"0336,""La Clotilde"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0336,""La Clotilde"",""VOTOS NULOS"",""27"",""19"",""46""";;;;;;;;;;;
+"0336,""La Clotilde"",""VOTOS RECURRIDOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0266,""La Eduvigis"",""FRENTE INTEGRADOR"",""11"",""13"",""24""";;;;;;;;;;;
+"0266,""La Eduvigis"",""FUERZA PATRIA"",""864"",""826"",""1690""";;;;;;;;;;;
+"0266,""La Eduvigis"",""LA LIBERTAD AVANZA"",""379"",""366"",""745""";;;;;;;;;;;
+"0266,""La Eduvigis"",""NEPAR"",""11"",""11"",""22""";;;;;;;;;;;
+"0266,""La Eduvigis"",""PARTIDO DEL OBRERO"",""7"",""7"",""14""";;;;;;;;;;;
+"0266,""La Eduvigis"",""PARTIDO DIGNIDAD POPULAR"",""8"",""5"",""13""";;;;;;;;;;;
+"0266,""La Eduvigis"",""PARTIDO POLO SOCIAL MOVIMEN"",""3"",""2"",""5""";;;;;;;;;;;
+"0266,""La Eduvigis"",""PROYECTO SUR"",""3"",""11"",""14""";;;;;;;;;;;
+"0266,""La Eduvigis"",""TOTALES"",""1339"",""1339"",""2678""";;;;;;;;;;;
+"0266,""La Eduvigis"",""UNIR"",""3"",""4"",""7""";;;;;;;;;;;
+"0266,""La Eduvigis"",""VAMOS CHACO"",""15"",""18"",""33""";;;;;;;;;;;
+"0266,""La Eduvigis"",""VOTOS EN BLANCO"",""35"",""76"",""111""";;;;;;;;;;;
+"0266,""La Eduvigis"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0266,""La Eduvigis"",""VOTOS NULOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0266,""La Eduvigis"",""VOTOS RECURRIDOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0140,""La Escondida"",""FRENTE INTEGRADOR"",""41"",""64"",""105""";;;;;;;;;;;
+"0140,""La Escondida"",""FUERZA PATRIA"",""1188"",""1055"",""2243""";;;;;;;;;;;
+"0140,""La Escondida"",""LA LIBERTAD AVANZA"",""959"",""833"",""1792""";;;;;;;;;;;
+"0140,""La Escondida"",""NEPAR"",""110"",""110"",""220""";;;;;;;;;;;
+"0140,""La Escondida"",""PARTIDO DEL OBRERO"",""40"",""27"",""67""";;;;;;;;;;;
+"0140,""La Escondida"",""PARTIDO DIGNIDAD POPULAR"",""20"",""20"",""40""";;;;;;;;;;;
+"0140,""La Escondida"",""PARTIDO POLO SOCIAL MOVIMEN"",""7"",""7"",""14""";;;;;;;;;;;
+"0140,""La Escondida"",""PROYECTO SUR"",""19"",""17"",""36""";;;;;;;;;;;
+"0140,""La Escondida"",""TOTALES"",""2648"",""2648"",""5296""";;;;;;;;;;;
+"0140,""La Escondida"",""UNIR"",""14"",""11"",""25""";;;;;;;;;;;
+"0140,""La Escondida"",""VAMOS CHACO"",""128"",""218"",""346""";;;;;;;;;;;
+"0140,""La Escondida"",""VOTOS EN BLANCO"",""64"",""247"",""311""";;;;;;;;;;;
+"0140,""La Escondida"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0140,""La Escondida"",""VOTOS NULOS"",""56"",""37"",""93""";;;;;;;;;;;
+"0140,""La Escondida"",""VOTOS RECURRIDOS"",""2"",""2"",""4""";;;;;;;;;;;
+"0049,""La Leonesa"",""FRENTE INTEGRADOR"",""68"",""116"",""184""";;;;;;;;;;;
+"0049,""La Leonesa"",""FUERZA PATRIA"",""4280"",""3843"",""8123""";;;;;;;;;;;
+"0049,""La Leonesa"",""LA LIBERTAD AVANZA"",""2601"",""2328"",""4929""";;;;;;;;;;;
+"0049,""La Leonesa"",""NEPAR"",""28"",""29"",""57""";;;;;;;;;;;
+"0049,""La Leonesa"",""PARTIDO DEL OBRERO"",""68"",""52"",""120""";;;;;;;;;;;
+"0049,""La Leonesa"",""PARTIDO DIGNIDAD POPULAR"",""34"",""24"",""58""";;;;;;;;;;;
+"0049,""La Leonesa"",""PARTIDO POLO SOCIAL MOVIMEN"",""18"",""19"",""37""";;;;;;;;;;;
+"0049,""La Leonesa"",""PROYECTO SUR"",""47"",""50"",""97""";;;;;;;;;;;
+"0049,""La Leonesa"",""TOTALES"",""7607"",""7607"",""15214""";;;;;;;;;;;
+"0049,""La Leonesa"",""UNIR"",""24"",""31"",""55""";;;;;;;;;;;
+"0049,""La Leonesa"",""VAMOS CHACO"",""149"",""147"",""296""";;;;;;;;;;;
+"0049,""La Leonesa"",""VOTOS EN BLANCO"",""194"",""884"",""1078""";;;;;;;;;;;
+"0049,""La Leonesa"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0049,""La Leonesa"",""VOTOS NULOS"",""96"",""84"",""180""";;;;;;;;;;;
+"0049,""La Leonesa"",""VOTOS RECURRIDOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0343,""La Tigra"",""FRENTE INTEGRADOR"",""20"",""21"",""41""";;;;;;;;;;;
+"0343,""La Tigra"",""FUERZA PATRIA"",""1798"",""1644"",""3442""";;;;;;;;;;;
+"0343,""La Tigra"",""LA LIBERTAD AVANZA"",""662"",""611"",""1273""";;;;;;;;;;;
+"0343,""La Tigra"",""NEPAR"",""16"",""18"",""34""";;;;;;;;;;;
+"0343,""La Tigra"",""PARTIDO DEL OBRERO"",""22"",""19"",""41""";;;;;;;;;;;
+"0343,""La Tigra"",""PARTIDO DIGNIDAD POPULAR"",""16"",""19"",""35""";;;;;;;;;;;
+"0343,""La Tigra"",""PARTIDO POLO SOCIAL MOVIMEN"",""6"",""8"",""14""";;;;;;;;;;;
+"0343,""La Tigra"",""PROYECTO SUR"",""19"",""15"",""34""";;;;;;;;;;;
+"0343,""La Tigra"",""TOTALES"",""2720"",""2720"",""5440""";;;;;;;;;;;
+"0343,""La Tigra"",""UNIR"",""8"",""6"",""14""";;;;;;;;;;;
+"0343,""La Tigra"",""VAMOS CHACO"",""35"",""42"",""77""";;;;;;;;;;;
+"0343,""La Tigra"",""VOTOS EN BLANCO"",""72"",""287"",""359""";;;;;;;;;;;
+"0343,""La Tigra"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0343,""La Tigra"",""VOTOS NULOS"",""46"",""30"",""76""";;;;;;;;;;;
+"0343,""La Tigra"",""VOTOS RECURRIDOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0154,""La Verde"",""FRENTE INTEGRADOR"",""42"",""51"",""93""";;;;;;;;;;;
+"0154,""La Verde"",""FUERZA PATRIA"",""937"",""833"",""1770""";;;;;;;;;;;
+"0154,""La Verde"",""LA LIBERTAD AVANZA"",""1030"",""934"",""1964""";;;;;;;;;;;
+"0154,""La Verde"",""NEPAR"",""22"",""18"",""40""";;;;;;;;;;;
+"0154,""La Verde"",""PARTIDO DEL OBRERO"",""19"",""18"",""37""";;;;;;;;;;;
+"0154,""La Verde"",""PARTIDO DIGNIDAD POPULAR"",""15"",""13"",""28""";;;;;;;;;;;
+"0154,""La Verde"",""PARTIDO POLO SOCIAL MOVIMEN"",""8"",""9"",""17""";;;;;;;;;;;
+"0154,""La Verde"",""PROYECTO SUR"",""16"",""16"",""32""";;;;;;;;;;;
+"0154,""La Verde"",""TOTALES"",""2304"",""2304"",""4608""";;;;;;;;;;;
+"0154,""La Verde"",""UNIR"",""17"",""20"",""37""";;;;;;;;;;;
+"0154,""La Verde"",""VAMOS CHACO"",""117"",""202"",""319""";;;;;;;;;;;
+"0154,""La Verde"",""VOTOS EN BLANCO"",""44"",""157"",""201""";;;;;;;;;;;
+"0154,""La Verde"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0154,""La Verde"",""VOTOS NULOS"",""33"",""29"",""62""";;;;;;;;;;;
+"0154,""La Verde"",""VOTOS RECURRIDOS"",""4"",""4"",""8""";;;;;;;;;;;
+"0238,""Laguna Blanca"",""FRENTE INTEGRADOR"",""5"",""4"",""9""";;;;;;;;;;;
+"0238,""Laguna Blanca"",""FUERZA PATRIA"",""55"",""34"",""89""";;;;;;;;;;;
+"0238,""Laguna Blanca"",""LA LIBERTAD AVANZA"",""171"",""151"",""322""";;;;;;;;;;;
+"0238,""Laguna Blanca"",""NEPAR"",""8"",""4"",""12""";;;;;;;;;;;
+"0238,""Laguna Blanca"",""PARTIDO DEL OBRERO"",""2"",""3"",""5""";;;;;;;;;;;
+"0238,""Laguna Blanca"",""PARTIDO DIGNIDAD POPULAR"",""1"",""1"",""2""";;;;;;;;;;;
+"0238,""Laguna Blanca"",""PARTIDO POLO SOCIAL MOVIMEN"",""0"",""0"",""0""";;;;;;;;;;;
+"0238,""Laguna Blanca"",""PROYECTO SUR"",""1"",""1"",""2""";;;;;;;;;;;
+"0238,""Laguna Blanca"",""TOTALES"",""834"",""834"",""1668""";;;;;;;;;;;
+"0238,""Laguna Blanca"",""UNIR"",""2"",""3"",""5""";;;;;;;;;;;
+"0238,""Laguna Blanca"",""VAMOS CHACO"",""546"",""599"",""1145""";;;;;;;;;;;
+"0238,""Laguna Blanca"",""VOTOS EN BLANCO"",""33"",""29"",""62""";;;;;;;;;;;
+"0238,""Laguna Blanca"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0238,""Laguna Blanca"",""VOTOS NULOS"",""10"",""5"",""15""";;;;;;;;;;;
+"0238,""Laguna Blanca"",""VOTOS RECURRIDOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0273,""Laguna Limpia"",""FRENTE INTEGRADOR"",""15"",""17"",""32""";;;;;;;;;;;
+"0273,""Laguna Limpia"",""FUERZA PATRIA"",""935"",""906"",""1841""";;;;;;;;;;;
+"0273,""Laguna Limpia"",""LA LIBERTAD AVANZA"",""729"",""640"",""1369""";;;;;;;;;;;
+"0273,""Laguna Limpia"",""NEPAR"",""11"",""12"",""23""";;;;;;;;;;;
+"0273,""Laguna Limpia"",""PARTIDO DEL OBRERO"",""19"",""15"",""34""";;;;;;;;;;;
+"0273,""Laguna Limpia"",""PARTIDO DIGNIDAD POPULAR"",""15"",""13"",""28""";;;;;;;;;;;
+"0273,""Laguna Limpia"",""PARTIDO POLO SOCIAL MOVIMEN"",""5"",""6"",""11""";;;;;;;;;;;
+"0273,""Laguna Limpia"",""PROYECTO SUR"",""7"",""5"",""12""";;;;;;;;;;;
+"0273,""Laguna Limpia"",""TOTALES"",""1867"",""1867"",""3734""";;;;;;;;;;;
+"0273,""Laguna Limpia"",""UNIR"",""6"",""5"",""11""";;;;;;;;;;;
+"0273,""Laguna Limpia"",""VAMOS CHACO"",""25"",""29"",""54""";;;;;;;;;;;
+"0273,""Laguna Limpia"",""VOTOS EN BLANCO"",""58"",""191"",""249""";;;;;;;;;;;
+"0273,""Laguna Limpia"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0273,""Laguna Limpia"",""VOTOS NULOS"",""42"",""28"",""70""";;;;;;;;;;;
+"0273,""Laguna Limpia"",""VOTOS RECURRIDOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0147,""Lapachito"",""FRENTE INTEGRADOR"",""9"",""15"",""24""";;;;;;;;;;;
+"0147,""Lapachito"",""FUERZA PATRIA"",""538"",""508"",""1046""";;;;;;;;;;;
+"0147,""Lapachito"",""LA LIBERTAD AVANZA"",""285"",""259"",""544""";;;;;;;;;;;
+"0147,""Lapachito"",""NEPAR"",""4"",""7"",""11""";;;;;;;;;;;
+"0147,""Lapachito"",""PARTIDO DEL OBRERO"",""5"",""4"",""9""";;;;;;;;;;;
+"0147,""Lapachito"",""PARTIDO DIGNIDAD POPULAR"",""2"",""0"",""2""";;;;;;;;;;;
+"0147,""Lapachito"",""PARTIDO POLO SOCIAL MOVIMEN"",""1"",""2"",""3""";;;;;;;;;;;
+"0147,""Lapachito"",""PROYECTO SUR"",""4"",""1"",""5""";;;;;;;;;;;
+"0147,""Lapachito"",""TOTALES"",""902"",""902"",""1804""";;;;;;;;;;;
+"0147,""Lapachito"",""UNIR"",""5"",""6"",""11""";;;;;;;;;;;
+"0147,""Lapachito"",""VAMOS CHACO"",""26"",""47"",""73""";;;;;;;;;;;
+"0147,""Lapachito"",""VOTOS EN BLANCO"",""13"",""46"",""59""";;;;;;;;;;;
+"0147,""Lapachito"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0147,""Lapachito"",""VOTOS NULOS"",""10"",""7"",""17""";;;;;;;;;;;
+"0147,""Lapachito"",""VOTOS RECURRIDOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0329,""Las Breñas"",""FRENTE INTEGRADOR"",""94"",""123"",""217""";;;;;;;;;;;
+"0329,""Las Breñas"",""FUERZA PATRIA"",""7741"",""7166"",""14907""";;;;;;;;;;;
+"0329,""Las Breñas"",""LA LIBERTAD AVANZA"",""6826"",""6373"",""13199""";;;;;;;;;;;
+"0329,""Las Breñas"",""NEPAR"",""63"",""69"",""132""";;;;;;;;;;;
+"0329,""Las Breñas"",""PARTIDO DEL OBRERO"",""153"",""126"",""279""";;;;;;;;;;;
+"0329,""Las Breñas"",""PARTIDO DIGNIDAD POPULAR"",""62"",""62"",""124""";;;;;;;;;;;
+"0329,""Las Breñas"",""PARTIDO POLO SOCIAL MOVIMEN"",""20"",""28"",""48""";;;;;;;;;;;
+"0329,""Las Breñas"",""PROYECTO SUR"",""81"",""84"",""165""";;;;;;;;;;;
+"0329,""Las Breñas"",""TOTALES"",""15779"",""15779"",""31558""";;;;;;;;;;;
+"0329,""Las Breñas"",""UNIR"",""46"",""65"",""111""";;;;;;;;;;;
+"0329,""Las Breñas"",""VAMOS CHACO"",""195"",""194"",""389""";;;;;;;;;;;
+"0329,""Las Breñas"",""VOTOS EN BLANCO"",""283"",""1288"",""1571""";;;;;;;;;;;
+"0329,""Las Breñas"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0329,""Las Breñas"",""VOTOS NULOS"",""198"",""184"",""382""";;;;;;;;;;;
+"0329,""Las Breñas"",""VOTOS RECURRIDOS"",""17"",""17"",""34""";;;;;;;;;;;
+"0455,""Las Garcitas"",""FRENTE INTEGRADOR"",""13"",""19"",""32""";;;;;;;;;;;
+"0455,""Las Garcitas"",""FUERZA PATRIA"",""1756"",""1954"",""3710""";;;;;;;;;;;
+"0455,""Las Garcitas"",""LA LIBERTAD AVANZA"",""1096"",""804"",""1900""";;;;;;;;;;;
+"0455,""Las Garcitas"",""NEPAR"",""12"",""76"",""88""";;;;;;;;;;;
+"0455,""Las Garcitas"",""PARTIDO DEL OBRERO"",""20"",""15"",""35""";;;;;;;;;;;
+"0455,""Las Garcitas"",""PARTIDO DIGNIDAD POPULAR"",""24"",""12"",""36""";;;;;;;;;;;
+"0455,""Las Garcitas"",""PARTIDO POLO SOCIAL MOVIMEN"",""10"",""7"",""17""";;;;;;;;;;;
+"0455,""Las Garcitas"",""PROYECTO SUR"",""15"",""8"",""23""";;;;;;;;;;;
+"0455,""Las Garcitas"",""TOTALES"",""3171"",""3171"",""6342""";;;;;;;;;;;
+"0455,""Las Garcitas"",""UNIR"",""12"",""8"",""20""";;;;;;;;;;;
+"0455,""Las Garcitas"",""VAMOS CHACO"",""22"",""13"",""35""";;;;;;;;;;;
+"0455,""Las Garcitas"",""VOTOS EN BLANCO"",""148"",""222"",""370""";;;;;;;;;;;
+"0455,""Las Garcitas"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0455,""Las Garcitas"",""VOTOS NULOS"",""36"",""26"",""62""";;;;;;;;;;;
+"0455,""Las Garcitas"",""VOTOS RECURRIDOS"",""7"",""7"",""14""";;;;;;;;;;;
+"0056,""Las Palmas"",""FRENTE INTEGRADOR"",""76"",""95"",""171""";;;;;;;;;;;
+"0056,""Las Palmas"",""FUERZA PATRIA"",""2240"",""2050"",""4290""";;;;;;;;;;;
+"0056,""Las Palmas"",""LA LIBERTAD AVANZA"",""1527"",""1411"",""2938""";;;;;;;;;;;
+"0056,""Las Palmas"",""NEPAR"",""38"",""38"",""76""";;;;;;;;;;;
+"0056,""Las Palmas"",""PARTIDO DEL OBRERO"",""62"",""46"",""108""";;;;;;;;;;;
+"0056,""Las Palmas"",""PARTIDO DIGNIDAD POPULAR"",""35"",""32"",""67""";;;;;;;;;;;
+"0056,""Las Palmas"",""PARTIDO POLO SOCIAL MOVIMEN"",""17"",""15"",""32""";;;;;;;;;;;
+"0056,""Las Palmas"",""PROYECTO SUR"",""39"",""41"",""80""";;;;;;;;;;;
+"0056,""Las Palmas"",""TOTALES"",""4356"",""4356"",""8712""";;;;;;;;;;;
+"0056,""Las Palmas"",""UNIR"",""26"",""31"",""57""";;;;;;;;;;;
+"0056,""Las Palmas"",""VAMOS CHACO"",""120"",""120"",""240""";;;;;;;;;;;
+"0056,""Las Palmas"",""VOTOS EN BLANCO"",""84"",""405"",""489""";;;;;;;;;;;
+"0056,""Las Palmas"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0056,""Las Palmas"",""VOTOS NULOS"",""91"",""71"",""162""";;;;;;;;;;;
+"0056,""Las Palmas"",""VOTOS RECURRIDOS"",""1"",""1"",""2""";;;;;;;;;;;
+"0014,""Los Frentones"",""FRENTE INTEGRADOR"",""32"",""26"",""58""";;;;;;;;;;;
+"0014,""Los Frentones"",""FUERZA PATRIA"",""2275"",""2084"",""4359""";;;;;;;;;;;
+"0014,""Los Frentones"",""LA LIBERTAD AVANZA"",""1427"",""1342"",""2769""";;;;;;;;;;;
+"0014,""Los Frentones"",""NEPAR"",""36"",""40"",""76""";;;;;;;;;;;
+"0014,""Los Frentones"",""PARTIDO DEL OBRERO"",""31"",""20"",""51""";;;;;;;;;;;
+"0014,""Los Frentones"",""PARTIDO DIGNIDAD POPULAR"",""18"",""13"",""31""";;;;;;;;;;;
+"0014,""Los Frentones"",""PARTIDO POLO SOCIAL MOVIMEN"",""9"",""11"",""20""";;;;;;;;;;;
+"0014,""Los Frentones"",""PROYECTO SUR"",""12"",""14"",""26""";;;;;;;;;;;
+"0014,""Los Frentones"",""TOTALES"",""4066"",""4066"",""8132""";;;;;;;;;;;
+"0014,""Los Frentones"",""UNIR"",""13"",""16"",""29""";;;;;;;;;;;
+"0014,""Los Frentones"",""VAMOS CHACO"",""45"",""60"",""105""";;;;;;;;;;;
+"0014,""Los Frentones"",""VOTOS EN BLANCO"",""104"",""372"",""476""";;;;;;;;;;;
+"0014,""Los Frentones"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0014,""Los Frentones"",""VOTOS NULOS"",""64"",""68"",""132""";;;;;;;;;;;
+"0014,""Los Frentones"",""VOTOS RECURRIDOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0476,""Machagai"",""FRENTE INTEGRADOR"",""125"",""129"",""254""";;;;;;;;;;;
+"0476,""Machagai"",""FUERZA PATRIA"",""8012"",""7606"",""15618""";;;;;;;;;;;
+"0476,""Machagai"",""LA LIBERTAD AVANZA"",""5579"",""4916"",""10495""";;;;;;;;;;;
+"0476,""Machagai"",""NEPAR"",""86"",""71"",""157""";;;;;;;;;;;
+"0476,""Machagai"",""PARTIDO DEL OBRERO"",""143"",""89"",""232""";;;;;;;;;;;
+"0476,""Machagai"",""PARTIDO DIGNIDAD POPULAR"",""69"",""67"",""136""";;;;;;;;;;;
+"0476,""Machagai"",""PARTIDO POLO SOCIAL MOVIMEN"",""25"",""35"",""60""";;;;;;;;;;;
+"0476,""Machagai"",""PROYECTO SUR"",""75"",""74"",""149""";;;;;;;;;;;
+"0476,""Machagai"",""TOTALES"",""15101"",""15101"",""30202""";;;;;;;;;;;
+"0476,""Machagai"",""UNIR"",""70"",""76"",""146""";;;;;;;;;;;
+"0476,""Machagai"",""VAMOS CHACO"",""254"",""225"",""479""";;;;;;;;;;;
+"0476,""Machagai"",""VOTOS EN BLANCO"",""435"",""1614"",""2049""";;;;;;;;;;;
+"0476,""Machagai"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0476,""Machagai"",""VOTOS NULOS"",""222"",""193"",""415""";;;;;;;;;;;
+"0476,""Machagai"",""VOTOS RECURRIDOS"",""6"",""6"",""12""";;;;;;;;;;;
+"0161,""Makallé"",""FRENTE INTEGRADOR"",""39"",""59"",""98""";;;;;;;;;;;
+"0161,""Makallé"",""FUERZA PATRIA"",""1257"",""985"",""2242""";;;;;;;;;;;
+"0161,""Makallé"",""LA LIBERTAD AVANZA"",""1391"",""1283"",""2674""";;;;;;;;;;;
+"0161,""Makallé"",""NEPAR"",""482"",""352"",""834""";;;;;;;;;;;
+"0161,""Makallé"",""PARTIDO DEL OBRERO"",""41"",""36"",""77""";;;;;;;;;;;
+"0161,""Makallé"",""PARTIDO DIGNIDAD POPULAR"",""24"",""18"",""42""";;;;;;;;;;;
+"0161,""Makallé"",""PARTIDO POLO SOCIAL MOVIMEN"",""11"",""13"",""24""";;;;;;;;;;;
+"0161,""Makallé"",""PROYECTO SUR"",""19"",""15"",""34""";;;;;;;;;;;
+"0161,""Makallé"",""TOTALES"",""3718"",""3718"",""7436""";;;;;;;;;;;
+"0161,""Makallé"",""UNIR"",""15"",""14"",""29""";;;;;;;;;;;
+"0161,""Makallé"",""VAMOS CHACO"",""252"",""533"",""785""";;;;;;;;;;;
+"0161,""Makallé"",""VOTOS EN BLANCO"",""98"",""318"",""416""";;;;;;;;;;;
+"0161,""Makallé"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0161,""Makallé"",""VOTOS NULOS"",""89"",""92"",""181""";;;;;;;;;;;
+"0161,""Makallé"",""VOTOS RECURRIDOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0371,""Margarita Belén"",""FRENTE INTEGRADOR"",""66"",""80"",""146""";;;;;;;;;;;
+"0371,""Margarita Belén"",""FUERZA PATRIA"",""2780"",""2672"",""5452""";;;;;;;;;;;
+"0371,""Margarita Belén"",""LA LIBERTAD AVANZA"",""2550"",""2331"",""4881""";;;;;;;;;;;
+"0371,""Margarita Belén"",""NEPAR"",""131"",""259"",""390""";;;;;;;;;;;
+"0371,""Margarita Belén"",""PARTIDO DEL OBRERO"",""48"",""39"",""87""";;;;;;;;;;;
+"0371,""Margarita Belén"",""PARTIDO DIGNIDAD POPULAR"",""19"",""17"",""36""";;;;;;;;;;;
+"0371,""Margarita Belén"",""PARTIDO POLO SOCIAL MOVIMEN"",""7"",""10"",""17""";;;;;;;;;;;
+"0371,""Margarita Belén"",""PROYECTO SUR"",""14"",""16"",""30""";;;;;;;;;;;
+"0371,""Margarita Belén"",""TOTALES"",""5889"",""5889"",""11778""";;;;;;;;;;;
+"0371,""Margarita Belén"",""UNIR"",""23"",""18"",""41""";;;;;;;;;;;
+"0371,""Margarita Belén"",""VAMOS CHACO"",""84"",""95"",""179""";;;;;;;;;;;
+"0371,""Margarita Belén"",""VOTOS EN BLANCO"",""127"",""315"",""442""";;;;;;;;;;;
+"0371,""Margarita Belén"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0371,""Margarita Belén"",""VOTOS NULOS"",""37"",""34"",""71""";;;;;;;;;;;
+"0371,""Margarita Belén"",""VOTOS RECURRIDOS"",""3"",""3"",""6""";;;;;;;;;;;
+"0189,""Miraflores"",""FRENTE INTEGRADOR"",""49"",""62"",""111""";;;;;;;;;;;
+"0189,""Miraflores"",""FUERZA PATRIA"",""3593"",""3289"",""6882""";;;;;;;;;;;
+"0189,""Miraflores"",""LA LIBERTAD AVANZA"",""1938"",""1798"",""3736""";;;;;;;;;;;
+"0189,""Miraflores"",""NEPAR"",""69"",""75"",""144""";;;;;;;;;;;
+"0189,""Miraflores"",""PARTIDO DEL OBRERO"",""45"",""31"",""76""";;;;;;;;;;;
+"0189,""Miraflores"",""PARTIDO DIGNIDAD POPULAR"",""31"",""29"",""60""";;;;;;;;;;;
+"0189,""Miraflores"",""PARTIDO POLO SOCIAL MOVIMEN"",""7"",""11"",""18""";;;;;;;;;;;
+"0189,""Miraflores"",""PROYECTO SUR"",""28"",""25"",""53""";;;;;;;;;;;
+"0189,""Miraflores"",""TOTALES"",""6096"",""6096"",""12192""";;;;;;;;;;;
+"0189,""Miraflores"",""UNIR"",""16"",""24"",""40""";;;;;;;;;;;
+"0189,""Miraflores"",""VAMOS CHACO"",""99"",""108"",""207""";;;;;;;;;;;
+"0189,""Miraflores"",""VOTOS EN BLANCO"",""105"",""554"",""659""";;;;;;;;;;;
+"0189,""Miraflores"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0189,""Miraflores"",""VOTOS NULOS"",""116"",""90"",""206""";;;;;;;;;;;
+"0189,""Miraflores"",""VOTOS RECURRIDOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0196,""Misión Nueva Pompeya"",""FRENTE INTEGRADOR"",""40"",""37"",""77""";;;;;;;;;;;
+"0196,""Misión Nueva Pompeya"",""FUERZA PATRIA"",""2177"",""1991"",""4168""";;;;;;;;;;;
+"0196,""Misión Nueva Pompeya"",""LA LIBERTAD AVANZA"",""1516"",""1398"",""2914""";;;;;;;;;;;
+"0196,""Misión Nueva Pompeya"",""NEPAR"",""16"",""16"",""32""";;;;;;;;;;;
+"0196,""Misión Nueva Pompeya"",""PARTIDO DEL OBRERO"",""27"",""29"",""56""";;;;;;;;;;;
+"0196,""Misión Nueva Pompeya"",""PARTIDO DIGNIDAD POPULAR"",""23"",""15"",""38""";;;;;;;;;;;
+"0196,""Misión Nueva Pompeya"",""PARTIDO POLO SOCIAL MOVIMEN"",""3"",""3"",""6""";;;;;;;;;;;
+"0196,""Misión Nueva Pompeya"",""PROYECTO SUR"",""38"",""30"",""68""";;;;;;;;;;;
+"0196,""Misión Nueva Pompeya"",""TOTALES"",""4154"",""4154"",""8308""";;;;;;;;;;;
+"0196,""Misión Nueva Pompeya"",""UNIR"",""13"",""8"",""21""";;;;;;;;;;;
+"0196,""Misión Nueva Pompeya"",""VAMOS CHACO"",""55"",""56"",""111""";;;;;;;;;;;
+"0196,""Misión Nueva Pompeya"",""VOTOS EN BLANCO"",""109"",""476"",""585""";;;;;;;;;;;
+"0196,""Misión Nueva Pompeya"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0196,""Misión Nueva Pompeya"",""VOTOS NULOS"",""127"",""85"",""212""";;;;;;;;;;;
+"0196,""Misión Nueva Pompeya"",""VOTOS RECURRIDOS"",""10"",""10"",""20""";;;;;;;;;;;
+"0224,""Napenay"",""FRENTE INTEGRADOR"",""9"",""12"",""21""";;;;;;;;;;;
+"0224,""Napenay"",""FUERZA PATRIA"",""1105"",""1037"",""2142""";;;;;;;;;;;
+"0224,""Napenay"",""LA LIBERTAD AVANZA"",""993"",""932"",""1925""";;;;;;;;;;;
+"0224,""Napenay"",""NEPAR"",""26"",""20"",""46""";;;;;;;;;;;
+"0224,""Napenay"",""PARTIDO DEL OBRERO"",""15"",""16"",""31""";;;;;;;;;;;
+"0224,""Napenay"",""PARTIDO DIGNIDAD POPULAR"",""8"",""11"",""19""";;;;;;;;;;;
+"0224,""Napenay"",""PARTIDO POLO SOCIAL MOVIMEN"",""2"",""2"",""4""";;;;;;;;;;;
+"0224,""Napenay"",""PROYECTO SUR"",""17"",""13"",""30""";;;;;;;;;;;
+"0224,""Napenay"",""TOTALES"",""2289"",""2289"",""4578""";;;;;;;;;;;
+"0224,""Napenay"",""UNIR"",""10"",""11"",""21""";;;;;;;;;;;
+"0224,""Napenay"",""VAMOS CHACO"",""27"",""25"",""52""";;;;;;;;;;;
+"0224,""Napenay"",""VOTOS EN BLANCO"",""37"",""175"",""212""";;;;;;;;;;;
+"0224,""Napenay"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0224,""Napenay"",""VOTOS NULOS"",""33"",""28"",""61""";;;;;;;;;;;
+"0224,""Napenay"",""VOTOS RECURRIDOS"",""7"",""7"",""14""";;;;;;;;;;;
+"0280,""Pampa Almirón"",""FRENTE INTEGRADOR"",""6"",""9"",""15""";;;;;;;;;;;
+"0280,""Pampa Almirón"",""FUERZA PATRIA"",""583"",""581"",""1164""";;;;;;;;;;;
+"0280,""Pampa Almirón"",""LA LIBERTAD AVANZA"",""790"",""767"",""1557""";;;;;;;;;;;
+"0280,""Pampa Almirón"",""NEPAR"",""3"",""5"",""8""";;;;;;;;;;;
+"0280,""Pampa Almirón"",""PARTIDO DEL OBRERO"",""13"",""11"",""24""";;;;;;;;;;;
+"0280,""Pampa Almirón"",""PARTIDO DIGNIDAD POPULAR"",""5"",""4"",""9""";;;;;;;;;;;
+"0280,""Pampa Almirón"",""PARTIDO POLO SOCIAL MOVIMEN"",""1"",""1"",""2""";;;;;;;;;;;
+"0280,""Pampa Almirón"",""PROYECTO SUR"",""4"",""3"",""7""";;;;;;;;;;;
+"0280,""Pampa Almirón"",""TOTALES"",""1473"",""1473"",""2946""";;;;;;;;;;;
+"0280,""Pampa Almirón"",""UNIR"",""4"",""1"",""5""";;;;;;;;;;;
+"0280,""Pampa Almirón"",""VAMOS CHACO"",""14"",""16"",""30""";;;;;;;;;;;
+"0280,""Pampa Almirón"",""VOTOS EN BLANCO"",""26"",""57"",""83""";;;;;;;;;;;
+"0280,""Pampa Almirón"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0280,""Pampa Almirón"",""VOTOS NULOS"",""24"",""18"",""42""";;;;;;;;;;;
+"0280,""Pampa Almirón"",""VOTOS RECURRIDOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0287,""Pampa del Indio"",""FRENTE INTEGRADOR"",""50"",""57"",""107""";;;;;;;;;;;
+"0287,""Pampa del Indio"",""FUERZA PATRIA"",""5923"",""5344"",""11267""";;;;;;;;;;;
+"0287,""Pampa del Indio"",""LA LIBERTAD AVANZA"",""2125"",""2006"",""4131""";;;;;;;;;;;
+"0287,""Pampa del Indio"",""NEPAR"",""329"",""245"",""574""";;;;;;;;;;;
+"0287,""Pampa del Indio"",""PARTIDO DEL OBRERO"",""65"",""55"",""120""";;;;;;;;;;;
+"0287,""Pampa del Indio"",""PARTIDO DIGNIDAD POPULAR"",""42"",""38"",""80""";;;;;;;;;;;
+"0287,""Pampa del Indio"",""PARTIDO POLO SOCIAL MOVIMEN"",""9"",""10"",""19""";;;;;;;;;;;
+"0287,""Pampa del Indio"",""PROYECTO SUR"",""36"",""56"",""92""";;;;;;;;;;;
+"0287,""Pampa del Indio"",""TOTALES"",""9049"",""9049"",""18098""";;;;;;;;;;;
+"0287,""Pampa del Indio"",""UNIR"",""21"",""26"",""47""";;;;;;;;;;;
+"0287,""Pampa del Indio"",""VAMOS CHACO"",""123"",""167"",""290""";;;;;;;;;;;
+"0287,""Pampa del Indio"",""VOTOS EN BLANCO"",""172"",""928"",""1100""";;;;;;;;;;;
+"0287,""Pampa del Indio"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0287,""Pampa del Indio"",""VOTOS NULOS"",""154"",""117"",""271""";;;;;;;;;;;
+"0287,""Pampa del Indio"",""VOTOS RECURRIDOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0021,""Pampa del Infierno"",""FRENTE INTEGRADOR"",""54"",""58"",""112""";;;;;;;;;;;
+"0021,""Pampa del Infierno"",""FUERZA PATRIA"",""2682"",""2500"",""5182""";;;;;;;;;;;
+"0021,""Pampa del Infierno"",""LA LIBERTAD AVANZA"",""3183"",""3041"",""6224""";;;;;;;;;;;
+"0021,""Pampa del Infierno"",""NEPAR"",""55"",""68"",""123""";;;;;;;;;;;
+"0021,""Pampa del Infierno"",""PARTIDO DEL OBRERO"",""31"",""25"",""56""";;;;;;;;;;;
+"0021,""Pampa del Infierno"",""PARTIDO DIGNIDAD POPULAR"",""29"",""24"",""53""";;;;;;;;;;;
+"0021,""Pampa del Infierno"",""PARTIDO POLO SOCIAL MOVIMEN"",""14"",""16"",""30""";;;;;;;;;;;
+"0021,""Pampa del Infierno"",""PROYECTO SUR"",""28"",""26"",""54""";;;;;;;;;;;
+"0021,""Pampa del Infierno"",""TOTALES"",""6419"",""6419"",""12838""";;;;;;;;;;;
+"0021,""Pampa del Infierno"",""UNIR"",""25"",""32"",""57""";;;;;;;;;;;
+"0021,""Pampa del Infierno"",""VAMOS CHACO"",""73"",""86"",""159""";;;;;;;;;;;
+"0021,""Pampa del Infierno"",""VOTOS EN BLANCO"",""150"",""451"",""601""";;;;;;;;;;;
+"0021,""Pampa del Infierno"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0021,""Pampa del Infierno"",""VOTOS NULOS"",""83"",""80"",""163""";;;;;;;;;;;
+"0021,""Pampa del Infierno"",""VOTOS RECURRIDOS"",""12"",""12"",""24""";;;;;;;;;;;
+"0357,""Presidencia de la Plaza"",""FRENTE INTEGRADOR"",""95"",""103"",""198""";;;;;;;;;;;
+"0357,""Presidencia de la Plaza"",""FUERZA PATRIA"",""3577"",""3258"",""6835""";;;;;;;;;;;
+"0357,""Presidencia de la Plaza"",""LA LIBERTAD AVANZA"",""2745"",""2504"",""5249""";;;;;;;;;;;
+"0357,""Presidencia de la Plaza"",""NEPAR"",""31"",""37"",""68""";;;;;;;;;;;
+"0357,""Presidencia de la Plaza"",""PARTIDO DEL OBRERO"",""83"",""66"",""149""";;;;;;;;;;;
+"0357,""Presidencia de la Plaza"",""PARTIDO DIGNIDAD POPULAR"",""40"",""29"",""69""";;;;;;;;;;;
+"0357,""Presidencia de la Plaza"",""PARTIDO POLO SOCIAL MOVIMEN"",""19"",""17"",""36""";;;;;;;;;;;
+"0357,""Presidencia de la Plaza"",""PROYECTO SUR"",""46"",""49"",""95""";;;;;;;;;;;
+"0357,""Presidencia de la Plaza"",""TOTALES"",""7115"",""7115"",""14230""";;;;;;;;;;;
+"0357,""Presidencia de la Plaza"",""UNIR"",""37"",""39"",""76""";;;;;;;;;;;
+"0357,""Presidencia de la Plaza"",""VAMOS CHACO"",""169"",""195"",""364""";;;;;;;;;;;
+"0357,""Presidencia de la Plaza"",""VOTOS EN BLANCO"",""150"",""721"",""871""";;;;;;;;;;;
+"0357,""Presidencia de la Plaza"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0357,""Presidencia de la Plaza"",""VOTOS NULOS"",""123"",""97"",""220""";;;;;;;;;;;
+"0357,""Presidencia de la Plaza"",""VOTOS RECURRIDOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0294,""Presidencia Roca"",""FRENTE INTEGRADOR"",""30"",""26"",""56""";;;;;;;;;;;
+"0294,""Presidencia Roca"",""FUERZA PATRIA"",""1517"",""1466"",""2983""";;;;;;;;;;;
+"0294,""Presidencia Roca"",""LA LIBERTAD AVANZA"",""1361"",""1295"",""2656""";;;;;;;;;;;
+"0294,""Presidencia Roca"",""NEPAR"",""11"",""13"",""24""";;;;;;;;;;;
+"0294,""Presidencia Roca"",""PARTIDO DEL OBRERO"",""21"",""15"",""36""";;;;;;;;;;;
+"0294,""Presidencia Roca"",""PARTIDO DIGNIDAD POPULAR"",""17"",""14"",""31""";;;;;;;;;;;
+"0294,""Presidencia Roca"",""PARTIDO POLO SOCIAL MOVIMEN"",""2"",""1"",""3""";;;;;;;;;;;
+"0294,""Presidencia Roca"",""PROYECTO SUR"",""10"",""10"",""20""";;;;;;;;;;;
+"0294,""Presidencia Roca"",""TOTALES"",""3086"",""3086"",""6172""";;;;;;;;;;;
+"0294,""Presidencia Roca"",""UNIR"",""6"",""7"",""13""";;;;;;;;;;;
+"0294,""Presidencia Roca"",""VAMOS CHACO"",""28"",""36"",""64""";;;;;;;;;;;
+"0294,""Presidencia Roca"",""VOTOS EN BLANCO"",""40"",""163"",""203""";;;;;;;;;;;
+"0294,""Presidencia Roca"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0294,""Presidencia Roca"",""VOTOS NULOS"",""31"",""28"",""59""";;;;;;;;;;;
+"0294,""Presidencia Roca"",""VOTOS RECURRIDOS"",""12"",""12"",""24""";;;;;;;;;;;
+"0077,""Presidencia Roque Sáenz Peña"",""FRENTE INTEGRADOR"",""661"",""931"",""1592""";;;;;;;;;;;
+"0077,""Presidencia Roque Sáenz Peña"",""FUERZA PATRIA"",""22132"",""18849"",""40981""";;;;;;;;;;;
+"0077,""Presidencia Roque Sáenz Peña"",""LA LIBERTAD AVANZA"",""26838"",""24659"",""51497""";;;;;;;;;;;
+"0077,""Presidencia Roque Sáenz Peña"",""NEPAR"",""477"",""472"",""949""";;;;;;;;;;;
+"0077,""Presidencia Roque Sáenz Peña"",""PARTIDO DEL OBRERO"",""1152"",""896"",""2048""";;;;;;;;;;;
+"0077,""Presidencia Roque Sáenz Peña"",""PARTIDO DIGNIDAD POPULAR"",""443"",""487"",""930""";;;;;;;;;;;
+"0077,""Presidencia Roque Sáenz Peña"",""PARTIDO POLO SOCIAL MOVIMEN"",""154"",""183"",""337""";;;;;;;;;;;
+"0077,""Presidencia Roque Sáenz Peña"",""PROYECTO SUR"",""465"",""476"",""941""";;;;;;;;;;;
+"0077,""Presidencia Roque Sáenz Peña"",""TOTALES"",""56503"",""56503"",""113006""";;;;;;;;;;;
+"0077,""Presidencia Roque Sáenz Peña"",""UNIR"",""337"",""405"",""742""";;;;;;;;;;;
+"0077,""Presidencia Roque Sáenz Peña"",""VAMOS CHACO"",""1323"",""1323"",""2646""";;;;;;;;;;;
+"0077,""Presidencia Roque Sáenz Peña"",""VOTOS EN BLANCO"",""1404"",""6931"",""8335""";;;;;;;;;;;
+"0077,""Presidencia Roque Sáenz Peña"",""VOTOS IMPUGNADOS"",""5"",""5"",""10""";;;;;;;;;;;
+"0077,""Presidencia Roque Sáenz Peña"",""VOTOS NULOS"",""1072"",""846"",""1918""";;;;;;;;;;;
+"0077,""Presidencia Roque Sáenz Peña"",""VOTOS RECURRIDOS"",""40"",""40"",""80""";;;;;;;;;;;
+"0063,""Puerto Bermejo"",""FRENTE INTEGRADOR"",""7"",""11"",""18""";;;;;;;;;;;
+"0063,""Puerto Bermejo"",""FUERZA PATRIA"",""669"",""631"",""1300""";;;;;;;;;;;
+"0063,""Puerto Bermejo"",""LA LIBERTAD AVANZA"",""515"",""488"",""1003""";;;;;;;;;;;
+"0063,""Puerto Bermejo"",""NEPAR"",""24"",""35"",""59""";;;;;;;;;;;
+"0063,""Puerto Bermejo"",""PARTIDO DEL OBRERO"",""10"",""4"",""14""";;;;;;;;;;;
+"0063,""Puerto Bermejo"",""PARTIDO DIGNIDAD POPULAR"",""4"",""3"",""7""";;;;;;;;;;;
+"0063,""Puerto Bermejo"",""PARTIDO POLO SOCIAL MOVIMEN"",""3"",""3"",""6""";;;;;;;;;;;
+"0063,""Puerto Bermejo"",""PROYECTO SUR"",""3"",""14"",""17""";;;;;;;;;;;
+"0063,""Puerto Bermejo"",""TOTALES"",""1286"",""1286"",""2572""";;;;;;;;;;;
+"0063,""Puerto Bermejo"",""UNIR"",""8"",""3"",""11""";;;;;;;;;;;
+"0063,""Puerto Bermejo"",""VAMOS CHACO"",""8"",""14"",""22""";;;;;;;;;;;
+"0063,""Puerto Bermejo"",""VOTOS EN BLANCO"",""30"",""75"",""105""";;;;;;;;;;;
+"0063,""Puerto Bermejo"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0063,""Puerto Bermejo"",""VOTOS NULOS"",""5"",""5"",""10""";;;;;;;;;;;
+"0063,""Puerto Bermejo"",""VOTOS RECURRIDOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0070,""Puerto Eva Perón"",""FRENTE INTEGRADOR"",""1"",""1"",""2""";;;;;;;;;;;
+"0070,""Puerto Eva Perón"",""FUERZA PATRIA"",""438"",""417"",""855""";;;;;;;;;;;
+"0070,""Puerto Eva Perón"",""LA LIBERTAD AVANZA"",""210"",""192"",""402""";;;;;;;;;;;
+"0070,""Puerto Eva Perón"",""NEPAR"",""0"",""0"",""0""";;;;;;;;;;;
+"0070,""Puerto Eva Perón"",""PARTIDO DEL OBRERO"",""4"",""2"",""6""";;;;;;;;;;;
+"0070,""Puerto Eva Perón"",""PARTIDO DIGNIDAD POPULAR"",""5"",""4"",""9""";;;;;;;;;;;
+"0070,""Puerto Eva Perón"",""PARTIDO POLO SOCIAL MOVIMEN"",""0"",""0"",""0""";;;;;;;;;;;
+"0070,""Puerto Eva Perón"",""PROYECTO SUR"",""5"",""4"",""9""";;;;;;;;;;;
+"0070,""Puerto Eva Perón"",""TOTALES"",""685"",""685"",""1370""";;;;;;;;;;;
+"0070,""Puerto Eva Perón"",""UNIR"",""1"",""1"",""2""";;;;;;;;;;;
+"0070,""Puerto Eva Perón"",""VAMOS CHACO"",""4"",""3"",""7""";;;;;;;;;;;
+"0070,""Puerto Eva Perón"",""VOTOS EN BLANCO"",""6"",""51"",""57""";;;;;;;;;;;
+"0070,""Puerto Eva Perón"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0070,""Puerto Eva Perón"",""VOTOS NULOS"",""11"",""10"",""21""";;;;;;;;;;;
+"0070,""Puerto Eva Perón"",""VOTOS RECURRIDOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0245,""Puerto Tirol"",""FRENTE INTEGRADOR"",""99"",""153"",""252""";;;;;;;;;;;
+"0245,""Puerto Tirol"",""FUERZA PATRIA"",""2781"",""2335"",""5116""";;;;;;;;;;;
+"0245,""Puerto Tirol"",""LA LIBERTAD AVANZA"",""3322"",""2982"",""6304""";;;;;;;;;;;
+"0245,""Puerto Tirol"",""NEPAR"",""86"",""79"",""165""";;;;;;;;;;;
+"0245,""Puerto Tirol"",""PARTIDO DEL OBRERO"",""124"",""103"",""227""";;;;;;;;;;;
+"0245,""Puerto Tirol"",""PARTIDO DIGNIDAD POPULAR"",""35"",""39"",""74""";;;;;;;;;;;
+"0245,""Puerto Tirol"",""PARTIDO POLO SOCIAL MOVIMEN"",""23"",""24"",""47""";;;;;;;;;;;
+"0245,""Puerto Tirol"",""PROYECTO SUR"",""62"",""67"",""129""";;;;;;;;;;;
+"0245,""Puerto Tirol"",""TOTALES"",""7283"",""7283"",""14566""";;;;;;;;;;;
+"0245,""Puerto Tirol"",""UNIR"",""52"",""44"",""96""";;;;;;;;;;;
+"0245,""Puerto Tirol"",""VAMOS CHACO"",""355"",""632"",""987""";;;;;;;;;;;
+"0245,""Puerto Tirol"",""VOTOS EN BLANCO"",""233"",""724"",""957""";;;;;;;;;;;
+"0245,""Puerto Tirol"",""VOTOS IMPUGNADOS"",""1"",""1"",""2""";;;;;;;;;;;
+"0245,""Puerto Tirol"",""VOTOS NULOS"",""100"",""90"",""190""";;;;;;;;;;;
+"0245,""Puerto Tirol"",""VOTOS RECURRIDOS"",""10"",""10"",""20""";;;;;;;;;;;
+"0406,""Puerto Vilelas"",""FRENTE INTEGRADOR"",""112"",""171"",""283""";;;;;;;;;;;
+"0406,""Puerto Vilelas"",""FUERZA PATRIA"",""4789"",""4407"",""9196""";;;;;;;;;;;
+"0406,""Puerto Vilelas"",""LA LIBERTAD AVANZA"",""3285"",""3042"",""6327""";;;;;;;;;;;
+"0406,""Puerto Vilelas"",""NEPAR"",""46"",""57"",""103""";;;;;;;;;;;
+"0406,""Puerto Vilelas"",""PARTIDO DEL OBRERO"",""124"",""83"",""207""";;;;;;;;;;;
+"0406,""Puerto Vilelas"",""PARTIDO DIGNIDAD POPULAR"",""46"",""46"",""92""";;;;;;;;;;;
+"0406,""Puerto Vilelas"",""PARTIDO POLO SOCIAL MOVIMEN"",""21"",""21"",""42""";;;;;;;;;;;
+"0406,""Puerto Vilelas"",""PROYECTO SUR"",""53"",""71"",""124""";;;;;;;;;;;
+"0406,""Puerto Vilelas"",""TOTALES"",""9045"",""9045"",""18090""";;;;;;;;;;;
+"0406,""Puerto Vilelas"",""UNIR"",""71"",""75"",""146""";;;;;;;;;;;
+"0406,""Puerto Vilelas"",""VAMOS CHACO"",""149"",""167"",""316""";;;;;;;;;;;
+"0406,""Puerto Vilelas"",""VOTOS EN BLANCO"",""169"",""744"",""913""";;;;;;;;;;;
+"0406,""Puerto Vilelas"",""VOTOS IMPUGNADOS"",""6"",""6"",""12""";;;;;;;;;;;
+"0406,""Puerto Vilelas"",""VOTOS NULOS"",""162"",""143"",""305""";;;;;;;;;;;
+"0406,""Puerto Vilelas"",""VOTOS RECURRIDOS"",""12"",""12"",""24""";;;;;;;;;;;
+"0378,""Quitilipi"",""FRENTE INTEGRADOR"",""179"",""258"",""437""";;;;;;;;;;;
+"0378,""Quitilipi"",""FUERZA PATRIA"",""7981"",""7098"",""15079""";;;;;;;;;;;
+"0378,""Quitilipi"",""LA LIBERTAD AVANZA"",""7393"",""6702"",""14095""";;;;;;;;;;;
+"0378,""Quitilipi"",""NEPAR"",""174"",""155"",""329""";;;;;;;;;;;
+"0378,""Quitilipi"",""PARTIDO DEL OBRERO"",""246"",""192"",""438""";;;;;;;;;;;
+"0378,""Quitilipi"",""PARTIDO DIGNIDAD POPULAR"",""239"",""177"",""416""";;;;;;;;;;;
+"0378,""Quitilipi"",""PARTIDO POLO SOCIAL MOVIMEN"",""33"",""45"",""78""";;;;;;;;;;;
+"0378,""Quitilipi"",""PROYECTO SUR"",""147"",""135"",""282""";;;;;;;;;;;
+"0378,""Quitilipi"",""TOTALES"",""17624"",""17624"",""35248""";;;;;;;;;;;
+"0378,""Quitilipi"",""UNIR"",""99"",""127"",""226""";;;;;;;;;;;
+"0378,""Quitilipi"",""VAMOS CHACO"",""381"",""377"",""758""";;;;;;;;;;;
+"0378,""Quitilipi"",""VOTOS EN BLANCO"",""477"",""2121"",""2598""";;;;;;;;;;;
+"0378,""Quitilipi"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0378,""Quitilipi"",""VOTOS NULOS"",""267"",""229"",""496""";;;;;;;;;;;
+"0378,""Quitilipi"",""VOTOS RECURRIDOS"",""8"",""8"",""16""";;;;;;;;;;;
+"0413,""Resistencia"",""FRENTE INTEGRADOR"",""3730"",""6508"",""10238""";;;;;;;;;;;
+"0413,""Resistencia"",""FUERZA PATRIA"",""61236"",""51118"",""112354""";;;;;;;;;;;
+"0413,""Resistencia"",""LA LIBERTAD AVANZA"",""94840"",""85983"",""180823""";;;;;;;;;;;
+"0413,""Resistencia"",""NEPAR"",""1475"",""1550"",""3025""";;;;;;;;;;;
+"0413,""Resistencia"",""PARTIDO DEL OBRERO"",""4144"",""3246"",""7390""";;;;;;;;;;;
+"0413,""Resistencia"",""PARTIDO DIGNIDAD POPULAR"",""994"",""880"",""1874""";;;;;;;;;;;
+"0413,""Resistencia"",""PARTIDO POLO SOCIAL MOVIMEN"",""564"",""687"",""1251""";;;;;;;;;;;
+"0413,""Resistencia"",""PROYECTO SUR"",""1669"",""3073"",""4742""";;;;;;;;;;;
+"0413,""Resistencia"",""TOTALES"",""182315"",""182315"",""364630""";;;;;;;;;;;
+"0413,""Resistencia"",""UNIR"",""1529"",""1630"",""3159""";;;;;;;;;;;
+"0413,""Resistencia"",""VAMOS CHACO"",""5291"",""5609"",""10900""";;;;;;;;;;;
+"0413,""Resistencia"",""VOTOS EN BLANCO"",""3639"",""19198"",""22837""";;;;;;;;;;;
+"0413,""Resistencia"",""VOTOS IMPUGNADOS"",""10"",""10"",""20""";;;;;;;;;;;
+"0413,""Resistencia"",""VOTOS NULOS"",""2989"",""2618"",""5607""";;;;;;;;;;;
+"0413,""Resistencia"",""VOTOS RECURRIDOS"",""205"",""205"",""410""";;;;;;;;;;;
+"0420,""Samuhú"",""FRENTE INTEGRADOR"",""3"",""5"",""8""";;;;;;;;;;;
+"0420,""Samuhú"",""FUERZA PATRIA"",""719"",""697"",""1416""";;;;;;;;;;;
+"0420,""Samuhú"",""LA LIBERTAD AVANZA"",""327"",""307"",""634""";;;;;;;;;;;
+"0420,""Samuhú"",""NEPAR"",""4"",""2"",""6""";;;;;;;;;;;
+"0420,""Samuhú"",""PARTIDO DEL OBRERO"",""3"",""3"",""6""";;;;;;;;;;;
+"0420,""Samuhú"",""PARTIDO DIGNIDAD POPULAR"",""7"",""7"",""14""";;;;;;;;;;;
+"0420,""Samuhú"",""PARTIDO POLO SOCIAL MOVIMEN"",""1"",""1"",""2""";;;;;;;;;;;
+"0420,""Samuhú"",""PROYECTO SUR"",""1"",""1"",""2""";;;;;;;;;;;
+"0420,""Samuhú"",""TOTALES"",""1114"",""1114"",""2228""";;;;;;;;;;;
+"0420,""Samuhú"",""UNIR"",""2"",""3"",""5""";;;;;;;;;;;
+"0420,""Samuhú"",""VAMOS CHACO"",""6"",""10"",""16""";;;;;;;;;;;
+"0420,""Samuhú"",""VOTOS EN BLANCO"",""18"",""62"",""80""";;;;;;;;;;;
+"0420,""Samuhú"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0420,""Samuhú"",""VOTOS NULOS"",""23"",""16"",""39""";;;;;;;;;;;
+"0420,""Samuhú"",""VOTOS RECURRIDOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0350,""San Bernardo"",""FRENTE INTEGRADOR"",""68"",""84"",""152""";;;;;;;;;;;
+"0350,""San Bernardo"",""FUERZA PATRIA"",""3536"",""3285"",""6821""";;;;;;;;;;;
+"0350,""San Bernardo"",""LA LIBERTAD AVANZA"",""2301"",""2148"",""4449""";;;;;;;;;;;
+"0350,""San Bernardo"",""NEPAR"",""43"",""45"",""88""";;;;;;;;;;;
+"0350,""San Bernardo"",""PARTIDO DEL OBRERO"",""48"",""37"",""85""";;;;;;;;;;;
+"0350,""San Bernardo"",""PARTIDO DIGNIDAD POPULAR"",""31"",""38"",""69""";;;;;;;;;;;
+"0350,""San Bernardo"",""PARTIDO POLO SOCIAL MOVIMEN"",""6"",""11"",""17""";;;;;;;;;;;
+"0350,""San Bernardo"",""PROYECTO SUR"",""23"",""39"",""62""";;;;;;;;;;;
+"0350,""San Bernardo"",""TOTALES"",""6411"",""6411"",""12822""";;;;;;;;;;;
+"0350,""San Bernardo"",""UNIR"",""22"",""27"",""49""";;;;;;;;;;;
+"0350,""San Bernardo"",""VAMOS CHACO"",""112"",""114"",""226""";;;;;;;;;;;
+"0350,""San Bernardo"",""VOTOS EN BLANCO"",""121"",""502"",""623""";;;;;;;;;;;
+"0350,""San Bernardo"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0350,""San Bernardo"",""VOTOS NULOS"",""100"",""81"",""181""";;;;;;;;;;;
+"0350,""San Bernardo"",""VOTOS RECURRIDOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0126,""Santa Sylvina"",""FRENTE INTEGRADOR"",""45"",""49"",""94""";;;;;;;;;;;
+"0126,""Santa Sylvina"",""FUERZA PATRIA"",""2382"",""2185"",""4567""";;;;;;;;;;;
+"0126,""Santa Sylvina"",""LA LIBERTAD AVANZA"",""2562"",""2370"",""4932""";;;;;;;;;;;
+"0126,""Santa Sylvina"",""NEPAR"",""31"",""28"",""59""";;;;;;;;;;;
+"0126,""Santa Sylvina"",""PARTIDO DEL OBRERO"",""52"",""37"",""89""";;;;;;;;;;;
+"0126,""Santa Sylvina"",""PARTIDO DIGNIDAD POPULAR"",""25"",""21"",""46""";;;;;;;;;;;
+"0126,""Santa Sylvina"",""PARTIDO POLO SOCIAL MOVIMEN"",""7"",""5"",""12""";;;;;;;;;;;
+"0126,""Santa Sylvina"",""PROYECTO SUR"",""22"",""27"",""49""";;;;;;;;;;;
+"0126,""Santa Sylvina"",""TOTALES"",""5424"",""5424"",""10848""";;;;;;;;;;;
+"0126,""Santa Sylvina"",""UNIR"",""24"",""30"",""54""";;;;;;;;;;;
+"0126,""Santa Sylvina"",""VAMOS CHACO"",""80"",""81"",""161""";;;;;;;;;;;
+"0126,""Santa Sylvina"",""VOTOS EN BLANCO"",""99"",""508"",""607""";;;;;;;;;;;
+"0126,""Santa Sylvina"",""VOTOS IMPUGNADOS"",""1"",""1"",""2""";;;;;;;;;;;
+"0126,""Santa Sylvina"",""VOTOS NULOS"",""93"",""81"",""174""";;;;;;;;;;;
+"0126,""Santa Sylvina"",""VOTOS RECURRIDOS"",""1"",""1"",""2""";;;;;;;;;;;
+"0028,""Taco Pozo"",""FRENTE INTEGRADOR"",""22"",""25"",""47""";;;;;;;;;;;
+"0028,""Taco Pozo"",""FUERZA PATRIA"",""3949"",""3700"",""7649""";;;;;;;;;;;
+"0028,""Taco Pozo"",""LA LIBERTAD AVANZA"",""1692"",""1589"",""3281""";;;;;;;;;;;
+"0028,""Taco Pozo"",""NEPAR"",""36"",""34"",""70""";;;;;;;;;;;
+"0028,""Taco Pozo"",""PARTIDO DEL OBRERO"",""23"",""21"",""44""";;;;;;;;;;;
+"0028,""Taco Pozo"",""PARTIDO DIGNIDAD POPULAR"",""18"",""18"",""36""";;;;;;;;;;;
+"0028,""Taco Pozo"",""PARTIDO POLO SOCIAL MOVIMEN"",""11"",""12"",""23""";;;;;;;;;;;
+"0028,""Taco Pozo"",""PROYECTO SUR"",""18"",""16"",""34""";;;;;;;;;;;
+"0028,""Taco Pozo"",""TOTALES"",""6032"",""6032"",""12064""";;;;;;;;;;;
+"0028,""Taco Pozo"",""UNIR"",""21"",""18"",""39""";;;;;;;;;;;
+"0028,""Taco Pozo"",""VAMOS CHACO"",""51"",""55"",""106""";;;;;;;;;;;
+"0028,""Taco Pozo"",""VOTOS EN BLANCO"",""69"",""438"",""507""";;;;;;;;;;;
+"0028,""Taco Pozo"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0028,""Taco Pozo"",""VOTOS NULOS"",""122"",""106"",""228""";;;;;;;;;;;
+"0028,""Taco Pozo"",""VOTOS RECURRIDOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0301,""Tres Isletas"",""FRENTE INTEGRADOR"",""129"",""161"",""290""";;;;;;;;;;;
+"0301,""Tres Isletas"",""FUERZA PATRIA"",""6578"",""6011"",""12589""";;;;;;;;;;;
+"0301,""Tres Isletas"",""LA LIBERTAD AVANZA"",""4608"",""4288"",""8896""";;;;;;;;;;;
+"0301,""Tres Isletas"",""NEPAR"",""140"",""132"",""272""";;;;;;;;;;;
+"0301,""Tres Isletas"",""PARTIDO DEL OBRERO"",""135"",""95"",""230""";;;;;;;;;;;
+"0301,""Tres Isletas"",""PARTIDO DIGNIDAD POPULAR"",""86"",""84"",""170""";;;;;;;;;;;
+"0301,""Tres Isletas"",""PARTIDO POLO SOCIAL MOVIMEN"",""27"",""26"",""53""";;;;;;;;;;;
+"0301,""Tres Isletas"",""PROYECTO SUR"",""184"",""140"",""324""";;;;;;;;;;;
+"0301,""Tres Isletas"",""TOTALES"",""12652"",""12652"",""25304""";;;;;;;;;;;
+"0301,""Tres Isletas"",""UNIR"",""60"",""67"",""127""";;;;;;;;;;;
+"0301,""Tres Isletas"",""VAMOS CHACO"",""225"",""248"",""473""";;;;;;;;;;;
+"0301,""Tres Isletas"",""VOTOS EN BLANCO"",""279"",""1238"",""1517""";;;;;;;;;;;
+"0301,""Tres Isletas"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0301,""Tres Isletas"",""VOTOS NULOS"",""180"",""141"",""321""";;;;;;;;;;;
+"0301,""Tres Isletas"",""VOTOS RECURRIDOS"",""21"",""21"",""42""";;;;;;;;;;;
+"0322,""Villa Ángela"",""FRENTE INTEGRADOR"",""449"",""546"",""995""";;;;;;;;;;;
+"0322,""Villa Ángela"",""FUERZA PATRIA"",""10807"",""9084"",""19891""";;;;;;;;;;;
+"0322,""Villa Ángela"",""LA LIBERTAD AVANZA"",""11334"",""10141"",""21475""";;;;;;;;;;;
+"0322,""Villa Ángela"",""NEPAR"",""251"",""261"",""512""";;;;;;;;;;;
+"0322,""Villa Ángela"",""PARTIDO DEL OBRERO"",""554"",""387"",""941""";;;;;;;;;;;
+"0322,""Villa Ángela"",""PARTIDO DIGNIDAD POPULAR"",""223"",""212"",""435""";;;;;;;;;;;
+"0322,""Villa Ángela"",""PARTIDO POLO SOCIAL MOVIMEN"",""102"",""166"",""268""";;;;;;;;;;;
+"0322,""Villa Ángela"",""PROYECTO SUR"",""248"",""341"",""589""";;;;;;;;;;;
+"0322,""Villa Ángela"",""TOTALES"",""26199"",""26199"",""52398""";;;;;;;;;;;
+"0322,""Villa Ángela"",""UNIR"",""216"",""250"",""466""";;;;;;;;;;;
+"0322,""Villa Ángela"",""VAMOS CHACO"",""712"",""661"",""1373""";;;;;;;;;;;
+"0322,""Villa Ángela"",""VOTOS EN BLANCO"",""785"",""3693"",""4478""";;;;;;;;;;;
+"0322,""Villa Ángela"",""VOTOS IMPUGNADOS"",""1"",""1"",""2""";;;;;;;;;;;
+"0322,""Villa Ángela"",""VOTOS NULOS"",""508"",""447"",""955""";;;;;;;;;;;
+"0322,""Villa Ángela"",""VOTOS RECURRIDOS"",""9"",""9"",""18""";;;;;;;;;;;
+"0427,""Villa Berthet"",""FRENTE INTEGRADOR"",""54"",""55"",""109""";;;;;;;;;;;
+"0427,""Villa Berthet"",""FUERZA PATRIA"",""4958"",""4657"",""9615""";;;;;;;;;;;
+"0427,""Villa Berthet"",""LA LIBERTAD AVANZA"",""2348"",""2296"",""4644""";;;;;;;;;;;
+"0427,""Villa Berthet"",""NEPAR"",""166"",""53"",""219""";;;;;;;;;;;
+"0427,""Villa Berthet"",""PARTIDO DEL OBRERO"",""76"",""66"",""142""";;;;;;;;;;;
+"0427,""Villa Berthet"",""PARTIDO DIGNIDAD POPULAR"",""57"",""63"",""120""";;;;;;;;;;;
+"0427,""Villa Berthet"",""PARTIDO POLO SOCIAL MOVIMEN"",""22"",""24"",""46""";;;;;;;;;;;
+"0427,""Villa Berthet"",""PROYECTO SUR"",""50"",""52"",""102""";;;;;;;;;;;
+"0427,""Villa Berthet"",""TOTALES"",""8266"",""8266"",""16532""";;;;;;;;;;;
+"0427,""Villa Berthet"",""UNIR"",""35"",""43"",""78""";;;;;;;;;;;
+"0427,""Villa Berthet"",""VAMOS CHACO"",""143"",""131"",""274""";;;;;;;;;;;
+"0427,""Villa Berthet"",""VOTOS EN BLANCO"",""182"",""672"",""854""";;;;;;;;;;;
+"0427,""Villa Berthet"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0427,""Villa Berthet"",""VOTOS NULOS"",""167"",""146"",""313""";;;;;;;;;;;
+"0427,""Villa Berthet"",""VOTOS RECURRIDOS"",""8"",""8"",""16""";;;;;;;;;;;
+"0203,""Villa Río Bermejito"",""FRENTE INTEGRADOR"",""22"",""32"",""54""";;;;;;;;;;;
+"0203,""Villa Río Bermejito"",""FUERZA PATRIA"",""3648"",""3344"",""6992""";;;;;;;;;;;
+"0203,""Villa Río Bermejito"",""LA LIBERTAD AVANZA"",""1263"",""1139"",""2402""";;;;;;;;;;;
+"0203,""Villa Río Bermejito"",""NEPAR"",""135"",""125"",""260""";;;;;;;;;;;
+"0203,""Villa Río Bermejito"",""PARTIDO DEL OBRERO"",""34"",""25"",""59""";;;;;;;;;;;
+"0203,""Villa Río Bermejito"",""PARTIDO DIGNIDAD POPULAR"",""29"",""24"",""53""";;;;;;;;;;;
+"0203,""Villa Río Bermejito"",""PARTIDO POLO SOCIAL MOVIMEN"",""6"",""8"",""14""";;;;;;;;;;;
+"0203,""Villa Río Bermejito"",""PROYECTO SUR"",""20"",""15"",""35""";;;;;;;;;;;
+"0203,""Villa Río Bermejito"",""TOTALES"",""5480"",""5480"",""10960""";;;;;;;;;;;
+"0203,""Villa Río Bermejito"",""UNIR"",""5"",""5"",""10""";;;;;;;;;;;
+"0203,""Villa Río Bermejito"",""VAMOS CHACO"",""107"",""112"",""219""";;;;;;;;;;;
+"0203,""Villa Río Bermejito"",""VOTOS EN BLANCO"",""82"",""548"",""630""";;;;;;;;;;;
+"0203,""Villa Río Bermejito"",""VOTOS IMPUGNADOS"",""0"",""0"",""0""";;;;;;;;;;;
+"0203,""Villa Río Bermejito"",""VOTOS NULOS"",""129"",""103"",""232""";;;;;;;;;;;
+"0203,""Villa Río Bermejito"",""VOTOS RECURRIDOS"",""0"",""0"",""0""";;;;;;;;;;;
+"NULL,NULL,""FRENTE INTEGRADOR"",""13"",""14"",""27""";;;;;;;;;;;
+"NULL,NULL,""FUERZA PATRIA"",""474"",""328"",""802""";;;;;;;;;;;
+"NULL,NULL,""LA LIBERTAD AVANZA"",""331"",""304"",""635""";;;;;;;;;;;
+"NULL,NULL,""NEPAR"",""9"",""10"",""19""";;;;;;;;;;;
+"NULL,NULL,""PARTIDO DEL OBRERO"",""20"",""17"",""37""";;;;;;;;;;;
+"NULL,NULL,""PARTIDO DIGNIDAD POPULAR"",""8"",""7"",""15""";;;;;;;;;;;
+"NULL,NULL,""PARTIDO POLO SOCIAL MOVIMEN"",""3"",""6"",""9""";;;;;;;;;;;
+"NULL,NULL,""PROYECTO SUR"",""15"",""18"",""33""";;;;;;;;;;;
+"NULL,NULL,""TOTALES"",""569"",""569"",""1138""";;;;;;;;;;;
+"NULL,NULL,""UNIR"",""5"",""7"",""12""";;;;;;;;;;;
+"NULL,NULL,""VAMOS CHACO"",""22"",""29"",""51""";;;;;;;;;;;
+"NULL,NULL,""VOTOS EN BLANCO"",""61"",""267"",""328""";;;;;;;;;;;
+"NULL,NULL,""VOTOS IMPUGNADOS"",""-29"",""-29"",""-58""";;;;;;;;;;;
+"NULL,NULL,""VOTOS NULOS"",""209"",""163"",""372""";;;;;;;;;;;
+"NULL,NULL,""VOTOS RECURRIDOS"",""-572"",""-572"",""-1144""";;;;;;;;;;;
